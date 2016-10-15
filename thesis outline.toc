@@ -62,7 +62,7 @@
 \contentsline {subsection}{\numberline {3.3.3}System Building - Data display}{52}
 \contentsline {subsubsection}{Setting a procedure}{52}
 \contentsline {chapter}{\numberline {4}Case study}{54}
-\contentsline {section}{\numberline {4.1}Background}{55}
+\contentsline {section}{\numberline {4.1}Belgrade - a City in Constant Transition}{55}
 \contentsline {subsection}{\numberline {4.1.1}Savamala}{56}
 \contentsline {section}{\numberline {4.2}Stimulants and deterrents of decision-making tradition in Belgrade}{57}
 \contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{57}
