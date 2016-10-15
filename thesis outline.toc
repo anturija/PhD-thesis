@@ -1,0 +1,95 @@
+\contentsline {chapter}{Abstract}{i}
+\contentsline {chapter}{List of Figures}{v}
+\contentsline {chapter}{List of Tabes}{vi}
+\contentsline {chapter}{Declaration Of Authorship}{vii}
+\contentsline {chapter}{Acknowledgements}{viii}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Field of Study}{2}
+\contentsline {subsection}{\numberline {1.1.1}Background}{5}
+\contentsline {subsection}{\numberline {1.1.2}Problem statement}{9}
+\contentsline {section}{\numberline {1.2}Thesis Aims and Scope}{11}
+\contentsline {subsection}{\numberline {1.2.1}Research Objectives}{11}
+\contentsline {subsubsection}{RO1}{11}
+\contentsline {subsubsection}{RO2}{11}
+\contentsline {subsubsection}{RO3}{12}
+\contentsline {subsection}{\numberline {1.2.2}Overall Research Question}{12}
+\contentsline {subsection}{\numberline {1.2.3}Main Concepts}{12}
+\contentsline {subsection}{\numberline {1.2.4}Methodological justification}{15}
+\contentsline {section}{\numberline {1.3}Contribution}{16}
+\contentsline {section}{\numberline {1.4}Thesis Structure}{17}
+\contentsline {chapter}{\numberline {2}Literature Review}{18}
+\contentsline {section}{\numberline {2.1}Conceptual Framework}{18}
+\contentsline {subsection}{\numberline {2.1.1}New conceptualization of urban development}{18}
+\contentsline {subsubsection}{An Urban Development Process in an Ordinary City}{20}
+\contentsline {subsection}{\numberline {2.1.2}The Constitution of Urban Key Agents/Urban Agency}{20}
+\contentsline {subsubsection}{Socio-spatial patterns of a post-socialist city}{20}
+\contentsline {subsection}{\numberline {2.1.3}The Morphology of Urban Decision Making}{21}
+\contentsline {subsection}{\numberline {2.1.4}How to frame urbanity to grasp system dynamics}{21}
+\contentsline {section}{\numberline {2.2}Epistemological Framework}{24}
+\contentsline {subsection}{\numberline {2.2.1}ANT in analysis of urban development}{25}
+\contentsline {subsection}{\numberline {2.2.2}Multi-Agent System}{27}
+\contentsline {section}{\numberline {2.3}Theoretical Framework}{29}
+\contentsline {paragraph}{general - social sciences}{29}
+\contentsline {paragraph}{urban studies}{29}
+\contentsline {subparagraph}{urban development}{29}
+\contentsline {subparagraph}{decision making}{29}
+\contentsline {subparagraph}{urbanity}{29}
+\contentsline {chapter}{\numberline {3}Methodology}{30}
+\contentsline {section}{\numberline {3.1}Research Framework}{30}
+\contentsline {subsection}{\numberline {3.1.1}Context-specific Research Questions}{32}
+\contentsline {subsubsection}{RQ1}{32}
+\contentsline {subsubsection}{RQ2}{32}
+\contentsline {subsubsection}{RQ3}{33}
+\contentsline {subsection}{\numberline {3.1.2}Research Hypotheses}{33}
+\contentsline {subsubsection}{H1}{33}
+\contentsline {subsubsection}{H2}{33}
+\contentsline {subsubsection}{H3}{34}
+\contentsline {section}{\numberline {3.2}Research Design}{34}
+\contentsline {subsection}{\numberline {3.2.1}Case study}{35}
+\contentsline {subsection}{\numberline {3.2.2}Case study selection}{38}
+\contentsline {subsection}{\numberline {3.2.3}Local Context of the Savamala Neighbourhood Case Study}{40}
+\contentsline {section}{\numberline {3.3}Adopted Methodology}{40}
+\contentsline {subsection}{\numberline {3.3.1}Savamala Case study - Data collection}{41}
+\contentsline {subsubsection}{Qualitative inquiry}{42}
+\contentsline {paragraph}{(1) Documentary analysis}{43}
+\contentsline {paragraph}{(2) Preliminary interviews}{44}
+\contentsline {paragraph}{(3) Workshops}{45}
+\contentsline {paragraph}{(4) On-line Surveys}{46}
+\contentsline {paragraph}{(5) In-dept Interviews}{47}
+\contentsline {subsection}{\numberline {3.3.2}ANT and MAS approaches - Data analysis}{47}
+\contentsline {subsubsection}{ANT Discourse analysis}{48}
+\contentsline {subsubsection}{Structural analysis}{51}
+\contentsline {subsection}{\numberline {3.3.3}System Building - Data display}{52}
+\contentsline {subsubsection}{Setting a procedure}{52}
+\contentsline {chapter}{\numberline {4}Case study}{54}
+\contentsline {section}{\numberline {4.1}Background}{55}
+\contentsline {subsection}{\numberline {4.1.1}Savamala}{56}
+\contentsline {section}{\numberline {4.2}Stimulants and deterrents of decision-making tradition in Belgrade}{57}
+\contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{57}
+\contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in a Post-socialist City}{59}
+\contentsline {section}{\numberline {4.3}Dynamism of bottom-up urban agency in Savamala}{60}
+\contentsline {subsection}{\numberline {4.3.1}Network of civic engagement}{62}
+\contentsline {chapter}{\numberline {5}ANT Data Analysis}{63}
+\contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{63}
+\contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{65}
+\contentsline {chapter}{\numberline {6}MAS System Building}{66}
+\contentsline {section}{\numberline {6.1}Profiling the agents}{66}
+\contentsline {chapter}{\numberline {7}MAS-ANT data display}{67}
+\contentsline {section}{\numberline {7.1}Body of urban relations: Urban Development dynamics}{67}
+\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{67}
+\contentsline {chapter}{\numberline {8}Conclusions}{69}
+\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{69}
+\contentsline {subsubsection}{[..] to the research objectives}{69}
+\contentsline {subsection}{\numberline {8.1.1}[..] to the research questions}{69}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the methodological approach}{69}
+\contentsline {paragraph}{ANT}{69}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{72}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{72}
+\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{72}
+\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{72}
+\contentsline {subsection}{\numberline {8.2.4}Urbanity}{73}
+\contentsline {section}{\numberline {8.3}Practical Implications}{73}
+\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{74}
+\contentsline {section}{\numberline {8.4}Limitations of the research}{74}
+\contentsline {section}{\numberline {8.5}Future Prospects}{75}
+\contentsline {chapter}{Bibliography}{75}
