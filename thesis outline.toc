@@ -62,13 +62,14 @@
 \contentsline {subsection}{\numberline {3.3.3}System Building - Data display}{52}
 \contentsline {subsubsection}{Setting a procedure}{52}
 \contentsline {chapter}{\numberline {4}Case study}{54}
-\contentsline {section}{\numberline {4.1}Belgrade - a City in Constant Transition}{55}
-\contentsline {subsection}{\numberline {4.1.1}Savamala}{56}
-\contentsline {section}{\numberline {4.2}Stimulants and deterrents of decision-making tradition in Belgrade}{58}
-\contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{58}
-\contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in a Post-socialist City}{60}
-\contentsline {section}{\numberline {4.3}Dynamism of bottom-up urban agency in Savamala}{61}
-\contentsline {subsection}{\numberline {4.3.1}Network of civic engagement}{63}
+\contentsline {section}{\numberline {4.1}The state of society and the urban}{54}
+\contentsline {section}{\numberline {4.2}Belgrade - a City in Constant Transition}{54}
+\contentsline {subsection}{\numberline {4.2.1}Savamala}{56}
+\contentsline {section}{\numberline {4.3}Dynamism of urban agency in Savamala}{58}
+\contentsline {section}{\numberline {4.4}Stimulants and deterrents of decision-making tradition in Belgrade}{58}
+\contentsline {subsection}{\numberline {4.4.1}Top-down management of urban issues}{58}
+\contentsline {subsection}{\numberline {4.4.2}Legitimacy of Interests in a Post-socialist City}{60}
+\contentsline {subsection}{\numberline {4.4.3}Network of civic engagement}{61}
 \contentsline {chapter}{\numberline {5}ANT Data Analysis}{65}
 \contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{65}
 \contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{67}
