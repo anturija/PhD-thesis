@@ -24,15 +24,15 @@
 \contentsline {subsection}{\numberline {2.1.2}The Constitution of Urban Key Agents/Urban Agency}{20}
 \contentsline {subsubsection}{Socio-spatial patterns of a post-socialist city}{20}
 \contentsline {subsection}{\numberline {2.1.3}The Morphology of Urban Decision Making}{21}
-\contentsline {subsection}{\numberline {2.1.4}How to frame urbanity to grasp system dynamics}{21}
+\contentsline {subsection}{\numberline {2.1.4}How to frame urbanity to grasp system dynamics}{22}
 \contentsline {section}{\numberline {2.2}Epistemological Framework}{24}
 \contentsline {subsection}{\numberline {2.2.1}ANT in analysis of urban development}{25}
 \contentsline {subsection}{\numberline {2.2.2}Multi-Agent System}{28}
-\contentsline {section}{\numberline {2.3}Theoretical Framework}{29}
-\contentsline {paragraph}{general - social sciences}{29}
-\contentsline {paragraph}{urban studies}{29}
-\contentsline {subparagraph}{urban development}{29}
-\contentsline {subparagraph}{decision making}{29}
+\contentsline {section}{\numberline {2.3}Theoretical Framework}{30}
+\contentsline {paragraph}{general - social sciences}{30}
+\contentsline {paragraph}{urban studies}{30}
+\contentsline {subparagraph}{urban development}{30}
+\contentsline {subparagraph}{decision making}{30}
 \contentsline {subparagraph}{urbanity}{30}
 \contentsline {chapter}{\numberline {3}Methodology}{31}
 \contentsline {section}{\numberline {3.1}Research Framework}{31}
@@ -68,29 +68,29 @@
 \contentsline {section}{\numberline {4.2}Dynamism of urban agency in Savamala}{59}
 \contentsline {section}{\numberline {4.3}Stimulants and deterrents of decision-making tradition in Belgrade}{59}
 \contentsline {subsection}{\numberline {4.3.1}Top-down management of urban issues}{60}
-\contentsline {subsection}{\numberline {4.3.2}Legitimacy of Interests in a Post-socialist City}{61}
-\contentsline {subsection}{\numberline {4.3.3}Network of civic engagement}{62}
-\contentsline {chapter}{\numberline {5}ANT Data Analysis}{67}
-\contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{67}
-\contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{69}
-\contentsline {chapter}{\numberline {6}MAS System Building}{72}
-\contentsline {section}{\numberline {6.1}Profiling the agents}{72}
-\contentsline {chapter}{\numberline {7}MAS-ANT data display}{76}
-\contentsline {section}{\numberline {7.1}Body of urban relations: Urban Development dynamics}{76}
-\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{80}
-\contentsline {chapter}{\numberline {8}Conclusions}{82}
-\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{82}
-\contentsline {subsubsection}{[..] to the research objectives}{82}
-\contentsline {subsection}{\numberline {8.1.1}[..] to the research questions}{83}
-\contentsline {subsection}{\numberline {8.1.2}[..] to the methodological approach}{83}
-\contentsline {paragraph}{ANT}{83}
-\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{85}
-\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{86}
-\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{86}
-\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{86}
-\contentsline {subsection}{\numberline {8.2.4}Urbanity}{88}
-\contentsline {section}{\numberline {8.3}Practical Implications}{88}
-\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{89}
-\contentsline {section}{\numberline {8.4}Limitations of the research}{90}
-\contentsline {section}{\numberline {8.5}Future Prospects}{90}
-\contentsline {chapter}{Bibliography}{90}
+\contentsline {subsection}{\numberline {4.3.2}Legitimacy of Interests in a Post-socialist City}{63}
+\contentsline {subsection}{\numberline {4.3.3}Network of civic engagement}{64}
+\contentsline {chapter}{\numberline {5}ANT Data Analysis}{69}
+\contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{69}
+\contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{71}
+\contentsline {chapter}{\numberline {6}MAS System Building}{74}
+\contentsline {section}{\numberline {6.1}Profiling the agents}{74}
+\contentsline {chapter}{\numberline {7}MAS-ANT data display}{78}
+\contentsline {section}{\numberline {7.1}Body of urban relations: Urban Development dynamics}{78}
+\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{82}
+\contentsline {chapter}{\numberline {8}Conclusions}{84}
+\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{84}
+\contentsline {subsubsection}{[..] to the research objectives}{84}
+\contentsline {subsection}{\numberline {8.1.1}[..] to the research questions}{85}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the methodological approach}{85}
+\contentsline {paragraph}{ANT}{85}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{87}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{88}
+\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{88}
+\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{88}
+\contentsline {subsection}{\numberline {8.2.4}Urbanity}{90}
+\contentsline {section}{\numberline {8.3}Practical Implications}{90}
+\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{91}
+\contentsline {section}{\numberline {8.4}Limitations of the research}{92}
+\contentsline {section}{\numberline {8.5}Future Prospects}{92}
+\contentsline {chapter}{Bibliography}{92}
