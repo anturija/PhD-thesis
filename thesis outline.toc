@@ -65,12 +65,15 @@
 \contentsline {subsubsection}{Setting a procedure}{55}
 \contentsline {chapter}{\numberline {4}Case study: Belgrade - Savamala}{57}
 \contentsline {section}{\numberline {4.1}The State of the Society and the Urban}{57}
-\contentsline {subsection}{\numberline {4.1.1}Belgrade - a City in Constant Transition}{66}
-\contentsline {subsection}{\numberline {4.1.2}Savamala}{72}
-\contentsline {section}{\numberline {4.2}Stimulants and deterrents of urban decision-making tradition in Savamala and Belgrade}{74}
+\contentsline {paragraph}{Ottomans}{58}
+\contentsline {paragraph}{The Serbian State}{59}
+\contentsline {paragraph}{SFRY}{61}
+\contentsline {subsection}{\numberline {4.1.1}Belgrade - a City in Constant Transition}{67}
+\contentsline {subsection}{\numberline {4.1.2}Savamala}{73}
+\contentsline {section}{\numberline {4.2}Stimulants and deterrents of urban decision-making tradition in Savamala and Belgrade}{75}
 \contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{75}
 \contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in a Post-socialist City}{82}
-\contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{85}
+\contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{86}
 \contentsline {chapter}{\numberline {5}ANT Data Analysis}{90}
 \contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{90}
 \contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{94}
