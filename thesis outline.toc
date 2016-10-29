@@ -70,11 +70,11 @@
 \contentsline {paragraph}{SFRY}{61}
 \contentsline {paragraph}{Post-communism}{64}
 \contentsline {subsection}{\numberline {4.1.1}Belgrade - a City in Constant Transition}{68}
-\contentsline {subsection}{\numberline {4.1.2}Savamala}{73}
-\contentsline {section}{\numberline {4.2}Stimulants and deterrents of urban decision-making tradition in Savamala and Belgrade}{75}
-\contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{76}
+\contentsline {subsection}{\numberline {4.1.2}Savamala}{74}
+\contentsline {section}{\numberline {4.2}Stimulants and deterrents of urban decision-making tradition in Savamala and Belgrade}{76}
+\contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{77}
 \contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in a Post-socialist City}{83}
-\contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{86}
+\contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{87}
 \contentsline {chapter}{\numberline {5}ANT Data Analysis}{91}
 \contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{91}
 \contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{95}
