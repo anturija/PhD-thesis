@@ -71,41 +71,40 @@
 \contentsline {paragraph}{Urban Agendas, Institutions, Practice}{71}
 \contentsline {subsubsection}{Urbanity of Serbian cities}{72}
 \contentsline {subsection}{\numberline {4.1.2}Belgrade - a City in Constant Transition}{73}
-\contentsline {paragraph}{Romans}{75}
 \contentsline {paragraph}{Ottoman Belgrade}{75}
-\contentsline {paragraph}{Belgrade (1804-1940)}{75}
+\contentsline {paragraph}{Belgrade (1804-1940)}{76}
 \contentsline {paragraph}{Yugoslavia}{78}
 \contentsline {paragraph}{Post-communist}{79}
-\contentsline {subsubsection}{Belgrade Now}{79}
-\contentsline {subsection}{\numberline {4.1.3}Savamala}{82}
-\contentsline {section}{\numberline {4.2}Stimulants and deterrents of urban decision-making tradition in Savamala and Belgrade}{84}
-\contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{84}
-\contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in a Post-socialist City}{89}
-\contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{93}
-\contentsline {section}{\numberline {4.3}Case study Framework}{96}
-\contentsline {chapter}{\numberline {5}ANT Data Analysis}{98}
-\contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{98}
-\contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{102}
-\contentsline {chapter}{\numberline {6}MAS System Building}{104}
-\contentsline {section}{\numberline {6.1}Dynamism of urban agency in Savamala}{105}
-\contentsline {section}{\numberline {6.2}Profiling the agents}{105}
-\contentsline {chapter}{\numberline {7}MAS-ANT data display}{110}
-\contentsline {section}{\numberline {7.1}Body of urban relations: Urban Development dynamics}{110}
-\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{116}
-\contentsline {chapter}{\numberline {8}Conclusions}{120}
-\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{120}
-\contentsline {subsubsection}{[..] to the research objectives}{120}
-\contentsline {subsection}{\numberline {8.1.1}[..] to the research questions}{121}
-\contentsline {subsection}{\numberline {8.1.2}[..] to the methodological approach}{121}
-\contentsline {paragraph}{ANT}{121}
-\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{124}
-\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{124}
-\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{124}
-\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{125}
-\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{127}
-\contentsline {subsection}{\numberline {8.2.4}Urbanity}{127}
-\contentsline {section}{\numberline {8.3}Practical Implications}{127}
-\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{128}
-\contentsline {section}{\numberline {8.4}Limitations of the research}{129}
-\contentsline {section}{\numberline {8.5}Future Prospects}{129}
-\contentsline {chapter}{Bibliography}{129}
+\contentsline {subsubsection}{Belgrade Now}{80}
+\contentsline {subsection}{\numberline {4.1.3}Savamala}{83}
+\contentsline {section}{\numberline {4.2}Stimulants and deterrents of urban decision-making tradition in Savamala and Belgrade}{85}
+\contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{85}
+\contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in a Post-socialist City}{91}
+\contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{94}
+\contentsline {section}{\numberline {4.3}Case study Framework}{98}
+\contentsline {chapter}{\numberline {5}ANT Data Analysis}{99}
+\contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{99}
+\contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{103}
+\contentsline {chapter}{\numberline {6}MAS System Building}{105}
+\contentsline {section}{\numberline {6.1}Dynamism of urban agency in Savamala}{106}
+\contentsline {section}{\numberline {6.2}Profiling the agents}{106}
+\contentsline {chapter}{\numberline {7}MAS-ANT data display}{111}
+\contentsline {section}{\numberline {7.1}Body of urban relations: Urban Development dynamics}{111}
+\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{117}
+\contentsline {chapter}{\numberline {8}Conclusions}{121}
+\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{121}
+\contentsline {subsubsection}{[..] to the research objectives}{121}
+\contentsline {subsection}{\numberline {8.1.1}[..] to the research questions}{122}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the methodological approach}{122}
+\contentsline {paragraph}{ANT}{122}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{125}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{125}
+\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{125}
+\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{126}
+\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{128}
+\contentsline {subsection}{\numberline {8.2.4}Urbanity}{128}
+\contentsline {section}{\numberline {8.3}Practical Implications}{128}
+\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{129}
+\contentsline {section}{\numberline {8.4}Limitations of the research}{130}
+\contentsline {section}{\numberline {8.5}Future Prospects}{130}
+\contentsline {chapter}{Bibliography}{130}
