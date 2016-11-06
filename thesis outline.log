@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  6 NOV 2016 11:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  6 NOV 2016 20:52
 entering extended mode
 **"thesis outline.tex"
 ("thesis outline.tex"
@@ -1115,74 +1115,90 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-
-Package natbib Warning: Citation `(Hirt 2009)' on page 83 undefined on input li
-ne 1493.
-
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no ¨ in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no ¨ in font cmr10!
-Missing character: There is no Å in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no ¨ in font cmr10!
-Missing character: There is no Å in font cmr10!
+
+Package natbib Warning: Citation `(Hirt 2009)' on page 83 undefined on input li
+ne 1490.
+
+
+Package natbib Warning: Citation `Grozdanic' on page 83 undefined on input line
+ 1491.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Package natbib Warning: Citation `(Hirt 2009)' on page 83 undefined on input li
+ne 1494.
+
+
+Package natbib Warning: Citation `(Hirt 2009)' on page 83 undefined on input li
+ne 1494.
+
+
+Package natbib Warning: Citation `ref(Stupar 2004 isocarp)' on page 83 undefine
+d on input line 1495.
+
+
+Package natbib Warning: Citation `Grozdanic' on page 83 undefined on input line
+ 1496.
+
+
+Package natbib Warning: Citation `Zekovic et al. 2015' on page 83 undefined on 
+input line 1500.
+
 
 Package natbib Warning: Citation `Cities in Transition 2013' on page 83 undefin
-ed on input line 1528.
+ed on input line 1504.
 
 
 Package natbib Warning: Citation `Vukmirovic et al 2013' on page 83 undefined o
-n input line 1529.
+n input line 1505.
 
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no ç in font cmr10!
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015' on page 83 unde
-fined on input line 1532.
+fined on input line 1508.
+
+
+Package natbib Warning: Citation `(Hirt 2009)' on page 83 undefined on input li
+ne 1510.
 
 
 Package natbib Warning: Citation `Vanista Lazarevic in Doytchinov 2015' on page
- 83 undefined on input line 1538.
+ 83 undefined on input line 1515.
 
 [83] [84]
 
 Package natbib Warning: Citation `other ref Samardzic in Doytchinov 2015' on pa
-ge 85 undefined on input line 1543.
+ge 85 undefined on input line 1520.
 
 
 Package natbib Warning: Citation `Vujovic and Petrovic 2007' on page 85 undefin
-ed on input line 1543.
+ed on input line 1520.
 
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015' on page 85 unde
-fined on input line 1544.
+fined on input line 1521.
 
 [85]
 
 Package natbib Warning: Citation `Nedovic-Budic 2001' on page 86 undefined on i
-nput line 1549.
+nput line 1526.
 
 
 Package natbib Warning: Citation `Vujovic et al. 2007' on page 86 undefined on 
-input line 1551.
+input line 1528.
 
 
 Package natbib Warning: Citation `(Hirt 2008)' on page 86 undefined on input li
-ne 1552.
+ne 1529.
 
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no á in font cmr10!
@@ -1215,7 +1231,6 @@ Missing character: There is no ¢ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [87]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -1226,10 +1241,10 @@ Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no á in font cmr10!
+ [87]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [88]
 Missing character: There is no ≈ in font cmr10!
 Missing character: There is no æ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
@@ -1243,6 +1258,7 @@ Missing character: There is no ° in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+ [88]
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no á in font cmr10!
 Missing character: There is no ƒ in font cmr10!
@@ -1635,6 +1651,14 @@ Missing character: There is no Å in font cmr10!
 [109
 
 ]
+
+Package natbib Warning: Citation `Stupar' on page 110 undefined on input line 2
+049.
+
+
+Package natbib Warning: Citation `(Hirt 2009)' on page 110 undefined on input l
+ine 2054.
+
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -1647,7 +1671,7 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [110]
+[110]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1900,13 +1924,13 @@ Package natbib Warning: There were undefined citations.
 \Changes@OutFile=\write6
 ("thesis outline.aux") ) 
 Here is how much of TeX's memory you used:
- 4065 strings out of 493698
- 54627 string characters out of 3141985
+ 4069 strings out of 493698
+ 54693 string characters out of 3141985
  161981 words of memory out of 3000000
- 7319 multiletter control sequences out of 15000+200000
+ 7323 multiletter control sequences out of 15000+200000
  12521 words of font info for 45 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 32i,8n,39p,3081b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,8n,39p,3064b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
@@ -1918,7 +1942,7 @@ cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "thesis outline.pdf" (144 pages, 646208 bytes).
+Output written on "thesis outline.pdf" (144 pages, 646809 bytes).
 PDF statistics:
  507 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
