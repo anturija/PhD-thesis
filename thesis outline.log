@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  6 NOV 2016 20:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  7 NOV 2016 11:28
 entering extended mode
 **"thesis outline.tex"
 ("thesis outline.tex"
@@ -1202,49 +1202,31 @@ ne 1529.
 
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ‡ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ‡ in font cmr10!
 [86]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no œ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no  in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no œ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no  in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ¢ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ¢ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ¢ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ¢ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no œ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no  in font cmr10!
+
+Package natbib Warning: Citation `("Urban Incubator Belgrade" 2013)' on page 87
+ undefined on input line 1542.
+
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ‡ in font cmr10!
- [87]
+
+Overfull \hbox (20.91211pt too wide) in paragraph at lines 1538--1546
+\OT1/cmr/m/n/10.95 During all these years Sava-mala has been a venue with a pla
+u-si-ble col-li-sion (tra-di-tional/modern;
+ []
+
+[87]
+
+Package natbib Warning: Citation `Blagojevic 2009' on page 88 undefined on inpu
+t line 1561.
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+
+Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
+88 undefined on input line 1564.
+
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ¾ in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -1258,7 +1240,19 @@ Missing character: There is no ¡ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [88]
+
+Package natbib Warning: Citation `ZekoviÄ‡ et al.' on page 88 undefined on inpu
+t line 1578.
+
+
+Package natbib Warning: Citation `2016; Cvetinovic et al.' on page 88 undefined
+ on input line 1578.
+
+
+Package natbib Warning: Citation `2016b)' on page 88 undefined on input line 15
+78.
+
+[88]
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1272,7 +1266,6 @@ Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [89]
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no  in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -1281,6 +1274,7 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+ [89]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
@@ -1380,7 +1374,6 @@ Missing character: There is no ¢ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [95]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -1401,6 +1394,7 @@ Missing character: There is no ¬ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
+ [95]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -1417,7 +1411,6 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [97]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -1430,7 +1423,7 @@ Missing character: There is no œ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
- [98]
+ [97] [98]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -1501,8 +1494,8 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
-
-[101] [102]
+ [101]
+[102]
 Chapter 5.
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
@@ -1653,11 +1646,11 @@ Missing character: There is no  in font cmr10!
 ]
 
 Package natbib Warning: Citation `Stupar' on page 110 undefined on input line 2
-049.
+068.
 
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 110 undefined on input l
-ine 2054.
+ine 2073.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -1924,10 +1917,10 @@ Package natbib Warning: There were undefined citations.
 \Changes@OutFile=\write6
 ("thesis outline.aux") ) 
 Here is how much of TeX's memory you used:
- 4069 strings out of 493698
- 54693 string characters out of 3141985
+ 4075 strings out of 493698
+ 54832 string characters out of 3141985
  161981 words of memory out of 3000000
- 7323 multiletter control sequences out of 15000+200000
+ 7329 multiletter control sequences out of 15000+200000
  12521 words of font info for 45 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  32i,8n,39p,3064b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1942,7 +1935,7 @@ cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "thesis outline.pdf" (144 pages, 646809 bytes).
+Output written on "thesis outline.pdf" (144 pages, 645675 bytes).
 PDF statistics:
  507 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
