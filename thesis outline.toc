@@ -82,9 +82,9 @@
 \contentsline {subsection}{\numberline {4.1.4}Conclusion - Urbanity}{89}
 \contentsline {section}{\numberline {4.2}Stimulants and deterrents of urban decision-making tradition in Savamala and Belgrade}{90}
 \contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{91}
-\contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in a Post-socialist City}{98}
-\contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{102}
-\contentsline {section}{\numberline {4.3}Case study Framework}{106}
+\contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in Transition}{98}
+\contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{103}
+\contentsline {section}{\numberline {4.3}Case study Framework}{107}
 \contentsline {chapter}{\numberline {5}ANT Data Analysis}{108}
 \contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{108}
 \contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{112}
