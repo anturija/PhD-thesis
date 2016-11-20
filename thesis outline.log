@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  18 NOV 2016 18:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  20 NOV 2016 21:09
 entering extended mode
 **"thesis outline.tex"
 ("thesis outline.tex"
@@ -1491,10 +1491,16 @@ Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page
 [101]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+
+
+Package natbib Warning: Citation `Zaklina document' on page 102 undefined on in
+put line 1881.
+
+
+Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
+102 undefined on input line 1881.
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -1504,6 +1510,13 @@ Missing character: There is no œ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
+
+Overfull \hbox (8.66356pt too wide) in paragraph at lines 1874--1889
+[]\OT1/cmr/bx/n/10.95 BELGRADE WA-TER-FRONT PROJECT \OT1/cmr/m/n/10.95 The wa-t
+er-front area be-tween Brankov
+ []
+
+[102]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ² in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -1512,7 +1525,10 @@ Missing character: There is no ¬ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
- [102]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [103]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -1525,7 +1541,7 @@ Missing character: There is no œ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
- [103] [104]
+ [104]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -1550,6 +1566,7 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
+ [106]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -1582,7 +1599,7 @@ Missing character: There is no œ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
- [106]
+ [107]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -1596,7 +1613,7 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
- [107] [108]
+ [108]
 Chapter 5.
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
@@ -1756,10 +1773,10 @@ Missing character: There is no ™ in font cmr10!
 
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 115 undefined on inpu
-t line 2090.
+t line 2104.
 
 
-Overfull \hbox (9.81001pt too wide) in paragraph at lines 2090--2101
+Overfull \hbox (9.81001pt too wide) in paragraph at lines 2104--2115
 \OT1/cmr/m/n/10.95 privatization-marketization, project-led, poor co-or-di-na-t
 ion of gov-er-nance no crit-i-cal overview
  []
@@ -1787,11 +1804,11 @@ Missing character: There is no ™ in font cmr10!
 
 
 Package natbib Warning: Citation `Stupar' on page 118 undefined on input line 2
-146.
+160.
 
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 118 undefined on input l
-ine 2151.
+ine 2165.
 
 [118]
 Missing character: There is no â in font cmr10!
@@ -2080,10 +2097,10 @@ Package natbib Warning: There were undefined citations.
 \Changes@OutFile=\write6
 ("thesis outline.aux") ) 
 Here is how much of TeX's memory you used:
- 4099 strings out of 493698
- 55387 string characters out of 3141985
+ 4100 strings out of 493698
+ 55405 string characters out of 3141985
  159981 words of memory out of 3000000
- 7353 multiletter control sequences out of 15000+200000
+ 7354 multiletter control sequences out of 15000+200000
  12521 words of font info for 45 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  32i,8n,39p,3064b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2098,7 +2115,7 @@ cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "thesis outline.pdf" (153 pages, 667492 bytes).
+Output written on "thesis outline.pdf" (153 pages, 669763 bytes).
 PDF statistics:
  537 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
