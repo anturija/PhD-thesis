@@ -88,29 +88,29 @@
 \contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in Transition}{101}
 \contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{108}
 \contentsline {section}{\numberline {4.3}Case Study Framework}{109}
-\contentsline {chapter}{\numberline {5}ANT Data Analysis}{110}
-\contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{110}
-\contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{114}
-\contentsline {chapter}{\numberline {6}MAS System Building}{118}
-\contentsline {section}{\numberline {6.1}Dynamism of urban agency in Savamala}{119}
-\contentsline {section}{\numberline {6.2}Profiling the agents}{120}
-\contentsline {chapter}{\numberline {7}MAS-ANT data display}{125}
-\contentsline {section}{\numberline {7.1}Body of urban relations: Urban Development dynamics}{125}
-\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{131}
-\contentsline {chapter}{\numberline {8}Conclusions}{135}
-\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{135}
-\contentsline {subsubsection}{[..] to the research objectives}{135}
-\contentsline {subsection}{\numberline {8.1.1}[..] to the research questions}{136}
-\contentsline {subsection}{\numberline {8.1.2}[..] to the methodological approach}{136}
-\contentsline {paragraph}{ANT}{136}
-\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{139}
-\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{139}
-\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{139}
-\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{140}
-\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{142}
-\contentsline {subsection}{\numberline {8.2.4}Urbanity}{142}
-\contentsline {section}{\numberline {8.3}Practical Implications}{142}
-\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{143}
-\contentsline {section}{\numberline {8.4}Limitations of the research}{144}
-\contentsline {section}{\numberline {8.5}Future Prospects}{144}
-\contentsline {chapter}{Bibliography}{144}
+\contentsline {chapter}{\numberline {5}ANT Data Analysis}{111}
+\contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{111}
+\contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{115}
+\contentsline {chapter}{\numberline {6}MAS System Building}{119}
+\contentsline {section}{\numberline {6.1}Dynamism of urban agency in Savamala}{120}
+\contentsline {section}{\numberline {6.2}Profiling the agents}{121}
+\contentsline {chapter}{\numberline {7}MAS-ANT data display}{126}
+\contentsline {section}{\numberline {7.1}Body of urban relations: Urban Development dynamics}{126}
+\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{132}
+\contentsline {chapter}{\numberline {8}Conclusions}{136}
+\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{136}
+\contentsline {subsubsection}{[..] to the research objectives}{136}
+\contentsline {subsection}{\numberline {8.1.1}[..] to the research questions}{137}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the methodological approach}{137}
+\contentsline {paragraph}{ANT}{137}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{140}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{140}
+\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{140}
+\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{141}
+\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{143}
+\contentsline {subsection}{\numberline {8.2.4}Urbanity}{143}
+\contentsline {section}{\numberline {8.3}Practical Implications}{143}
+\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{144}
+\contentsline {section}{\numberline {8.4}Limitations of the research}{145}
+\contentsline {section}{\numberline {8.5}Future Prospects}{145}
+\contentsline {chapter}{Bibliography}{145}
