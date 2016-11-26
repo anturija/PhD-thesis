@@ -1,9 +1,9 @@
 \contentsline {subsubsection}{"Every thing possible to be believ'd is an image of truth."}{1}
 \contentsline {chapter}{Abstract}{i}
-\contentsline {chapter}{List of Figures}{v}
-\contentsline {chapter}{List of Tabes}{vi}
-\contentsline {chapter}{Declaration Of Authorship}{vii}
-\contentsline {chapter}{Acknowledgements}{viii}
+\contentsline {chapter}{List of Figures}{iii}
+\contentsline {chapter}{List of Tabes}{iv}
+\contentsline {chapter}{Declaration Of Authorship}{v}
+\contentsline {chapter}{Acknowledgements}{vi}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}Field of Study}{2}
 \contentsline {subsection}{\numberline {1.1.1}Background}{5}
@@ -71,9 +71,9 @@
 \contentsline {subsubsection}{SFRY}{64}
 \contentsline {paragraph}{Urban Regulatory Framework and Practice}{67}
 \contentsline {subsubsection}{Post-communism}{69}
-\contentsline {paragraph}{Urban Regulatory Framework and Practice}{73}
+\contentsline {paragraph}{Urban Regulatory Framework and Practice}{72}
 \contentsline {subsubsection}{Urbanity of Serbian cities}{74}
-\contentsline {subsection}{\numberline {4.1.2}Belgrade - a City in Constant Transition}{76}
+\contentsline {subsection}{\numberline {4.1.2}Belgrade - a City in Constant Transition}{75}
 \contentsline {paragraph}{Ottoman Belgrade}{77}
 \contentsline {paragraph}{Belgrade (1804-1940)}{78}
 \contentsline {paragraph}{Yugoslavia}{82}
@@ -82,12 +82,12 @@
 \contentsline {subsubsection}{Belgrade Now}{85}
 \contentsline {paragraph}{Urban Regulatory Framework and Practice}{88}
 \contentsline {subsection}{\numberline {4.1.3}Savamala}{89}
-\contentsline {subsection}{\numberline {4.1.4}Conclusion - Urbanity}{94}
+\contentsline {subsection}{\numberline {4.1.4}Conclusion - Urbanity}{93}
 \contentsline {section}{\numberline {4.2}Stimulants and deterrents of urban decision-making tradition in Savamala and Belgrade}{95}
 \contentsline {subsection}{\numberline {4.2.1}Top-down management of urban issues}{95}
 \contentsline {subsection}{\numberline {4.2.2}Legitimacy of Interests in Transition}{103}
 \contentsline {subsection}{\numberline {4.2.3}Network of civic engagement}{110}
-\contentsline {section}{\numberline {4.3}Case Study Framework}{116}
+\contentsline {section}{\numberline {4.3}Case Study Framework}{115}
 \contentsline {chapter}{\numberline {5}ANT Data Analysis}{117}
 \contentsline {section}{\numberline {5.1}A forward-thinking overview of building an urban development model for Savamala}{117}
 \contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and contextual resources}{121}
