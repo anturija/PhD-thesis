@@ -106,29 +106,29 @@
 \contentsline {subsection}{\numberline {5.1.5}Urban assemblages}{134}
 \contentsline {subsection}{\numberline {5.1.6}Illustration}{135}
 \contentsline {section}{\numberline {5.2}Urban assemblage map: urban key agents and social aspects}{136}
-\contentsline {section}{\numberline {5.3}Conclusion}{144}
-\contentsline {chapter}{\numberline {6}MAS System Building}{145}
-\contentsline {section}{\numberline {6.1}Dynamism of urban agency in Savamala}{146}
-\contentsline {section}{\numberline {6.2}Profiling the agents}{154}
-\contentsline {section}{\numberline {6.3}Conclusion}{160}
-\contentsline {chapter}{\numberline {7}MAS-ANT data display}{161}
-\contentsline {section}{\numberline {7.1}Body of urban relations: Urban Development dynamics}{161}
-\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{170}
-\contentsline {section}{\numberline {7.3}Conclusion}{175}
-\contentsline {chapter}{\numberline {8}Conclusions}{176}
-\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{176}
-\contentsline {subsection}{\numberline {8.1.1}[..] to the research objectives}{176}
-\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{177}
-\contentsline {subsection}{\numberline {8.1.3}[..] to the methodological approach}{177}
-\contentsline {paragraph}{ANT}{177}
-\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{180}
-\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{180}
-\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{180}
-\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{181}
-\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{183}
-\contentsline {subsection}{\numberline {8.2.4}Urbanity}{183}
-\contentsline {section}{\numberline {8.3}Practical Implications}{183}
-\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{184}
-\contentsline {section}{\numberline {8.4}Limitations of the research}{185}
-\contentsline {section}{\numberline {8.5}Future Prospects}{185}
-\contentsline {chapter}{Bibliography}{185}
+\contentsline {section}{\numberline {5.3}Conclusion}{145}
+\contentsline {chapter}{\numberline {6}MAS System Building}{146}
+\contentsline {section}{\numberline {6.1}Dynamism of urban agency in Savamala}{147}
+\contentsline {section}{\numberline {6.2}Profiling the agents}{155}
+\contentsline {section}{\numberline {6.3}Conclusion}{161}
+\contentsline {chapter}{\numberline {7}MAS-ANT data display}{162}
+\contentsline {section}{\numberline {7.1}Body of urban relations: Urban Development dynamics}{162}
+\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{171}
+\contentsline {section}{\numberline {7.3}Conclusion}{176}
+\contentsline {chapter}{\numberline {8}Conclusions}{177}
+\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{177}
+\contentsline {subsection}{\numberline {8.1.1}[..] to the research objectives}{177}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{178}
+\contentsline {subsection}{\numberline {8.1.3}[..] to the methodological approach}{178}
+\contentsline {paragraph}{ANT}{178}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{181}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{181}
+\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{181}
+\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{182}
+\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{184}
+\contentsline {subsection}{\numberline {8.2.4}Urbanity}{184}
+\contentsline {section}{\numberline {8.3}Practical Implications}{184}
+\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{185}
+\contentsline {section}{\numberline {8.4}Limitations of the research}{186}
+\contentsline {section}{\numberline {8.5}Future Prospects}{186}
+\contentsline {chapter}{Bibliography}{186}
