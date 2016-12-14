@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  13 DEC 2016 22:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  14 DEC 2016 22:41
 entering extended mode
 **"thesis outline.tex"
 ("thesis outline.tex"
@@ -1749,30 +1749,27 @@ ine 2313.
 Package natbib Warning: Citation `Latour 2005' on page 129 undefined on input l
 ine 2314.
 
-[129]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no © in font cmr10!
- [130] [131] [132] [133]
+[129] [130] [131] [132] [133]
 
 Package natbib Warning: Citation `Latour 2005' on page 134 undefined on input l
-ine 2410.
+ine 2411.
 
 [134] [135]
 
 Package natbib Warning: Citation `Mathur' on page 136 undefined on input line 2
-449.
+450.
 
 
 Package natbib Warning: Citation `alternativni izvestaj' on page 136 undefined 
-on input line 2477.
+on input line 2478.
 
 
 Package natbib Warning: Citation `Alternativni izvestaj' on page 136 undefined 
-on input line 2479.
+on input line 2480.
 
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 136 undefined on inpu
-t line 2481.
+t line 2482.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -1780,7 +1777,7 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 
-Overfull \hbox (1.44537pt too wide) in paragraph at lines 2448--2506
+Overfull \hbox (1.44537pt too wide) in paragraph at lines 2449--2507
 \OT1/cmr/m/n/10.95 influence, impact-priority, power-interest, support-oppositi
 on, and constructive-destructive
  []
@@ -1788,35 +1785,35 @@ on, and constructive-destructive
 [136] [137] [138] [139] [140]
 
 Package natbib Warning: Citation `(Vujovic and Petrovic 2007)' on page 141 unde
-fined on input line 2522.
+fined on input line 2523.
 
 
 Package natbib Warning: Citation `(Vujosevic and Maricic 2012)' on page 141 und
-efined on input line 2529.
+efined on input line 2530.
 
 [141]
 
 Package natbib Warning: Citation `Vujovic and Petrovic 2007' on page 142 undefi
-ned on input line 2546.
+ned on input line 2547.
 
 [142]
 
 Package natbib Warning: Citation `Alternativni izvestaj' on page 143 undefined 
-on input line 2559.
+on input line 2560.
 
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 143 undefined on inpu
-t line 2570.
+t line 2571.
 
 [143]
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 144 undefined on inpu
-t line 2584.
+t line 2585.
 
 [144]
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 145 undefined on inpu
-t line 2601.
+t line 2602.
 
 [145] [146] [147] [148]
 Chapter 6.
@@ -1838,12 +1835,12 @@ Missing character: There is no ™ in font cmr10!
 
 
 Package natbib Warning: Citation `Stupar' on page 150 undefined on input line 2
-688.
+690.
 
 [150]
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 151 undefined on input l
-ine 2693.
+ine 2695.
 
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
@@ -2348,7 +2345,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  4131 strings out of 493698
  56082 string characters out of 3141985
- 177300 words of memory out of 3000000
+ 178424 words of memory out of 3000000
  7384 multiletter control sequences out of 15000+200000
  12866 words of font info for 46 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -2367,7 +2364,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "thesis outline.pdf" (203 pages, 906915 bytes).
+Output written on "thesis outline.pdf" (203 pages, 907132 bytes).
 PDF statistics:
  708 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
