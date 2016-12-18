@@ -110,13 +110,17 @@
 \contentsline {section}{\numberline {5.3}Conclusion}{148}
 \contentsline {chapter}{\numberline {6}MAS System Assembling}{149}
 \contentsline {section}{\numberline {6.1}Socio-spatial patterns: Dynamism of objects and relations in Savamala}{150}
-\contentsline {subsection}{\numberline {6.1.1}Passive contextual elements}{159}
-\contentsline {subsection}{\numberline {6.1.2}Assembly of relations}{159}
-\contentsline {section}{\numberline {6.2}Profiling the agents}{159}
-\contentsline {section}{\numberline {6.3}Conclusion}{167}
-\contentsline {chapter}{\numberline {7}MAS-ANT data display}{168}
-\contentsline {section}{\numberline {7.1}Body of urban transitions: Urban Development dynamics}{169}
-\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{179}
+\contentsline {subsection}{\numberline {6.1.1}Passive contextual elements}{150}
+\contentsline {subsubsection}{Spatial capacities}{150}
+\contentsline {subsubsection}{Social potentials}{151}
+\contentsline {subsection}{\numberline {6.1.2}The Assembly of Relations}{152}
+\contentsline {subsubsection}{Situated practices}{153}
+\contentsline {subsubsection}{Urban conflicts}{154}
+\contentsline {section}{\numberline {6.2}Profiling the agents}{155}
+\contentsline {section}{\numberline {6.3}Conclusion}{164}
+\contentsline {chapter}{\numberline {7}MAS-ANT data display}{165}
+\contentsline {section}{\numberline {7.1}Body of urban transitions: Urban Development dynamics}{166}
+\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{178}
 \contentsline {section}{\numberline {7.3}Conclusion}{184}
 \contentsline {chapter}{\numberline {8}Conclusions}{185}
 \contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{185}
