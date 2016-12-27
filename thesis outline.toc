@@ -115,39 +115,39 @@
 \contentsline {subsubsection}{Spatial capacities}{151}
 \contentsline {subsubsection}{Social potentials}{154}
 \contentsline {subsection}{\numberline {6.1.2}The Assembly of Relations}{157}
-\contentsline {subsubsection}{Situated practices}{157}
-\contentsline {subsubsection}{Urban conflicts}{158}
+\contentsline {subsubsection}{Situated practices}{158}
+\contentsline {subsubsection}{Urban conflicts}{159}
 \contentsline {section}{\numberline {6.2}Profiling the agents}{160}
 \contentsline {section}{\numberline {6.3}Conclusion}{169}
 \contentsline {chapter}{\numberline {7}MAS-ANT data display}{170}
 \contentsline {section}{\numberline {7.1}Body of urban transitions: Urban Development dynamics}{171}
-\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{184}
-\contentsline {section}{\numberline {7.3}Conclusion}{189}
-\contentsline {chapter}{\numberline {8}Conclusions}{190}
-\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{190}
-\contentsline {subsection}{\numberline {8.1.1}[..] to the research objectives}{190}
-\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{191}
-\contentsline {subsection}{\numberline {8.1.3}[..] to the methodological approach}{191}
-\contentsline {paragraph}{ANT}{191}
-\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{193}
-\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{193}
-\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{194}
-\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{195}
-\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{197}
-\contentsline {subsection}{\numberline {8.2.4}Urbanity}{197}
-\contentsline {section}{\numberline {8.3}Practical Implications}{197}
-\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{198}
-\contentsline {section}{\numberline {8.4}Limitations of the research}{198}
-\contentsline {section}{\numberline {8.5}Future Prospects}{199}
-\contentsline {chapter}{\numberline {A}Data collection}{200}
-\contentsline {section}{\numberline {A.1}Interviews}{200}
-\contentsline {section}{\numberline {A.2}Questionnaires}{200}
-\contentsline {section}{\numberline {A.3}Workshops}{200}
-\contentsline {chapter}{\numberline {B}List of abbreviations}{201}
-\contentsline {chapter}{\numberline {C}Bibliography}{202}
-\contentsline {section}{\numberline {C.1}scientific}{202}
-\contentsline {section}{\numberline {C.2}legal documents}{202}
-\contentsline {section}{\numberline {C.3}grey literature - pracitce-based}{202}
-\contentsline {section}{\numberline {C.4}media sources}{202}
-\contentsline {chapter}{\numberline {D}CV Marija Cvetinovic}{203}
-\contentsline {chapter}{Bibliography}{203}
+\contentsline {section}{\numberline {7.2}MAS-ANT diagram: scope and operationality}{183}
+\contentsline {section}{\numberline {7.3}Conclusion}{188}
+\contentsline {chapter}{\numberline {8}Conclusions}{189}
+\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{189}
+\contentsline {subsection}{\numberline {8.1.1}[..] to the research objectives}{189}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{190}
+\contentsline {subsection}{\numberline {8.1.3}[..] to the methodological approach}{190}
+\contentsline {paragraph}{ANT}{190}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{192}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{192}
+\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{193}
+\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{194}
+\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{196}
+\contentsline {subsection}{\numberline {8.2.4}Urbanity}{196}
+\contentsline {section}{\numberline {8.3}Practical Implications}{196}
+\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{197}
+\contentsline {section}{\numberline {8.4}Limitations of the research}{197}
+\contentsline {section}{\numberline {8.5}Future Prospects}{198}
+\contentsline {chapter}{\numberline {A}Data collection}{199}
+\contentsline {section}{\numberline {A.1}Interviews}{199}
+\contentsline {section}{\numberline {A.2}Questionnaires}{199}
+\contentsline {section}{\numberline {A.3}Workshops}{199}
+\contentsline {chapter}{\numberline {B}List of abbreviations}{200}
+\contentsline {chapter}{\numberline {C}Bibliography}{201}
+\contentsline {section}{\numberline {C.1}scientific}{201}
+\contentsline {section}{\numberline {C.2}legal documents}{201}
+\contentsline {section}{\numberline {C.3}grey literature - pracitce-based}{201}
+\contentsline {section}{\numberline {C.4}media sources}{201}
+\contentsline {chapter}{\numberline {D}CV Marija Cvetinovic}{202}
+\contentsline {chapter}{Bibliography}{202}
