@@ -8,7 +8,16 @@
 \usepackage{natbib}
 \usepackage[final]{changes}
 \usepackage{color,soul}
+\usepackage{tocloft}
 \bibliographystyle{chicago}
+
+\newcommand{\listofdiagrams}{List of Diagrams}
+\newlistof{Diagram}{ex}{\listDiagram}
+\newcommand{\Diagram}[1]{%
+\refstepcounter{Diagram}
+\par\noindent\textbf{List of Diagrams \theexample. #1}
+\addcontentsline{exp}{example}
+{\protect\numberline{\thechapter.\theexample}#1}\par}
 
 %to stop orphan lines
 \widowpenalty=10000
@@ -88,10 +97,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.\\
 
 
 \tableofcontents
+\cleardoublepage
 \listoffigures
 \addcontentsline{toc}{chapter}{List of Figures}
+\cleardoublepage
 \listoftables
-\addcontentsline{toc}{chapter}{List of Tabes}
+\addcontentsline{toc}{chapter}{List of Tables}
+\cleardoublepage
+\listofdiagrams
+\addcontentsline{toc}{chapter}{List of Diagrams}
 
 \chapter*{Declaration of Authorship}
 \addcontentsline{toc}{chapter}{Declaration Of Authorship}
@@ -2763,68 +2777,66 @@ Experts - Savamala - questionnaire: importance: incubator of culture  -> transit
 %visualization of different importance orders and how it changed over time - based on questionnaires - experts-phds-students.
 \\
 It has been conspicuous that Savamala's position and provision of empty spaces and buildings, brown- and greenfield areas is a ready-made trigger. Once activated, it becomes an almost unstoppable drive of urban transformation or radical change, even though its urban essence within the image of the whole city of Belgrade stays the same for a while with its run-down buildings, derelict empty plots and open spaces.\footnotemark
-However, the lack of a sustainable, participatory, transparent, feasible, and long-term development model.
-the precondition for gentrification.
+However, the lack of a sustainable, participatory, transparent, feasible, and long-term development model, these spatial capacities may easily turn into social impediments and setbacks.
 \footnotetext{Even with large waterfront intervention within BWP, from certain perspective and in certain areas, Savamala looks exactly the same as few years ago when it was only a cultural and creative hub of the city.} %add new photo from BWP from the air and the old one, photos around KC Grad
 
 \subsubsection{Social potentials}
 
-\hl{Adjustments of Planning practice Nedovic budic 2001}
-Differentiation between the universal and regime-based, society-speciﬁc, and culturally unique features of planning is necessary in preparing for the international exchange of planning ideas and practices. Identiﬁcation of planning mechanisms that have emerged in reaction to the new political context is a ﬁrst step toward developing an effective new system.
-understand:
-1. forces and trends - identify gaps in planning
-2. uniqueness of the circumstances - contextually sensitive solutions
-3. applicability of experiences and tools - exchange experience, knowledge, ideas
-
-\hl{Vujosevic and Maricic 2012}
-it is important to revise institutional and organizational framework and patterns in Serbia in order to make the way to implement major strategic aims already defined in regulatory and strategic documents in Serbia
-contextual resources, conflicts and practices for example
-
-\hl{Vanista Lazarevic in Doytchinov 2015}
-Certain  individuals,  like  the  architects  Nemanja Petrović  and  Nina  Mitranic  from  the  Savski  Venac community,  to  which  a  part  of  Savamala  belongs, helped supporting the process.
-
-\hl{Lanz Goethe Institute}
-creative industry is an important sector of German economy - exporting services
-
-cultural activities in Savamala returned its old fame (pre-socialist)
-
-\hl{citizen Retired person}
-Savamala was very peaceful area during communism - a lot of local police in the streets
-only in 1990s it became unsafe
-now very noisy, a lot of night clubs, music all night
-Savamala is on the border between Savski Venac and Stari grad
-
-\hl{Mikser interview}
-mapping Savamala before installing there
-there were cafés, clubs and KC Grad, Mikser brought more of this
-
-\hl{KC Grad interview}
-Gallery STAB - artistic hub in the neighbourhood (galleries in Savamala)
-for foreigners Savamala is a cultural hub
-or a place to party all night long
-City had no vision or strategy for empty spaces and plots in Savamala, even before BWP, no cultural strategy for the city
-
-NDWBGD contribution: now people are less afraid to protest
-Streets for cyclists gives advice to BWP
-
-
-\hl{Kucina interview 2013}
-urban incubator is based on Berlin experience - urban development and urban transformations are the goal, check General strategy of Goethe institute
-
-\hl{Experts - Savamala - questionnaire}
-Q19
-\textit{social potentials}
-Abandoned buildings - Phd students questionnaire
-Architectural heritage
-Concentration of cultural \& artistic activities
-Marginalized groups living in the area
-Nexus of creative capital in Belgrade
-Participative \& self-organizing initiatives
-Presence of international \& national NGOs
-Recognizable cultural identity
-Richness of tradition (crafts)
-Trade \& artisanal area
-Vivid night life
+Urban planning and urban design are the offsprings of architecture and spatial development that mold urban transformations in contemporary cities \cite{Rode 2006}. While planning anticipates urban future through the debates and decisions on the playground of different interests, urban design focuses on urban form aiming to capture its dynamics in compliance with human objectives \cite{(Lynch and Rodwin 1958: 201)}.
+However, while urban forms represent designers' intentions of the particular time, its life cycle outgrows these intentions and forms contextual urban processes \cite{Tonkiss 2014}.
+Physical structures are formative for what goes on in an urban setting, but urban reality is in constant flux through its merging with particular urban practices at play.
+The ongoing everyday transformations and future urban design solutions thereafter are set by social capital, rational action that embody social relationships \cite{Coleman 1988}.
+These are social potentials bounded in any urban context.
+In Savamala, the morphology of urban decision making sets forth and catalyses transformative social forces.
+\\
+Top-down urban planning interventions bound planning mechanisms emerging from the new political context, the universal and regime-based forces and trends, society-specific and culturally unique features of the context and the applicability of experiences and tools in the local system \cite{Adjustments of Planning practice Nedovic budic 2001}.
+Participatory, transparent mechanisms and public interest aims have been already defined in regulatory and strategic documents in Serbia \cite{Vujosevic and Maricic 2012}. However, the particular practice and patterns show that institutional and organizational frameworks at play are rather the clients of developers and private actors \cite{Mrdjenovic et al 2015}.
+In this manner, certain individuals in institutions, while they can be the executors of such interest, also can contribute to promoting and supporting participatory and transparent processes.
+For example, at some point, the municipal authorities officially supported the civil and international initiatives to extend the urban life of Belgrade down to its riverbanks and to reactivate Savamala spaces \cite{Vanista Lazarevic in Doytchinov 2015}.\footnotemark
+\footnotetext{Nemanja Petrovic, the Assistent Mayor of the Municipality "Savski venac" and Nina Mitranic, the chief architect of the Municipal building inspection \cite{Vanista Lazarevic in Doytchinov 2015}. Their positive role was also emphasized by the civil sector informants \hl{interview Kucina, Dobrica}.} 
+\\
+%timeline of civic initiatives
+On the contrary, small-scale cultural and civic initiatives that were popping around Savamala from 2008 onward signified as the actual congregators of social potential.
+This conglomerate of artistic practices, crowdsourcing activities, creative industries, urban manufactories, and cooperative economies was growing gradually infusing the sparks of new urban life in Savamala.
+Conversely, these activities also aimed at returning Savamala its old pre-socialist fame through the attempts to revive old arts and crafts still present but almost disappearing in Savamala.
+The first driver of such trend was Urban Incubator Belgrade with 2 projects focusing on recognizable cultural identity of Savamala and its richness of tradition and crafts.
+"Savamala Design Studio" aimed to produce a manual of local knowledge, practices and cultural values through participatory action research \cite{Cvetinovic et al 2013}. The idea was to work with residents and other urban actors, learn from them and map their everyday practices (i.e. preserving food, recycling waste, barter economy, illegal building construction) \cite{Cvetinovic et al 2013}.
+Similary, "Micro factories" was another participatory activity targeting collecting local materials (usually from abandoned apartments or other places) and work on the design of products that reflects what they find in Savamala and its tradition of small craft workshops (i.e. carpentry) \cite{Cvetinovic et al 2013}. 
+These new small production facilities are intended to be microeconomic structures establishing the relationship between urban space and industrial production and boosting local pride and identity of once prestigious trade and artisanal area \hl{Micro Factories 2013}.
+This initiative was nurtured and extended with Urban Incubator successors, such as the projects: "Cooking together", "Healthy living in Savamala", "Heritage of the ship graveyard" and "Zupa Zupa" activities on the old abandoned steamboat Zupa \hl{ref media?}.
+\\
+In the long-run, they strove to physically transform the neighbourhood and to influence urban transformations that are based on social interest rather than on real estate speculations. 
+However, the choice of Savamala was not accidental.
+Availability of abandoned buildings, abundance of architectural heritage might be the major instigators of such choice \hl{Experts - Savamala - questionnaire}.
+Several organizations testify mapping Savamala before installing there and except for its spatial capital, the sparks of night life (cafés, clubs) were the main reasons for such decision \hl{Mikser interview}.
+The goal was to change Savamala's urban image by converting  abandoned warehouses into socially productive facilities, activating riverfront usage, encouraging local community participation, attracting new visitors to the neighbourhood (professionals and general public, both local and global) and finally revalorizing and repositioning the Savamala neighbourhood within the physical and functional scheme of the whole city of Belgrade \cite{Cvetinovic et al 2013}.
+\\
+Yet, the through investigation of these activities revealed that this wave of action was only possible with high influence and strong presence of national NGOs and, even more, international NGOs and formal organizations \hl{Experts - Savamala - questionnaire}.
+"Urban incubator Belgrade" was based on Berlin experience \hl{Kucina interview 2013}. The rationale of this project was also embedded in Goethe institute strategy, to focus urban development, urban transformations and creative industry. As creative industry is an important sector of German economy \hl{Lanz Goethe Institute doc}, such financially and logistically supported activities may also be interpreted as an economic strategy for services export \hl{Experts - Savamala - questionnaire}. In any case, the outburst of these and similar projects, events and activities \hl{ref Chapter 4} made Savamala the nexus of creative capital in Belgrade \hl{media sources}.
+\\
+In sociological terms, Savamala developed a multiple identity recognizable at national and international scene - for limited artistic scene in Belgrade, Savamala with several important galleries settled there \hl{list, map} it is urban and national artistic hub, for cultural and civil workers it is a cultural cluster and for numerous tourists and foreigners it is a place to party all night long \hl{KC Grad interview}.
+While Savamala was very peaceful area during communism\footnotemark, it was only during the turbulent wartime of the 90s that it became unsafe and kept that image until these new fusions of urban life settled in Savamala \hl{citizen Retired person}.
+These and following years put Savamala on the city map as the party area with vivid night life, with a lot of night clubs\footnotemark \hl{Bureau Savamala data}.
+The gradual reduction of heavy traffic caused partly by the construction of Pupin bridge over Danube was replaced with heavy music from the Savamala clubs that created the severe noise all night long \hl{citizen interview}.
+Consequently in 2012, Belgrade and indirectly Savamala were internationally presented as the mayor party capital in the world by Lonely planet\cite{Lonely planet}.
+\footnotetext{As an informant, Savamala inhabitant for many years, recalled: during the SFRY era there was a lot of local police in the streets and the social discipline was different \hl{citizen Retired person}; these circumstance might have created different safety net then.}
+\footnotetext{During several years, famous clubs and cafés in Savamala were: Disko klub Mladost, Brankow, Apartman, Corba, Magacin, Ben Akiba, Dvoristance, Prohibicija \hl{add more and make map}}
+\\
+Similar to the wasted potential of this uninstitutionalized culture that has never been included in any official cultural strategy of the city and the state \hl{Chapter 5}, this potential of making Belgrade internationally famous was abruptly stopped by the regulation of 2011 when the commerce of alcohol was banned after 11pm and the bars were to close at 11pm as well \ref{regulation, media}.
+On one hand, it made a bad influence on tourism, on the other hand, the ban changed Savamala too. Even more bars moved there as its position offer possibility to extend the party hours so people still can party the whole night \hl{Biking tours - private}. Even though the ban on alcohol is not any more at play, the party places stayed in Savamala and influenced its image as rather cultural and civic hub.
+\\
+This recent sequence of events testified that the city authorities did not apply any sustainable strategy for either spatial capacities of Savamala (empty spaces and plots) nor for cultural and touristic activities \hl{KC Grad interview}. This rather sporadic interest in envisioning developmental options was even more obvious in terms of Belgrade Waterfront Project.
+Taking into the account the circumstances around BWP deals, the attitude of city and national authorities towards the exploitation of spatial capacity of Sava waterfront contained little if any concern for public interest and relinquished this outstanding resource to the whims of interest of the private investor.
+\\
+Fortunately, the initiative NDVBGD took this real estate transformation very seriously and critically addressed the issue from the very beginning \hl{ref media}.
+For understanding how they set the right actions set at the right place and time, it is crucial to mention the genesis of their involvement in Savamala - their parent organization "Ministry of space" was present in Savamala within Urban Incubator Belgrade (through Bureau Savamala as the critical commentator of the project).
+After the scandalous demolition in Savamala in april 2016 \hl{ref in Chapter}, NDVBGD organized several protests with up to 20000 participants at one point \hl{ref media}.
+Not only that these actions made internationally visible this flawed ‘fast-lane approach to investors’ \hl{ref media Gardian}, but also these manifestations of civil disobedience made local population less afraid to protest and express their concerns for public interest and public good \hl{Dobrica interview}.
+The slogan "Whose city? Our city" \hl{ref media}, even though a political phrase, express the rise of consciousness about civic rights and the capacity to understand the importance of participation and transparency in urban management after the decades long citizen apathy and authoritarian governance model \hl{ref}.
+\\
+According to the herein presented state of the affairs, it is obvious that social potentials are highly variable and easily shifted from positive ability for transformation into a retrograde and dangerous urban conflicts. 
+Yet, if any, they are essential force for transforming the negative effects of conventional urbanisation model, accelerating globalization influences, neoliberal trends and unsuitable urban patterns into a contextually appropriate developmental impetus. 
+Therefore, they put forth an alternative strategy to overcome the rigid administrative procedure of urban development a
 
 \subsection{The Assembly of Relations}
 
@@ -2838,7 +2850,7 @@ Based on the distribution of agency, there are several issues that are generally
 \end{itemize}
 
 it is essential to incorporate its transformative capacity of building local knowledge on current urban conflicts and contextual resources, congregating ideas and setting a comprehensive overlay of urban scenarios for interventions within an exhaustive model of urban development.
-These activities have gradually grown into a kind of informal platform for active participation and management of urban conflicts. Therefore, they put forth an alternative strategy to overcome the rigid administrative procedure of urban development and to transform the negative side effects of imitating and lagging behind the conventional urbanisation model and unsuitable urban patterns, as well as those of the accelerating globalisation into a development impetus suited to these societies.
+These activities have gradually grown into a kind of informal platform for active participation and management of urban conflicts. 
 
 Active contextual relations in Savamala are:
 \begin{itemize}
@@ -2848,6 +2860,7 @@ Active contextual relations in Savamala are:
 
 \subsubsection{Situated practices}
 
+new strategy for belgrade 2016-2020 \hl{palgo interview}
 \hl{Grozdanic}
 transport system should be renewed -  prim.aut. and reconceptualized
 
@@ -2978,6 +2991,8 @@ Lack of data on physical environment
 Lack of data on social structure
 Marketization, privatization \& commodification
 Transition area (traffic bottle neck)
+
+Savamala is on the border between Savski Venac and Stari grad
     
 \hl{Experts - Savamala - questionnaire}
 Q13
@@ -3141,15 +3156,6 @@ potojao je i jedan kraci period neposredno pred otvaranje kada se prostor povrem
 
 However, several important characteristics have been continually developed during the different periods such as (Figure 1): (1) restricted and ideologically-framed civil rights, (2) state control over capital areas, resources and infrastructure, (3) top-down approach to spatial and social development and renovation and revitalization, (4) public ownership of land and building stock, (5) hybrid market circumstances, and  (6) societal self-management planning (Vujović and Petrović, 2007; Petrovic, 2009; Vujošević et al., 2010; Simmie, 1989) . These characteristics have made Savamala a scaled example of “pre-socialist material legacy, socialist cultural and societal matric, a transitional reality and a condensed case of multi-faceted circumstances of post-socialist urban development” (Cvetinovic et al., 2016a).
 
-Clubs in Savamala: Disko klub Mladost, Brankow, Apartman, Corba, Magacin
-
-\hl{Biking tours - private}
-example of "without strategy situation in Belgrade"
-Lonely planet 2010. Belgrade a best place for partying
-may 2011 regulation change for bars to close at 11pm, ban on ancohol; bad image on tourism
-the ban changed Savamala, bars went to Savamala so they still can party the whole night, more fancy places in Savamala
-killed the night life, still has the influence, even though the ban on alcohol is not any more at popularity
-
 Gentrification caused by clubing scene
 experts and KC Grad, Mikser, Goethe want to protect Savamala.
 
@@ -3254,6 +3260,11 @@ A multitude of  these human and non-human actors shape top-down, interest-based 
 This captures the pace of change and the multi-layered nature of transformation, with the focus on the process of change in the city’s economy, society, system of governance and the spaces of production and consumption.
 
 \section{Body of urban transitions: Urban Development dynamics}
+
+\cite{COleman 1988}
+capital: created by change
+    physical: change in materials to create tools
+    human: change in persons to bring about skills and capabilities
 
 For the analysis of Savamala bottom-up urban transformation, we relied on the defined agent profiles. First of all, we investigated agent structure and preferences. We treated these as dynamic features of urban agency in Savamala. Then we tracked behaviour of these agents and their influence on the state of urban environment in Savamala. Finally, this allowed us to sum up their capacities and limits to influence urban transformations and changes.
 
@@ -3643,6 +3654,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 \hl{KC Grad interview}
 UI was not successful in reactivating Spanish house, pavillions were useless (too cold in winter or to hot inside in summer)
 
+Streets for cyclists gives advice to BWP \hl{biking tours - private}
+importance of biking community, international popularity of urban biking
+
 \section{MAS-ANT diagram: scope and operationality}
 
 When we analysed the structure of agents, we addressed their basic characteristics already identified within the key categories from ANT methodology (Figure 3). These ANT categories indicate the figuration of the chosen agents in the concrete environment. They are adapted according to our interpretation of ANT methodological approach. Agent structures are circumscribed based on roles these agents play in Savamala, as follows: (1) agent nature – its operational manifestation, (2) level of influence – the boundaries of activities and target groups, (3) structural networks – agent’s primary activity, (4) socially functional networks – social function, and (5) secondary networks – subordinate function(s) (Cvetinovic et al., 2016b, Cvetinovic et al., 2016a).
@@ -3978,6 +3992,28 @@ The novelty of the flatten reality of human and non-human agents is not in their
 •	The transdiciplinarity of an inclusive urban development model is enabled through transversal collaboration among equally valuable fields and individuals where proposals and solutions are common property and responsibility and solving problems goes beyond the specialized field. Its effectiveness and driving potential lie in its capacity to exceed the abstractions of urban planning, the concrete specifics of urban design and the politicization of urban transformations and participatory processes,  bringing all of these together  into united solutions that work as bridges for realms of ideas.
 
 •	An inclusive and dynamic urban development model fosters social inclusion and addresses informality and it also meets Millennium Goal (goal 7, target 11) prerogatives. In transitional countries, different marginalized groups and social groups that have resorted to informality constitute a significant percentage of the population. Belgrade, for example nowadays has between 1/3 and 1/2 of its housing stock informally constructed (Grubovic 2006) and Savamala, with its spatial and locational potential, is a breeding ground for real estate speculations. In this respect, if we take their needs, financial capacities and lifestyles into account as equal urban agents, this eventually leads to improvements in their living conditions. Therefore, an inclusive and dynamic urban development model is actually an articulation of human life in an urban realm which encourages active citizenship.
+
+\newpage
+\appendix
+\chapter{Data collection}
+
+\section{Interviews}
+\section{Questionnaires}
+\section{Workshops}
+
+\newpage
+\chapter{List of abbreviations}
+
+\newpage
+\chapter{Bibliography}
+\section{scientific}
+\section{legal documents}
+\section{grey literature - pracitce-based}
+\section{media sources}
+
+\newpage
+\chapter{CV Marija Cvetinovic}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
