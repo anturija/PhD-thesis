@@ -268,7 +268,7 @@ conceptualize a methodological hybrid for tracing urban complexity and dynamics
 
 \subsection{Overall Research Question}
 
-\textbf{Overall research question:} HOW To investigate \deleted{socio-spatial patterns of} post-socialist cities in order to reinvent a more inclusive and flexible approach to understanding Urban development dynamics engaging the complexity of an urban context? 
+\textbf{Overall research question:} HOW To investigate \deleted{socio-spatial patterns of} post-socialist cities in order to reinvent a more inclusive and flexible approach to understanding Urban development prospects engaging the complexity of an urban context? 
 
 \subsection{Main Concepts}
 The city is regarded as a geographically condensed, highly structured economic, and the most complex social phenomenon (Mumford 1961). "Time" and "social interactions", in the modern qualitative sense of the term, are now the leading determinant for the way urban systems function \hl{(ref SNF1)}. Urban structures interact in an environment that is constantly undergoing transitions, as they themselves are not permanent and unchangeable. As a result, this constantly influences and changes our point of view, influencing our way of solving problems that exist in our environment, as we and all of our surroundings are in a constant state of flux (Harvey 2003). This sort of relativism, where the interactions of as many elements as they emerge determine the context in which they are placed, should be a formative factor in addressing urban complexity and dynamics in terms of urban development prospects and circumstances. The theoretical stronghold of this thesis is the interpretation of urban development, namely going away from qualitative notion of the term and indicate its operational equivalence with more neutral and relativistic idea of urban transitions. Urban transitions encompass complexity and dynamics of an urban environment within the combination of urbanity (description of the state of an urban system and the agency of its transitions) and urban decision making (sorting urban elements and transitions according to the layers of interventions - planning, investment-based transformations, and participatory activities).
@@ -837,7 +837,7 @@ H2:  Urban development processes are determined  by  upgrading the  level  of  u
 
 \subsubsection{H3}
 
-H3: Complex urban development processes set up as an iterative procedure to trace the level of urbanity within the urban agency map can reinterpret a multi-layered morphology of urban decision making in terms of system flexibility and dynamics (transformation, maintenance, and/or change). A methodological hybrid that combines the Multi-agent system (MAS) and the Actor-network theory (ANT) offers a framework to capture urban dynamics and to reframe urban complexity at the neighbourhood level.
+H3: Complex urban development processes set up as an iterative procedure to trace the level of urbanity within the urban agency map can reinterpret a multi-layered morphology of urban decision making in terms of system resilience, flexibility and dynamics (transformation, maintenance, and/or change). A methodological hybrid that combines the Multi-agent system (MAS) and the Actor-network theory (ANT) offers a framework to capture urban dynamics and to reframe urban complexity at the neighbourhood level.
 
 \section{Research Design}
 
@@ -1055,7 +1055,7 @@ According to ANT social and structural descriptions of urban dynamics, data vali
 \\
 This 5-step ANT framework aims to illustrate urban development of a post-socialist neighbourhood in Belgrade – Savamala. For logical argumentation on network formation and development, we accept as basic rules the major ANT assumptions: (1) everything that matters is an actor and therefore engaged in a network(s); (2) there is no context or any non-associated element in the system. In this respect, we visualize Savamala urban development circumstances (all context-related, history-related, on-site and documentation-related data) in terms of actors (human and non-human) and the nature of links they are engaged in relative to their activities, priorities and relationships.
 
-\subsubsection{Structural analysis}
+\subsubsection{MAS Structural analysis}
 
 According to MAS, system dynamics relates to individual elements and their communication, free will, belief, competition, consensus and discord etc. This all must be taken into account, as it actually is in its application for computer programming. The system of analysis therefore consists of:
 •	E - environment: static, defined by the level of analysis - post-socialist neighbourhood;
@@ -1324,7 +1324,7 @@ Consequently, the deficiency of property policy, laws and institutions as well a
 This new generation of urban regulatory framework started with the 2003 Law on Urban Planning being further supported by the 2004 Privatization Law  and the 2009 Law on Conversion of Land aiming at adjusting it to the european regulation by re-decantrilazion of political and administrative power and resolving the land property issue \cite{Cagic 2014}. However, these policy agendas actually could not break strong relations between politicians and domestic tycoons built during the 1990s \cite{Peric 2016}.
 The political discontinuation when Serbian Progressive Party won government elections in 2012 stopped the practice of the collaboration with tycoons and turned to foreign investors putting at work new measures of distortion onto the urban regulatory framework and practice in Serbia \cite{Peric 2016}.
             
-\subsubsection{Urbanity of Serbian cities}
+\subsection{Urbanity of Serbian cities}
 
 Having an overview of the historic development of the Serbian state and its urban regulatory framework, it must be noted that it is lacking continuity of good practices and transformative actions. The trend of running down the inventions from the previous period in terms of planning process and planning practice strongly reduced the developmental potential of Serbian cities\cite{ref Peric 2016}. However, the planning context has kept its culturally moulded coherence, even though different political systems have been at play.
 \\    
@@ -1349,7 +1349,7 @@ As of the imagination of a famous contemporary Serbian author, \textit{"Belgrade
 
 \textbf{"Za Srbiju moze vaziti jedno opste pravilo: cija vlada toga i drzava,cija vlast toga i sloboda" (in Serbia there is a rule at stake: They who form the government, they lead the country and rule over freedom) Dubravka Stojanovic in the book "XXX" citing an anonymous MP during the period of the Kingdom of Serbia}
 
-\subsection{Belgrade - a City in Constant Transition}
+\subsubsection{Belgrade - a City in Constant Transition}
 
 \deleted{Figure Belgrade 19-20century, Roter Blagojevic in Doytchinov}
 \deleted{1.geopolitical data}
@@ -1674,7 +1674,7 @@ Therefore, Savamala, with its even more intensive top-down and bottom-up pressur
 
 \textbf{"As a result, the area's old inhabitants were summarily evicted to Palilula  and their fragile homes flattened overnight by the Prince's men" \cite{bureau savamala}}
 
-\subsection{Contextual circumstances of Savamala's Urbanity}
+\subsubsection{Contextual circumstances of Savamala's Urbanity}
 When addressing urbanity of Serbian cities, mainly its capital city and particularly Savamala, the goal is to affirm the deposition of temporal layers and to establish continuity in the process of urban transitions \cite{(Grozdanic 2008)}
 In the course of history, it has been conspicuous that in this context the state has not hitherto managed to solidify the main pillars of coherent socio-economic progress pipeline and adequate legal, institutional and educational framework in order to ensure stability and sustainability of the whole system. Even during the periods when the standard of living has increased and national economy seemed partly revived, the socio-political system showed the traces of surface decentralization and democratization. In general, Serbian society stayed heavily dependent on international relations, worldwide economic circumstances and regional political movements, being usually even only a passive recipient of what is happening on the global scale.
 \\
@@ -3199,37 +3199,47 @@ In sum, there are no local power poles or real decision makers in Savamala, ever
 This chapter displays the MAS analysis of current urban reality of Savamala.
 It brings up the analysis of urban agency in terms of elements and relations. The MAS method terminology is contextualized through the story of local contextual resources, social practices and urban conflicts. Such structuralization of elements and events in Savamala puts new light on already analysed actors and their networks \hl{Chapter 5}. The aggregation of agent preferences summarizes the socio-spatial patterns identified in Savamala. Finally, setting up the relations of urban agency and the identified resources, practices and conflicts offers the explanation of its dynamics within the scope of urban decision making layers.
 \\
+ADD PARAGRAPH ON URBANITY AND RESULTS
+\\
 Following the presented operationalization of agents and their preferences, several issues on the current circumstances in Savamala become conspicious.
 The social and spatial capital of Savamala were accentuated and activated through these abundant civic and creative initiatives. These initiatives responded to global trends and the urgent need for social and cultural spaces in the city. However, this alternative status of Savamala has its insurmountable limitations - the obstruction and neglect from the state. Thus, this relation between alternative culture and institutions, instead of becoming the harmonized practice, germinate into an urban conflict generator.
 Moreover, this theme park narrative of the BWP projected future, the disastrous estimations of the obligations for Serbia and the secretive and murky circumstances of its current realization is even bigger source of urban conflicts and a kind of exploitative mechanism for local capacities and potentials.
 In these circumstances, urban planning institutions and documentations appear passive and figure only as an instrument of power and interest, replicating thusly either the practices of the conflicts at play.
 \\
 The identification of agent preferences through the links between the agents/actors and the context operationalizes the current state of urban dynamics in Savamala.
-However, as urban dynamics alludes on continuous changes and constitutions of new realities and urban development prospects simultaneous, the aggregation of agents' preferences and the structure of their agents' nature evolve into a dynamic category forming the agent behaviour.
-The consequences of this agent behaviour are actually the forces of maintenance, transformation and/or change of an urban system.
-The proposed hybrid method that combines MAS and ANT could serve for such purpose and might provide the narrative of urban transitions that trace urban development dynamics at the neighbourhood level.
+However, as urban dynamics alludes on continuous changes and constitutions of new realities and urban development prospects simultaneously, the aggregation of agents' preferences and the structure of their agents' nature evolve into a dynamic category forming the agent behaviour.
+The consequences of this agent behaviour are actually the forces of maintenance, transformation and/or change processes of an urban system.
+The proposed hybrid method that combines MAS and ANT could serve for setting up an iterative procedure that refers to urban development in terms of urban transitions. The narrative of urban transitions might provide a framework to reframe urban complexity and to capture urban dynamics at the neighbourhood level.
+As the final result, the chapter is concluded with the elaboration of the flexibility trait of such diagram based on its pote social mathematics of urban development phenomenon
 
-\chapter{MAS-ANT data display}
+\chapter{MAS-ANT data and results display}
 
-Bearing in mind the identified local actors and networks they engage \hl{Chapter 5} and having indicated the links between the agents and the context \hl{Chapter 6 section},
-we plead for methodological revisions, adaptations or complements in terms of hybrid methods to
+The narrative of urban transitions turns new light on urban development and its processual nature. It relates back to the totality of an urban system addressing harmonization, contestations and collisions of the variety of structural elements, social factors and vested interests existing in an urban environment.
+While the theoretical scope of the levels of urbanity and the multi-layered morphology of urban decision making circumscribe urban complexity and dynamics, there appears a gap between fluid interpretations of contemporary cities and operational urban development prospects.
+Due to the conditions, weak urban systems, such as post-socialist cities surely are, tend to poorly understand and anticipate trends, risks and changes \cite{"State of the World’s Cities 2012/2013" 2012}. 
+The far-reaching aim is to capture urban complexity and dynamics of post-socialist cities in order to avoid urban development and related mistakes based on the western planning paradigm. 
+But the more general question remains as such: how to systematically approach analysing a vibrant and fluid context in order to adjust and balance urban development processes (Bolay et al. 2011)?
+\\
+This thesis research argue in favour of methodological revisions, adaptations or complements for urban research. It applies a methodological hybrid that combines the Multi-agent system (MAS) and the Actor-network theory (ANT) to demystify contextual processes of system resilience, flexibility and dynamics (transformation, maintenance, and/or change) within the complex urban agency map.
+To begin with, these contextual processes will be bounded into the narrative of urban transitions explaining the how this MAS-ANT theoretical construct is to be applied on Savamala.
+Bearing in mind the identified local actors and networks they engage in \hl{Chapter 5}, and having indicated the links between the actors/agents and the context \hl{Chapter 6 section}, the logics of agent behaviour will provide the explanations on interconnections between urban decision making layers, localized socio-spatial patterns and the dynamics of contextual processes.
+Later on, this chapter also displays the collected and analysed data in a new MAS-ANT cross-pollinated set of agent profiles and indicates the paths of maintenance, transformation and/or change in Savamala as an urban development indicator.
+Finally, the MAS-ANT diagram displays the results in such manner that the multitude of urban elements (complexity) are incorporated, the variety of their links are mapped (integration), and the past-present-future processes of long duration (dynamics) are marked.
+
+\section{The Body of Urban Transitions}
 
 Agent profile is a combination of agent structure, agent preferences, and agent behaviour. The behaviours of agents are identified by qualitative surveys and analysed using multi-criteria MAS analysis of their profiles and references to system development (maintenance, transformation or change). We defined it here through the categories of: social practices, urban conflicts and contextual resources (spatial capacities and social potential) which are continuously produced within this initial networking.
-
-We have already mentioned in the introduction that the level or urbanity and the morphology of urban decision making circumscribe urban dynamics. Herein, we will not elaborate the logics and the influences of urban decision making on agent behaviour and urban dynamics of contextual processes.  Even though there is a multitude of active actors that cross their influences in Savamala, the limits of this paper allow us to interpret in detail only the major ones in order to present the logics MAS-ANT cross-pollination method.
 
 Historical, contextual and on-site data are filtered in these rounds of data collection going from an abstract document-based version to group analysis in professional and educative workshops and elaborated interpretations from local experts. Such classification enables pointing the key actors of maintenance, transformation and change processes. ANT analysis of these results highlights individual features of these actors and constitutes agent structures, while MAS elaboration explains their behaviours and the involvement in urban affairs.
 
 They come into existence from already identified agents and have a crucial role for tracing urban development process: (a) resources instigate transformations, (b) practices identify system maintenance, and (c) conflicts boost potential changes. Moreover, these interactions also define what is possible (through contextual resources) and what is happening (urban conflicts and social practices). The analysis of the identified bottom-up agents according to these principles gives us the opportunity to determine their influence on the system evolution, their capacity to intervene and their biases that cause eventual negative effects.
 
-\hl{waves of planning 2006}
-several factors or determinants of the system evolution, including: internal political process and regime; ongoing international relations; economic forces; level of centralization  of  government;  professional  culture;  and  source  of  educational  expertise.
-
 A multitude of  these human and non-human actors shape top-down, interest-based and bottom-up developmental action and influence multi-layered decision making structure in terms of decisions  for maintenance, transformation and/or change of the system. 
 
 This captures the pace of change and the multi-layered nature of transformation, with the focus on the process of change in the city’s economy, society, system of governance and the spaces of production and consumption.
 
-\section{Body of urban transitions}
+\hl{waves of planning 2006}
+several factors or determinants of the system evolution, including: internal political process and regime; ongoing international relations; economic forces; level of centralization  of  government;  professional  culture;  and  source  of  educational  expertise.
 
 \cite{Çarikçi et al.2009}
 the tradition of favoritism and nepotism
@@ -3573,7 +3583,7 @@ Savamala participatory activities do not even correspond to the local needs \\hl
 \hl{NDVBGD analiza ugovora dokument}
 Belgrade Waterfront Capital Investment LLC is the sole provider of design, construction, management, marketing and trade activities
 
-\subsection{Urban Development Dynamics}
+\subsection{Resilience, Flexibility and Dynamics of Urban Systems as an Indicator of Urban Development Prospects}
 
 When we analysed the structure of agents, we addressed their basic characteristics already identified within the key categories from ANT methodology (Figure 3). These ANT categories indicate the figuration of the chosen agents in the concrete environment. They are adapted according to our interpretation of ANT methodological approach. Agent structures are circumscribed based on roles these agents play in Savamala, as follows: (1) agent nature – its operational manifestation, (2) level of influence – the boundaries of activities and target groups, (3) structural networks – agent’s primary activity, (4) socially functional networks – social function, and (5) secondary networks – subordinate function(s) (Cvetinovic et al., 2016b, Cvetinovic et al., 2016a).
 
@@ -3743,7 +3753,14 @@ spatialization of the ideology and of the structure in power
 \hl{Savic 2014}
 strongly spatialized identity through the exceptionalist discourses of smallness. 
 
-\section{MAS-ANT diagram}
+\section{The MAS-ANT Diagram}
+
+\cite{Braudel 1970}
+event-short term-long term
+structure: a  reality which survives through long periods of time and is only slowly eroded - both as foundations and obstacles
+social sciences refuse to accept history and time as necessary dimension of their studies - either events or omitting the time dimension altogether.
+the necessary relation of all  social phenomena  to the physical space - maps offer projections that surpass the time perspective.
+mathematical  techniques,  the  relation of social phenomena  to  geographical space and the introduction of  a  long term historical perspective.
 
 \section{Conclusion}
 
