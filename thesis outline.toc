@@ -125,7 +125,10 @@
 \contentsline {chapter}{\numberline {7}MAS-ANT data and results display}{174}
 \contentsline {section}{\numberline {7.1}The Body of Urban Transitions}{175}
 \contentsline {subsection}{\numberline {7.1.1}Profiling the agents}{176}
-\contentsline {subsection}{\numberline {7.1.2}Resilience, Flexibility and Dynamics of Urban Systems as an Indicator of Urban Development Prospects}{186}
+\contentsline {paragraph}{Agent structure}{177}
+\contentsline {paragraph}{Agent preferences}{179}
+\contentsline {paragraph}{Agent Behaviour}{181}
+\contentsline {subsection}{\numberline {7.1.2}Resilience, Flexibility and Dynamics of Urban Systems as an Indicator of Urban Development Prospects}{184}
 \contentsline {section}{\numberline {7.2}The MAS-ANT Diagram}{193}
 \contentsline {section}{\numberline {7.3}Conclusion}{194}
 \contentsline {chapter}{\numberline {8}Conclusions}{195}
