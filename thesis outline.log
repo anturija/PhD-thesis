@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  8 JAN 2017 22:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  9 JAN 2017 21:24
 entering extended mode
 **"thesis outline.tex"
 ("thesis outline.tex"
@@ -2092,13 +2092,13 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [177] [178]
+ [177] [178] [179]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ß in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [179] [180] [181] [182] [183] [184]
+ [180] [181] [182] [183] [184] [185]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no º in font cmr10!
 Missing character: There is no ƒ in font cmr10!
@@ -2114,45 +2114,14 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
- [185]
-Missing character: There is no ƒ in font cmr10!
-Missing character: There is no á in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ≈ in font cmr10!
-Missing character: There is no ° in font cmr10!
-Missing character: There is no ƒ in font cmr10!
-Missing character: There is no á in font cmr10!
  [186]
 
 Package natbib Warning: Citation `Volic et al' on page 187 undefined on input l
-ine 3431.
+ine 3440.
 
 
-Package natbib Warning: Citation `2012' on page 187 undefined on input line 343
-1.
+Package natbib Warning: Citation `2012' on page 187 undefined on input line 344
+0.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -2163,28 +2132,7 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
 [187]
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no ¨ in font cmr10!
-Missing character: There is no Ç in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no ¨ in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no ¨ in font cmr10!
-Missing character: There is no Å in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -2203,35 +2151,34 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [188]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [189]
+ [188]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ß in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ß in font cmr10!
 
 
-Package natbib Warning: Citation `Stupar' on page 190 undefined on input line 3
-535.
+Package natbib Warning: Citation `Stupar' on page 189 undefined on input line 3
+510.
 
-[190] [191]
+[189] [190]
 
-Package natbib Warning: Citation `√áarik√ßi et al.2009' on page 192 undefined o
-n input line 3638.
+Package natbib Warning: Citation `√áarik√ßi et al.2009' on page 191 undefined o
+n input line 3588.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-[192]
+[191]
 
-Package natbib Warning: Citation `Lehrer and Laidley 2008' on page 193 undefine
-d on input line 3687.
+Package natbib Warning: Citation `Lehrer and Laidley 2008' on page 192 undefine
+d on input line 3646.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -2246,21 +2193,22 @@ Missing character: There is no ‚ in font cmbx10!
 Missing character: There is no Ä in font cmbx10!
 Missing character: There is no ô in font cmbx10!
 
-Package natbib Warning: Citation `Volic et al' on page 193 undefined on input l
-ine 3715.
+Package natbib Warning: Citation `Volic et al' on page 192 undefined on input l
+ine 3674.
 
 
-Package natbib Warning: Citation `2012' on page 193 undefined on input line 371
-5.
+Package natbib Warning: Citation `2012' on page 192 undefined on input line 367
+4.
 
+[192]
 
 Package natbib Warning: Citation `Braudel 1970' on page 193 undefined on input 
-line 3721.
+line 3682.
 
 [193]
 
 Package natbib Warning: Citation `Coleman 1988' on page 194 undefined on input 
-line 3740.
+line 3701.
 
 [194]
 Chapter 8.
@@ -2424,7 +2372,7 @@ Here is how much of TeX's memory you used:
  7707 multiletter control sequences out of 15000+200000
  12866 words of font info for 46 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 32i,8n,39p,2368b,357s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,8n,39p,2014b,357s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/P
@@ -2439,7 +2387,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "thesis outline.pdf" (219 pages, 979027 bytes).
+Output written on "thesis outline.pdf" (219 pages, 981201 bytes).
 PDF statistics:
  762 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
