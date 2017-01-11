@@ -133,33 +133,36 @@
 \contentsline {subsubsection}{Interest-based Waterfront Future}{189}
 \contentsline {subsubsection}{Strategies and Tactics of Urban Institutions}{191}
 \contentsline {subsection}{\numberline {7.1.3}Resilience, Flexibility and Dynamics of Urban Processes}{192}
-\contentsline {section}{\numberline {7.2}The MAS-ANT Diagram}{195}
-\contentsline {section}{\numberline {7.3}Conclusion}{197}
-\contentsline {chapter}{\numberline {8}Conclusions}{198}
-\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{198}
-\contentsline {subsection}{\numberline {8.1.1}[..] to the research objectives}{198}
-\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{199}
-\contentsline {subsection}{\numberline {8.1.3}[..] to the methodological approach}{199}
-\contentsline {paragraph}{ANT}{199}
-\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{201}
-\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{201}
-\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{202}
-\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{203}
-\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{205}
-\contentsline {subsection}{\numberline {8.2.4}Urbanity}{205}
-\contentsline {section}{\numberline {8.3}Practical Implications}{205}
-\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{206}
-\contentsline {section}{\numberline {8.4}Limitations of the research}{206}
-\contentsline {section}{\numberline {8.5}Future Prospects}{207}
-\contentsline {chapter}{\numberline {A}Data collection}{208}
-\contentsline {section}{\numberline {A.1}Interviews}{208}
-\contentsline {section}{\numberline {A.2}Questionnaires}{208}
-\contentsline {section}{\numberline {A.3}Workshops}{208}
-\contentsline {chapter}{\numberline {B}List of abbreviations}{209}
-\contentsline {chapter}{\numberline {C}Bibliography}{210}
-\contentsline {section}{\numberline {C.1}scientific}{210}
-\contentsline {section}{\numberline {C.2}legal documents}{210}
-\contentsline {section}{\numberline {C.3}grey literature - pracitce-based}{210}
-\contentsline {section}{\numberline {C.4}media sources}{210}
-\contentsline {chapter}{\numberline {D}CV Marija Cvetinovic}{211}
-\contentsline {chapter}{Bibliography}{211}
+\contentsline {subsubsection}{The Practice of Maintenance}{193}
+\contentsline {subsubsection}{System transformation}{194}
+\contentsline {subsubsection}{Urban change}{196}
+\contentsline {section}{\numberline {7.2}The MAS-ANT Diagram}{197}
+\contentsline {section}{\numberline {7.3}Conclusion}{198}
+\contentsline {chapter}{\numberline {8}Conclusions}{200}
+\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{200}
+\contentsline {subsection}{\numberline {8.1.1}[..] to the research objectives}{200}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{201}
+\contentsline {subsection}{\numberline {8.1.3}[..] to the methodological approach}{201}
+\contentsline {paragraph}{ANT}{201}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{203}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{203}
+\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{204}
+\contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{205}
+\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{207}
+\contentsline {subsection}{\numberline {8.2.4}Urbanity}{207}
+\contentsline {section}{\numberline {8.3}Practical Implications}{207}
+\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{208}
+\contentsline {section}{\numberline {8.4}Limitations of the research}{208}
+\contentsline {section}{\numberline {8.5}Future Prospects}{209}
+\contentsline {chapter}{\numberline {A}Data collection}{210}
+\contentsline {section}{\numberline {A.1}Interviews}{210}
+\contentsline {section}{\numberline {A.2}Questionnaires}{210}
+\contentsline {section}{\numberline {A.3}Workshops}{210}
+\contentsline {chapter}{\numberline {B}List of abbreviations}{211}
+\contentsline {chapter}{\numberline {C}Bibliography}{212}
+\contentsline {section}{\numberline {C.1}scientific}{212}
+\contentsline {section}{\numberline {C.2}legal documents}{212}
+\contentsline {section}{\numberline {C.3}grey literature - pracitce-based}{212}
+\contentsline {section}{\numberline {C.4}media sources}{212}
+\contentsline {chapter}{\numberline {D}CV Marija Cvetinovic}{213}
+\contentsline {chapter}{Bibliography}{213}
