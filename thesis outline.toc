@@ -131,13 +131,13 @@
 \contentsline {subsection}{\numberline {7.1.2}Decision Making Scenario Layers' Scenarios as an Indicator of Urban Development Prospects}{186}
 \contentsline {subsubsection}{Operationality of bottom-up, on-site interventions}{186}
 \contentsline {subsubsection}{Interest-based Waterfront Future}{189}
-\contentsline {subsubsection}{Strategies and Tactics of Urban Institutions}{191}
-\contentsline {subsection}{\numberline {7.1.3}Resilience, Flexibility and Dynamics of Urban Processes}{192}
+\contentsline {subsubsection}{Strategies and Tactics of Urban Institutions}{192}
+\contentsline {subsection}{\numberline {7.1.3}Resilience, Flexibility and Dynamics of Urban Processes}{193}
 \contentsline {subsubsection}{The Practice of Maintenance}{193}
-\contentsline {subsubsection}{System transformation}{194}
+\contentsline {subsubsection}{System transformation}{195}
 \contentsline {subsubsection}{Urban change}{196}
 \contentsline {section}{\numberline {7.2}The MAS-ANT Diagram}{197}
-\contentsline {section}{\numberline {7.3}Conclusion}{198}
+\contentsline {section}{\numberline {7.3}Conclusion}{199}
 \contentsline {chapter}{\numberline {8}Conclusions}{200}
 \contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{200}
 \contentsline {subsection}{\numberline {8.1.1}[..] to the research objectives}{200}
