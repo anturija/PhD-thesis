@@ -148,21 +148,21 @@
 \contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{203}
 \contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{204}
 \contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{205}
-\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{207}
-\contentsline {subsection}{\numberline {8.2.4}Urbanity}{207}
-\contentsline {section}{\numberline {8.3}Practical Implications}{207}
-\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{208}
+\contentsline {subsubsection}{Serbia - Belgrade - Savamala}{206}
+\contentsline {subsection}{\numberline {8.2.4}Urbanity}{206}
+\contentsline {section}{\numberline {8.3}Practical Implications}{206}
+\contentsline {subsection}{\numberline {8.3.1}Urban Development model}{207}
 \contentsline {section}{\numberline {8.4}Limitations of the research}{208}
-\contentsline {section}{\numberline {8.5}Future Prospects}{209}
-\contentsline {chapter}{\numberline {A}Data collection}{210}
-\contentsline {section}{\numberline {A.1}Interviews}{210}
-\contentsline {section}{\numberline {A.2}Questionnaires}{210}
-\contentsline {section}{\numberline {A.3}Workshops}{210}
-\contentsline {chapter}{\numberline {B}List of abbreviations}{211}
-\contentsline {chapter}{\numberline {C}Bibliography}{212}
-\contentsline {section}{\numberline {C.1}scientific}{212}
-\contentsline {section}{\numberline {C.2}legal documents}{212}
-\contentsline {section}{\numberline {C.3}grey literature - pracitce-based}{212}
-\contentsline {section}{\numberline {C.4}media sources}{212}
-\contentsline {chapter}{\numberline {D}CV Marija Cvetinovic}{213}
-\contentsline {chapter}{Bibliography}{213}
+\contentsline {section}{\numberline {8.5}Future Prospects}{208}
+\contentsline {chapter}{\numberline {A}Data collection}{209}
+\contentsline {section}{\numberline {A.1}Interviews}{209}
+\contentsline {section}{\numberline {A.2}Questionnaires}{209}
+\contentsline {section}{\numberline {A.3}Workshops}{209}
+\contentsline {chapter}{\numberline {B}List of abbreviations}{210}
+\contentsline {chapter}{\numberline {C}Bibliography}{211}
+\contentsline {section}{\numberline {C.1}scientific}{211}
+\contentsline {section}{\numberline {C.2}legal documents}{211}
+\contentsline {section}{\numberline {C.3}grey literature - pracitce-based}{211}
+\contentsline {section}{\numberline {C.4}media sources}{211}
+\contentsline {chapter}{\numberline {D}CV Marija Cvetinovic}{212}
+\contentsline {chapter}{Bibliography}{212}
