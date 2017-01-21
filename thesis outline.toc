@@ -28,14 +28,14 @@
 \contentsline {subsubsection}{Urban Planning Strategies}{31}
 \contentsline {subsubsection}{Real Estate Bias}{33}
 \contentsline {subsubsection}{Traces of Participation}{34}
-\contentsline {subsubsection}{Decision making layers}{36}
-\contentsline {subsection}{\numberline {2.1.5}How to frame urbanity to grasp system dynamics}{36}
-\contentsline {section}{\numberline {2.2}Epistemological Framework}{40}
+\contentsline {subsubsection}{Urban Decision-making Layers}{36}
+\contentsline {subsection}{\numberline {2.1.5}How to frame urbanity to grasp system dynamics}{37}
+\contentsline {section}{\numberline {2.2}Epistemological Framework}{41}
 \contentsline {subsection}{\numberline {2.2.1}ANT in analysis of urban development}{42}
-\contentsline {subsection}{\numberline {2.2.2}Multi-Agent System for Process Simulation}{44}
-\contentsline {section}{\numberline {2.3}Local framework}{46}
+\contentsline {subsection}{\numberline {2.2.2}Multi-Agent System for Process Simulation}{45}
+\contentsline {section}{\numberline {2.3}Local framework}{47}
 \contentsline {subsection}{\numberline {2.3.1}Socio-spatial Patterns of Post-socialist cities}{47}
-\contentsline {subsection}{\numberline {2.3.2}Neighbourhood is the Local Unit}{49}
+\contentsline {subsection}{\numberline {2.3.2}Neighbourhood is the Local Unit}{50}
 \contentsline {section}{\numberline {2.4}Theoretical Framework}{50}
 \contentsline {chapter}{\numberline {3}Methodology}{51}
 \contentsline {section}{\numberline {3.1}Research Framework}{51}

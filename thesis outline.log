@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  21 JAN 2017 03:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  21 JAN 2017 15:10
 entering extended mode
 **"thesis outline.tex"
 ("thesis outline.tex"
@@ -612,7 +612,7 @@ Missing character: There is no ô in font cmr10!
 
 
 Package natbib Warning: Citation `(Lehrer and Laidley 2008)' on page 34 undefin
-ed on input line 716.
+ed on input line 721.
 
 [34] [35]
 Missing character: There is no ‚ in font cmr10!
@@ -707,13 +707,13 @@ Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
+ [39]
+
+Package natbib Warning: Citation `Coleman 1988' on page 40 undefined on input l
+ine 780.
 
 
-Package natbib Warning: Citation `Coleman 1988' on page 39 undefined on input l
-ine 786.
-
-[39]
-Overfull \hbox (1.83788pt too wide) in paragraph at lines 815--817
+Overfull \hbox (1.83788pt too wide) in paragraph at lines 809--811
 [][]\OT1/cmr/m/n/10.95 Morn[]-[]ings[] [][][]af[]-[]ter[] [][][]Ne[]-[]dovic[] 
 [][][]Bu[]-[]dic the changes hap-pen through in-ven-tion (and re-invention),
  []
@@ -761,7 +761,7 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-[40]
+[40] [41]
 Missing character: There is no Ô in font cmr10!
 Missing character: There is no ¨ in font cmr10!
 Missing character: There is no Ç in font cmr10!
@@ -837,7 +837,7 @@ Missing character: There is no ƒ in font cmr10!
 Missing character: There is no á in font cmr10!
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no á in font cmr10!
- [41] [42] [43] [44]
+ [42] [43] [44]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -847,13 +847,13 @@ Missing character: There is no Ç in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
+ [45]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [45]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -866,6 +866,7 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+ [46]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -893,7 +894,6 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [46]
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∏ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
@@ -1105,12 +1105,12 @@ Missing character: There is no ô in font cmr10!
  [76] [77] [78]
 
 Package natbib Warning: Citation `Blagojevic 2009' on page 79 undefined on inpu
-t line 1521.
+t line 1517.
 
 [79] [80] [81] [82]
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015' on page 83 unde
-fined on input line 1553.
+fined on input line 1549.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no √ in font cmr10!
@@ -1124,16 +1124,16 @@ Missing character: There is no √ in font cmr10!
 Missing character: There is no º in font cmr10!
 
 Package natbib Warning: Citation `waves of planning 2006' on page 83 undefined 
-on input line 1571.
+on input line 1567.
 
 [83]
 
 Package natbib Warning: Citation `Vesna Cagic 2014' on page 84 undefined on inp
-ut line 1580.
+ut line 1576.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 84 undefined on input lin
-e 1580.
+e 1576.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1143,23 +1143,23 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
 Package natbib Warning: Citation `waves of planning 2006' on page 84 undefined 
-on input line 1581.
+on input line 1577.
 
 
 Package natbib Warning: Citation `Mornings after Nedovic Budic' on page 84 unde
-fined on input line 1585.
+fined on input line 1581.
 
 
 Package natbib Warning: Citation `Vujosevic Collapse of strategist thinking' on
- page 84 undefined on input line 1586.
+ page 84 undefined on input line 1582.
 
 
 Package natbib Warning: Citation `(Vujosevic and Nedovic 2006)' on page 84 unde
-fined on input line 1587.
+fined on input line 1583.
 
 
 Package natbib Warning: Citation `adjustment of planning practice nedovic budic
- 2001' on page 84 undefined on input line 1587.
+ 2001' on page 84 undefined on input line 1583.
 
 [84]
 Missing character: There is no √ in font cmr10!
@@ -1167,15 +1167,15 @@ Missing character: There is no © in font cmr10!
 
 
 Package natbib Warning: Citation `from Grozdanic find references' on page 85 un
-defined on input line 1607.
+defined on input line 1603.
 
 
 Package natbib Warning: Citation `(Vujosevic and Nedovic 2006)' on page 85 unde
-fined on input line 1608.
+fined on input line 1604.
 
 
 Package natbib Warning: Citation `Vladina strategija za smanjenje siromastva' o
-n page 85 undefined on input line 1615.
+n page 85 undefined on input line 1611.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no √ in font cmr10!
@@ -1190,45 +1190,45 @@ Missing character: There is no ∂ in font cmr10!
 [85] [86] [87]
 
 Package natbib Warning: Citation `Mornings after Nedovic Budic' on page 88 unde
-fined on input line 1646.
+fined on input line 1642.
 
 
 Package natbib Warning: Citation `ref Peric 2016' on page 88 undefined on input
- line 1648.
+ line 1644.
 
 [88]
 
 Package natbib Warning: Citation `Vujosevic 2015 Regionalizam u Srbiji 2' on pa
-ge 89 undefined on input line 1661.
+ge 89 undefined on input line 1657.
 
 
 Package natbib Warning: Citation `Mornings after Nedovic Budic' on page 89 unde
-fined on input line 1662.
+fined on input line 1658.
 
 
 Package natbib Warning: Citation `adjustment of planning practice nedovic budic
- 2001' on page 89 undefined on input line 1662.
+ 2001' on page 89 undefined on input line 1658.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 89 undefined on input lin
-e 1666.
+e 1662.
 
 
 Package natbib Warning: Citation `Cagic 2014' on page 89 undefined on input lin
-e 1672.
+e 1668.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 89 undefined on input lin
-e 1672.
+e 1668.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 89 undefined on input lin
-e 1673.
+e 1669.
 
 [89]
 
 Package natbib Warning: Citation `ref Peric 2016' on page 90 undefined on input
- line 1677.
+ line 1673.
 
 [90] [91] [92]
 Missing character: There is no ‚ in font cmr10!
@@ -1243,12 +1243,12 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
  [96]
-Underfull \hbox (badness 10000) in paragraph at lines 1779--1781
+Underfull \hbox (badness 10000) in paragraph at lines 1775--1777
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1793--1795
+Underfull \hbox (badness 10000) in paragraph at lines 1789--1791
 
  []
 
@@ -1272,35 +1272,35 @@ Missing character: There is no ô in font cmr10!
  [99]
 
 Package natbib Warning: Citation `Vujosevic 2015 Regionalizam u Srbiji 2' on pa
-ge 100 undefined on input line 1849.
+ge 100 undefined on input line 1845.
 
 
-Package natbib Warning: Citation `ref' on page 100 undefined on input line 1853
+Package natbib Warning: Citation `ref' on page 100 undefined on input line 1849
 .
 
 
 Package natbib Warning: Citation `(Savic 2014' on page 100 undefined on input l
-ine 1855.
+ine 1851.
 
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015)' on page 100 un
-defined on input line 1855.
+defined on input line 1851.
 
 
 Package natbib Warning: Citation `Vanista Lazarevic in Doytchinov 2015' on page
- 100 undefined on input line 1856.
+ 100 undefined on input line 1852.
 
 
-Package natbib Warning: Citation `ref' on page 100 undefined on input line 1858
+Package natbib Warning: Citation `ref' on page 100 undefined on input line 1854
 .
 
 
 Package natbib Warning: Citation `(Prodanovic Stariji i lepsi Beograd)' on page
- 100 undefined on input line 1858.
+ 100 undefined on input line 1854.
 
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 100 undefined on input l
-ine 1861.
+ine 1857.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1308,7 +1308,7 @@ Missing character: There is no ì in font cmr10!
 [100]
 
 Package natbib Warning: Citation `(Grozdanic 2008)' on page 101 undefined on in
-put line 1872.
+put line 1868.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1319,6 +1319,17 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Package natbib Warning: Citation `(Hirt 2009)' on page 101 undefined on input l
+ine 1878.
+
+
+Package natbib Warning: Citation `Grozdanic' on page 101 undefined on input lin
+e 1879.
+
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1327,205 +1338,194 @@ Package natbib Warning: Citation `(Hirt 2009)' on page 101 undefined on input l
 ine 1882.
 
 
-Package natbib Warning: Citation `Grozdanic' on page 101 undefined on input lin
-e 1883.
-
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-
 Package natbib Warning: Citation `(Hirt 2009)' on page 101 undefined on input l
-ine 1886.
-
-
-Package natbib Warning: Citation `(Hirt 2009)' on page 101 undefined on input l
-ine 1886.
+ine 1882.
 
 
 Package natbib Warning: Citation `ref(Stupar 2004 isocarp)' on page 101 undefin
-ed on input line 1887.
+ed on input line 1883.
 
 
 Package natbib Warning: Citation `Grozdanic' on page 101 undefined on input lin
-e 1888.
+e 1884.
 
 
 Package natbib Warning: Citation `Zekovic et al. 2015' on page 101 undefined on
- input line 1892.
+ input line 1888.
 
 
 Package natbib Warning: Citation `Cities in Transition 2013' on page 101 undefi
-ned on input line 1896.
+ned on input line 1892.
 
 
 Package natbib Warning: Citation `Vukmirovic et al 2013' on page 101 undefined 
-on input line 1897.
+on input line 1893.
 
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no ç in font cmr10!
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015' on page 101 und
-efined on input line 1900.
+efined on input line 1896.
 
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 101 undefined on input l
-ine 1902.
+ine 1898.
 
 
 Package natbib Warning: Citation `Vanista Lazarevic in Doytchinov 2015' on page
- 101 undefined on input line 1907.
+ 101 undefined on input line 1903.
 
 [101] [102]
 
 Package natbib Warning: Citation `other ref Samardzic in Doytchinov 2015' on pa
-ge 103 undefined on input line 1912.
+ge 103 undefined on input line 1908.
 
 
 Package natbib Warning: Citation `Vujovic and Petrovic 2007' on page 103 undefi
-ned on input line 1912.
+ned on input line 1908.
 
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015' on page 103 und
-efined on input line 1913.
+efined on input line 1909.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1911--1915
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1911
 
  []
 
 [103]
 
 Package natbib Warning: Citation `Nedovic-Budic 2001' on page 104 undefined on 
-input line 1919.
+input line 1915.
 
 
 Package natbib Warning: Citation `Vujovic et al. 2007' on page 104 undefined on
- input line 1921.
+ input line 1917.
 
 
 Package natbib Warning: Citation `(Hirt 2008)' on page 104 undefined on input l
-ine 1922.
+ine 1918.
 
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no á in font cmr10!
 [104]
 
 Package natbib Warning: Citation `("Urban Incubator Belgrade" 2013)' on page 10
-5 undefined on input line 1938.
+5 undefined on input line 1934.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 
-Overfull \hbox (20.91211pt too wide) in paragraph at lines 1933--1942
+Overfull \hbox (20.91211pt too wide) in paragraph at lines 1929--1938
 \OT1/cmr/m/n/10.95 During all these years Sava-mala has been a venue with a pla
 u-si-ble col-li-sion (tra-di-tional/modern;
  []
 
 [105]
-Overfull \hbox (18.66127pt too wide) in paragraph at lines 1961--1962
+Overfull \hbox (18.66127pt too wide) in paragraph at lines 1957--1958
 \OT1/cmr/m/n/10.95 night life, cre-ative clus-ter and lim-ited cit-i-zen par-ti
 c-i-pa-tion gov-erned by non-governmental
  []
 
 
 Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
-106 undefined on input line 1966.
+106 undefined on input line 1962.
 
 
 Package natbib Warning: Citation `bureau savamala' on page 106 undefined on inp
-ut line 1971.
+ut line 1967.
+
+
+Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
+106 undefined on input line 1968.
+
+
+Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
+106 undefined on input line 1969.
 
 
 Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
 106 undefined on input line 1972.
-
-
-Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
-106 undefined on input line 1973.
-
-
-Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
-106 undefined on input line 1976.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
 Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
-106 undefined on input line 1977.
+106 undefined on input line 1973.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
 Package natbib Warning: Citation `Blagojevic 2009' on page 106 undefined on inp
-ut line 1977.
+ut line 1973.
 
 
 Package natbib Warning: Citation `Bureau Savamala' on page 106 undefined on inp
-ut line 1991.
+ut line 1987.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 
-LaTeX Warning: Reference `Nusic' on page 106 undefined on input line 1994.
+LaTeX Warning: Reference `Nusic' on page 106 undefined on input line 1990.
 
 
 Package natbib Warning: Citation `ref and Kamenzind2' on page 106 undefined on 
-input line 2002.
+input line 1998.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 
 Package natbib Warning: Citation `Zekoviƒá et al.' on page 106 undefined on inp
-ut line 2020.
+ut line 2016.
 
 
 Package natbib Warning: Citation `2016; Cvetinovic et al.' on page 106 undefine
-d on input line 2020.
+d on input line 2016.
 
 
 Package natbib Warning: Citation `2016b)' on page 106 undefined on input line 2
-020.
+016.
 
 [106] [107] [108]
 
 Package natbib Warning: Citation `bureau savamala' on page 109 undefined on inp
-ut line 2025.
+ut line 2021.
 
 [109]
 
 Package natbib Warning: Citation `(Grozdanic 2008)' on page 110 undefined on in
-put line 2028.
+put line 2024.
 
 
 Package natbib Warning: Citation `(Nedovic-Budic' on page 110 undefined on inpu
-t line 2043.
+t line 2039.
 
 
 Package natbib Warning: Citation `2001)' on page 110 undefined on input line 20
-43.
+39.
 
 [110]
 
 Package natbib Warning: Citation `Vujosevic and Nedovic Budic 2006' on page 111
- undefined on input line 2058.
+ undefined on input line 2054.
 
 
 Package natbib Warning: Citation `(Stojkov and Dobricic 2012' on page 111 undef
-ined on input line 2059.
+ined on input line 2055.
 
 
 Package natbib Warning: Citation `Arbter 2001)' on page 111 undefined on input 
-line 2059.
+line 2055.
 
 [111]
 
 Package natbib Warning: Citation `Stupar 2004' on page 112 undefined on input l
-ine 2071.
+ine 2067.
 
 
-Overfull \hbox (2.75221pt too wide) in paragraph at lines 2075--2076
+Overfull \hbox (2.75221pt too wide) in paragraph at lines 2071--2072
 []\OT1/cmr/m/n/10.95 ESPON 2020 (Eu-ro-pean Spa-tial Plan-ning Ob-ser-va-tory N
 et-work) is a pro-gramme
  []
@@ -1533,197 +1533,197 @@ et-work) is a pro-gramme
 [112]
 
 Package natbib Warning: Citation `Vujovic and Petrovic 2007' on page 113 undefi
-ned on input line 2099.
+ned on input line 2095.
 
 
 Package natbib Warning: Citation `Zakon 2003' on page 113 undefined on input li
-ne 2106.
+ne 2102.
 
 
 Package natbib Warning: Citation `waves of planning 2006' on page 113 undefined
- on input line 2106.
+ on input line 2102.
 
 
-Package natbib Warning: Citation `ref' on page 113 undefined on input line 2107
+Package natbib Warning: Citation `ref' on page 113 undefined on input line 2103
 .
 
 
-Package natbib Warning: Citation `ref' on page 113 undefined on input line 2109
+Package natbib Warning: Citation `ref' on page 113 undefined on input line 2105
 .
 
 
 Package natbib Warning: Citation `Vujosevic and Nedovic Budic 2006' on page 113
- undefined on input line 2112.
+ undefined on input line 2108.
 
 
 Package natbib Warning: Citation `Vujovic and Petrovic 2007' on page 113 undefi
-ned on input line 2114.
+ned on input line 2110.
 
 [113]
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 114 undefined on input l
-ine 2130.
+ine 2126.
 
 [114]
 
 Package natbib Warning: Citation `nedovic budic 2001' on page 115 undefined on 
-input line 2137.
+input line 2133.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-115 undefined on input line 2137.
+115 undefined on input line 2133.
 
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 115 undefined on input l
-ine 2144.
+ine 2140.
 
 
 Package natbib Warning: Citation `Vujosevic 2015 Regionalizam u Srbiji 2' on pa
-ge 115 undefined on input line 2148.
+ge 115 undefined on input line 2144.
 
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
 
 Package natbib Warning: Citation `Vujosevic and Nedovic Budic 2006' on page 115
- undefined on input line 2150.
+ undefined on input line 2146.
 
 [115]
 
 Package natbib Warning: Citation `Stojkov and Dobricic 2012 02' on page 116 und
-efined on input line 2159.
+efined on input line 2155.
 
 
 Package natbib Warning: Citation `ref Official Gazette of the City of Belgrade 
-no 27/03' on page 116 undefined on input line 2168.
+no 27/03' on page 116 undefined on input line 2164.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-116 undefined on input line 2170.
+116 undefined on input line 2166.
+
+
+Package natbib Warning: Citation `ref' on page 116 undefined on input line 2167
+.
+
+
+Package natbib Warning: Citation `Grozdanic' on page 116 undefined on input lin
+e 2169.
 
 
 Package natbib Warning: Citation `ref' on page 116 undefined on input line 2171
 .
 
 
-Package natbib Warning: Citation `Grozdanic' on page 116 undefined on input lin
-e 2173.
-
-
 Package natbib Warning: Citation `ref' on page 116 undefined on input line 2175
-.
-
-
-Package natbib Warning: Citation `ref' on page 116 undefined on input line 2179
 .
 
 [116]
 
 Package natbib Warning: Citation `Stupar 2004' on page 117 undefined on input l
-ine 2185.
+ine 2181.
 
 
-Overfull \hbox (16.62344pt too wide) in paragraph at lines 2187--2188
+Overfull \hbox (16.62344pt too wide) in paragraph at lines 2183--2184
 []\OT1/cmr/m/n/10.95 Brownfield, ur-ban and nat-u-ral her-itage re-gen-er-a-tio
 n and preser-va-tion (ex-industrial
  []
 
 
-Overfull \hbox (3.78755pt too wide) in paragraph at lines 2190--2191
+Overfull \hbox (3.78755pt too wide) in paragraph at lines 2186--2187
 []\OT1/cmr/m/n/10.95 numerous ar-chi-tec-tural com-pe-ti-tions (the Bel-grade m
 a-rina, mul-ti-func-tional busi-
  []
 
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 117 undefined on inpu
-t line 2207.
+t line 2203.
 
 
 Package natbib Warning: Citation `Stojkov and Dobricic 2012 02' on page 117 und
-efined on input line 2208.
+efined on input line 2204.
 
 [117]
 
 Package natbib Warning: Citation `(Maksic 2012)' on page 118 undefined on input
- line 2219.
+ line 2215.
 
 
 Package natbib Warning: Citation `Maksic 2012' on page 118 undefined on input l
-ine 2230.
+ine 2226.
 
 [118]
 
 Package natbib Warning: Citation `adjustment of planning practice nedovic budic
- 2001' on page 119 undefined on input line 2243.
+ 2001' on page 119 undefined on input line 2239.
 
 
 Package natbib Warning: Citation `Vujosevic and Maricic 2012' on page 119 undef
-ined on input line 2243.
+ined on input line 2239.
 
 
 Package natbib Warning: Citation `Vujosevic and Maricic 2012' on page 119 undef
-ined on input line 2245.
+ined on input line 2241.
 
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 119 undefined on inpu
-t line 2248.
+t line 2244.
 
 
 Package natbib Warning: Citation `(Harvey 2012)' on page 119 undefined on input
- line 2253.
+ line 2249.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
 Package natbib Warning: Citation `(Bolay et al. 2005)' on page 119 undefined on
- input line 2255.
+ input line 2251.
 
 
 Package natbib Warning: Citation `(Djokic et al. 2007)' on page 119 undefined o
-n input line 2255.
+n input line 2251.
 
 
 Package natbib Warning: Citation `(Ellin 1999)' on page 119 undefined on input 
-line 2256.
+line 2252.
 
 [119]
 
 Package natbib Warning: Citation `(Vujosevic 2010)' on page 120 undefined on in
-put line 2258.
+put line 2254.
 
 
 Package natbib Warning: Citation `(Djokic et al. 2007)' on page 120 undefined o
-n input line 2259.
+n input line 2255.
 
 
 Package natbib Warning: Citation `(Vujovic and Petrovic 2007)' on page 120 unde
-fined on input line 2260.
+fined on input line 2256.
 
 
 Package natbib Warning: Citation `adjustment of planning practice nedovic budic
- 2001' on page 120 undefined on input line 2264.
+ 2001' on page 120 undefined on input line 2260.
 
 
 Package natbib Warning: Citation `Lazarevic Bajec 2009' on page 120 undefined o
-n input line 2264.
+n input line 2260.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-120 undefined on input line 2270.
+120 undefined on input line 2266.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-120 undefined on input line 2275.
+120 undefined on input line 2271.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-120 undefined on input line 2283.
+120 undefined on input line 2279.
 
 [120]
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-121 undefined on input line 2297.
+121 undefined on input line 2293.
 
 [121] [122]
 Missing character: There is no ‚ in font cmr10!
@@ -1732,61 +1732,61 @@ Missing character: There is no ô in font cmr10!
 
 
 Package natbib Warning: Citation `Peric 2016' on page 123 undefined on input li
-ne 2309.
+ne 2305.
 
 
 Package natbib Warning: Citation `Zaklina document' on page 123 undefined on in
-put line 2315.
+put line 2311.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-123 undefined on input line 2315.
+123 undefined on input line 2311.
 
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ≤ in font cmr10!
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-123 undefined on input line 2319.
+123 undefined on input line 2315.
 
 
 Package natbib Warning: Citation `Maruna 2015' on page 123 undefined on input l
-ine 2331.
+ine 2327.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 123 undefined on input li
-ne 2331.
+ne 2327.
 
 
 Package natbib Warning: Citation `Maruna 2015' on page 123 undefined on input l
-ine 2332.
+ine 2328.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 123 undefined on input li
-ne 2332.
+ne 2328.
 
 [123] [124]
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-125 undefined on input line 2335.
+125 undefined on input line 2331.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-125 undefined on input line 2345.
+125 undefined on input line 2341.
 
 
 Package natbib Warning: Citation `(Urban Incubator Belgrade 2013)' on page 125 
-undefined on input line 2354.
+undefined on input line 2350.
 
 
 Package natbib Warning: Citation `Cvetinovic et al 2013' on page 125 undefined 
-on input line 2380.
+on input line 2376.
 
 
 Package natbib Warning: Citation `Cvetinovic et al 2013' on page 125 undefined 
-on input line 2398.
+on input line 2394.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2398.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2394.
 
 [125] [126] [127]
 Missing character: There is no ‚ in font cmr9!
@@ -1795,7 +1795,7 @@ Missing character: There is no ô in font cmr9!
 
 
 Package natbib Warning: Citation `(‚ÄúBureau Savamala‚Äù 2013)' on page 128 und
-efined on input line 2415.
+efined on input line 2411.
 
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
@@ -1806,11 +1806,11 @@ Missing character: There is no ù in font cmr9!
 [128] [129]
 
 Package natbib Warning: Citation `(Kamenzind' on page 130 undefined on input li
-ne 2449.
+ne 2445.
 
 
 Package natbib Warning: Citation `Interview director Goethe institute 2013)' on
- page 130 undefined on input line 2449.
+ page 130 undefined on input line 2445.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1818,13 +1818,13 @@ Missing character: There is no ô in font cmr10!
 [130] [131]
 
 Package natbib Warning: Citation `(Grozdanic)' on page 132 undefined on input l
-ine 2476.
+ine 2472.
 
 [132]
 Chapter 5.
 
 Package natbib Warning: Citation `Stojkov grad kultura politika' on page 133 un
-defined on input line 2485.
+defined on input line 2481.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1845,19 +1845,19 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Overfull \hbox (12.75932pt too wide) in paragraph at lines 2538--2597
+Overfull \hbox (12.75932pt too wide) in paragraph at lines 2534--2593
 \OT1/cmr/m/n/10.95 Being adopted to the Eu-ro-pean ad-min-is-tra-tive frame-wor
 k (Of-fi-cial gazette RS 09/2014),
  []
 
 
-Overfull \hbox (2.1856pt too wide) in paragraph at lines 2538--2597
+Overfull \hbox (2.1856pt too wide) in paragraph at lines 2534--2593
 \OT1/cmr/m/n/10.95 the dom-i-nance of pri-vate own-er-ship; (3) mar-ket led eco
 n-omy and $[]$;
  []
 
 [135] [136] [137] [138]
-Overfull \hbox (11.39172pt too wide) in paragraph at lines 2609--2617
+Overfull \hbox (11.39172pt too wide) in paragraph at lines 2605--2613
 \OT1/cmr/m/n/10.95 where plan-ning very of-ten serve as a mech-a-nism to sup-po
 rt of $[]$
  []
@@ -1865,11 +1865,11 @@ rt of $[]$
 [139]
 
 Package natbib Warning: Citation `(Cvetinovic et al. 2013)' on page 140 undefin
-ed on input line 2658.
+ed on input line 2654.
 
 
 Package natbib Warning: Citation `("Mikser Festival" 2012)' on page 140 undefin
-ed on input line 2658.
+ed on input line 2654.
 
 [140]
 Missing character: There is no ƒ in font cmr10!
@@ -1887,37 +1887,37 @@ Missing character: There is no © in font cmr10!
 
 
 Package natbib Warning: Citation `Latour 2005' on page 144 undefined on input l
-ine 2743.
+ine 2739.
 
 
 Package natbib Warning: Citation `Latour 2005' on page 144 undefined on input l
-ine 2743.
+ine 2739.
 
 
 Package natbib Warning: Citation `Latour 2005' on page 144 undefined on input l
-ine 2744.
+ine 2740.
 
 [144] [145] [146] [147] [148]
 
 Package natbib Warning: Citation `Latour 2005' on page 149 undefined on input l
-ine 2841.
+ine 2837.
 
 [149] [150]
 
 Package natbib Warning: Citation `Mathur' on page 151 undefined on input line 2
-880.
+876.
 
 
 Package natbib Warning: Citation `alternativni izvestaj' on page 151 undefined 
-on input line 2908.
+on input line 2904.
 
 
 Package natbib Warning: Citation `Alternativni izvestaj' on page 151 undefined 
-on input line 2910.
+on input line 2906.
 
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 151 undefined on inpu
-t line 2912.
+t line 2908.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1925,7 +1925,7 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 
-Overfull \hbox (1.44537pt too wide) in paragraph at lines 2879--2937
+Overfull \hbox (1.44537pt too wide) in paragraph at lines 2875--2933
 \OT1/cmr/m/n/10.95 influence, impact-priority, power-interest, support-oppositi
 on, and constructive-destructive
  []
@@ -1933,58 +1933,58 @@ on, and constructive-destructive
 [151] [152] [153] [154] [155]
 
 Package natbib Warning: Citation `(Vujovic and Petrovic 2007)' on page 156 unde
-fined on input line 2953.
+fined on input line 2949.
 
 
 Package natbib Warning: Citation `(Vujosevic and Maricic 2012)' on page 156 und
-efined on input line 2960.
+efined on input line 2956.
 
 [156]
 
 Package natbib Warning: Citation `Vujovic and Petrovic 2007' on page 157 undefi
-ned on input line 2977.
+ned on input line 2973.
 
 [157]
 
 Package natbib Warning: Citation `Alternativni izvestaj' on page 158 undefined 
-on input line 2990.
+on input line 2986.
 
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 158 undefined on inpu
-t line 3001.
+t line 2997.
 
 [158]
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 159 undefined on inpu
-t line 3015.
+t line 3011.
 
 [159]
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 160 undefined on inpu
-t line 3032.
+t line 3028.
 
 [160] [161]
 
 Package natbib Warning: Citation `(Latour 2005' on page 162 undefined on input 
-line 3075.
+line 3071.
 
 
 Package natbib Warning: Citation `pp.256-257)' on page 162 undefined on input l
-ine 3075.
+ine 3071.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
 Package natbib Warning: Citation `(Lee and Brown 1994' on page 162 undefined on
- input line 3075.
+ input line 3071.
 
 
 Package natbib Warning: Citation `Gad and Jensen 2010)' on page 162 undefined o
-n input line 3075.
+n input line 3071.
 
 
-Overfull \hbox (1.44537pt too wide) in paragraph at lines 3063--3081
+Overfull \hbox (1.44537pt too wide) in paragraph at lines 3059--3077
 \OT1/cmr/m/n/10.95 influence, impact-priority, power-interest, support-oppositi
 on, and constructive-destructive
  []
@@ -1993,26 +1993,26 @@ on, and constructive-destructive
 Chapter 6.
 
 Package natbib Warning: Citation `(Bousquet and Le Page' on page 164 undefined 
-on input line 3087.
+on input line 3083.
 
 
 Package natbib Warning: Citation `2004)' on page 164 undefined on input line 30
-87.
+83.
 
 [164
 
 ]
 
 Package natbib Warning: Citation `Camagni and Capello 2012' on page 165 undefin
-ed on input line 3124.
+ed on input line 3120.
 
 
 Package natbib Warning: Citation `Marcus 2007' on page 165 undefined on input l
-ine 3124.
+ine 3120.
 
 
 Package natbib Warning: Citation `Golubovic 2007' on page 165 undefined on inpu
-t line 3124.
+t line 3120.
 
 [165]
 Missing character: There is no ‚ in font cmr9!
@@ -2024,67 +2024,67 @@ Missing character: There is no ô in font cmr10!
  [166] [167] [168]
 
 Package natbib Warning: Citation `Rode 2006' on page 169 undefined on input lin
-e 3194.
+e 3190.
 
 
 Package natbib Warning: Citation `(Lynch and Rodwin 1958: 201)' on page 169 und
-efined on input line 3194.
+efined on input line 3190.
 
 
 Package natbib Warning: Citation `Tonkiss 2014' on page 169 undefined on input 
-line 3195.
+line 3191.
 
 
 Package natbib Warning: Citation `Coleman 1988' on page 169 undefined on input 
-line 3197.
+line 3193.
 
 
 Package natbib Warning: Citation `Adjustments of Planning practice Nedovic budi
-c 2001' on page 169 undefined on input line 3201.
+c 2001' on page 169 undefined on input line 3197.
 
 
 Package natbib Warning: Citation `Vujosevic and Maricic 2012' on page 169 undef
-ined on input line 3202.
+ined on input line 3198.
 
 
 Package natbib Warning: Citation `Mrdjenovic et al 2015' on page 169 undefined 
-on input line 3202.
+on input line 3198.
 
 
 Package natbib Warning: Citation `Vanista Lazarevic in Doytchinov 2015' on page
- 169 undefined on input line 3204.
+ 169 undefined on input line 3200.
 
 
 Package natbib Warning: Citation `Vanista Lazarevic in Doytchinov 2015' on page
- 169 undefined on input line 3205.
+ 169 undefined on input line 3201.
 
 
 Package natbib Warning: Citation `Cvetinovic et al 2013' on page 169 undefined 
-on input line 3212.
+on input line 3208.
 
 
 Package natbib Warning: Citation `Cvetinovic et al 2013' on page 169 undefined 
-on input line 3212.
+on input line 3208.
 
 
 Package natbib Warning: Citation `Cvetinovic et al 2013' on page 169 undefined 
-on input line 3213.
+on input line 3209.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 
 Package natbib Warning: Citation `Cvetinovic et al 2013' on page 169 undefined 
-on input line 3221.
+on input line 3217.
 
 
 Package natbib Warning: Citation `Lonely planet' on page 169 undefined on input
- line 3230.
+ line 3226.
 
 Missing character: There is no √ in font cmr9!
 Missing character: There is no © in font cmr9!
 
 LaTeX Warning: Reference `regulation, media' on page 169 undefined on input lin
-e 3234.
+e 3230.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -2095,16 +2095,16 @@ Missing character: There is no ô in font cmr10!
 [169] [170] [171]
 
 Package natbib Warning: Citation `Holanda 2011' on page 172 undefined on input 
-line 3274.
+line 3270.
 
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 172 undefined on input l
-ine 3294.
+ine 3290.
 
 [172] [173]
 
 Package natbib Warning: Citation `Cvetinovic et al 2013' on page 174 undefined 
-on input line 3316.
+on input line 3312.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ß in font cmr10!
@@ -2112,7 +2112,7 @@ Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 
 Package natbib Warning: Citation `Hirt 2009' on page 174 undefined on input lin
-e 3336.
+e 3332.
 
 [174] [175] [176] [177] [178]
 Missing character: There is no √ in font cmbx10!
@@ -2120,11 +2120,11 @@ Missing character: There is no ß in font cmbx10!
 
 
 Package natbib Warning: Citation `Cvetinovic et al.' on page 179 undefined on i
-nput line 3385.
+nput line 3381.
 
 
 Package natbib Warning: Citation `2013' on page 179 undefined on input line 338
-5.
+1.
 
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no á in font cmr10!
@@ -2146,13 +2146,13 @@ Missing character: There is no ô in font cmbx10!
 
 
 Package natbib Warning: Citation `Hoyle 2000' on page 184 undefined on input li
-ne 3520.
+ne 3516.
 
 [184] [185] [186] [187]
 Chapter 7.
 
 Package natbib Warning: Citation `"State of the World‚Äôs Cities 2012/2013" 201
-2' on page 188 undefined on input line 3568.
+2' on page 188 undefined on input line 3564.
 
 [188
 
@@ -2163,11 +2163,11 @@ Missing character: There is no ô in font cmr10!
  [189]
 
 Package natbib Warning: Citation `(Cvetinovic et al.' on page 190 undefined on 
-input line 3611.
+input line 3607.
 
 
 Package natbib Warning: Citation `2013)' on page 190 undefined on input line 36
-11.
+07.
 
 [190]
 Missing character: There is no ‚ in font cmr10!
@@ -2188,11 +2188,11 @@ Missing character: There is no ô in font cmr10!
  [194] [195] [196] [197] [198] [199]
 
 Package natbib Warning: Citation `(M√ºller-Wieferig and Herzen' on page 200 und
-efined on input line 3780.
+efined on input line 3776.
 
 
 Package natbib Warning: Citation `2013)' on page 200 undefined on input line 37
-80.
+76.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -2202,11 +2202,11 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
 Package natbib Warning: Citation `(Harvey' on page 200 undefined on input line 
-3799.
+3795.
 
 
 Package natbib Warning: Citation `2003)' on page 200 undefined on input line 37
-99.
+95.
 
 [200] [201] [202] [203]
 Missing character: There is no √ in font cmr10!
@@ -2216,11 +2216,11 @@ Missing character: There is no ß in font cmr10!
  [204] [205] [206]
 
 Package natbib Warning: Citation `√áarik√ßi et al.2009' on page 207 undefined o
-n input line 3898.
+n input line 3894.
 
 
 Package natbib Warning: Citation `√áarik√ßi et al.2009' on page 207 undefined o
-n input line 3899.
+n input line 3895.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no á in font cmr10!
@@ -2243,11 +2243,11 @@ Missing character: There is no ß in font cmr10!
 [207] [208]
 
 Package natbib Warning: Citation `Volic et al' on page 209 undefined on input l
-ine 3944.
+ine 3940.
 
 
 Package natbib Warning: Citation `2012' on page 209 undefined on input line 394
-4.
+0.
 
 [209]
 Missing character: There is no ‚ in font cmr10!
@@ -2263,15 +2263,15 @@ Missing character: There is no ô in font cmbx10!
 
 
 Package natbib Warning: Citation `Volic et al' on page 211 undefined on input l
-ine 3975.
+ine 3971.
 
 
 Package natbib Warning: Citation `2012' on page 211 undefined on input line 397
-5.
+1.
 
 
 Package natbib Warning: Citation `Braudel 1970' on page 211 undefined on input 
-line 3985.
+line 3981.
 
 [211] [212] [213]
 Chapter 8.
@@ -2438,7 +2438,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "thesis outline.pdf" (240 pages, 1081420 bytes).
+Output written on "thesis outline.pdf" (240 pages, 1082771 bytes).
 PDF statistics:
  828 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
