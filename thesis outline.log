@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  20 JAN 2017 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  21 JAN 2017 03:01
 entering extended mode
 **"thesis outline.tex"
 ("thesis outline.tex"
@@ -598,20 +598,6 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-Missing character: There is no ï in font cmr10!
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no  in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no œ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no  in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ­ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -620,22 +606,15 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [34]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no œ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no  in font cmr10!
- [35]
 
-Package natbib Warning: Citation `Lehrer and Laidley 2008' on page 36 undefined
- on input line 713.
 
-[36]
+Package natbib Warning: Citation `(Lehrer and Laidley 2008)' on page 34 undefin
+ed on input line 716.
+
+[34] [35]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -710,7 +689,7 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
- [37] [38]
+ [36] [37] [38]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ­ in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -728,13 +707,13 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [39]
-
-Package natbib Warning: Citation `Coleman 1988' on page 40 undefined on input l
-ine 791.
 
 
-Overfull \hbox (1.83788pt too wide) in paragraph at lines 820--822
+Package natbib Warning: Citation `Coleman 1988' on page 39 undefined on input l
+ine 786.
+
+[39]
+Overfull \hbox (1.83788pt too wide) in paragraph at lines 815--817
 [][]\OT1/cmr/m/n/10.95 Morn[]-[]ings[] [][][]af[]-[]ter[] [][][]Ne[]-[]dovic[] 
 [][][]Bu[]-[]dic the changes hap-pen through in-ven-tion (and re-invention),
  []
@@ -786,7 +765,6 @@ Missing character: There is no  in font cmr10!
 Missing character: There is no ï in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
- [41]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -859,7 +837,7 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
- [42] [43] [44]
+ [41] [42] [43] [44]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -2440,7 +2418,7 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  4460 strings out of 493698
- 61096 string characters out of 3141985
+ 61098 string characters out of 3141985
  195681 words of memory out of 3000000
  7709 multiletter control sequences out of 15000+200000
  12866 words of font info for 46 fonts, out of 3000000 for 9000
@@ -2460,7 +2438,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "thesis outline.pdf" (240 pages, 1077081 bytes).
+Output written on "thesis outline.pdf" (240 pages, 1081420 bytes).
 PDF statistics:
  828 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
