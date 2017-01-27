@@ -47,14 +47,14 @@
 \contentsline {subsubsection}{RQ1}{59}
 \contentsline {subsubsection}{RQ2}{59}
 \contentsline {subsubsection}{RQ3}{60}
-\contentsline {subsection}{\numberline {3.1.2}Research Hypotheses}{60}
-\contentsline {subsubsection}{H1}{60}
-\contentsline {subsubsection}{H2}{60}
-\contentsline {subsubsection}{H3}{60}
-\contentsline {section}{\numberline {3.2}Research Design}{61}
+\contentsline {subsection}{\numberline {3.1.2}Research hypotheses}{60}
+\contentsline {subsubsection}{RH1: Urban complexity}{60}
+\contentsline {subsubsection}{RH2: Urban dynamics}{60}
+\contentsline {subsubsection}{RH3: Urban system transitions}{60}
+\contentsline {section}{\numberline {3.2}Research Design}{60}
 \contentsline {subsection}{\numberline {3.2.1}Case study}{62}
-\contentsline {subsection}{\numberline {3.2.2}Case study selection}{65}
-\contentsline {subsection}{\numberline {3.2.3}Local Context of the Savamala Neighbourhood Case Study}{67}
+\contentsline {subsection}{\numberline {3.2.2}Case study selection}{64}
+\contentsline {subsection}{\numberline {3.2.3}Local Context of the Savamala Neighbourhood Case Study}{66}
 \contentsline {section}{\numberline {3.3}Adopted Methodology}{67}
 \contentsline {subsection}{\numberline {3.3.1}Savamala Case study - Data collection}{68}
 \contentsline {subsubsection}{Qualitative inquiry}{69}
@@ -62,9 +62,9 @@
 \contentsline {paragraph}{(2) Preliminary interviews}{71}
 \contentsline {paragraph}{(3) Workshops}{72}
 \contentsline {paragraph}{(4) On-line Surveys}{73}
-\contentsline {paragraph}{(5) In-dept Interviews}{74}
+\contentsline {paragraph}{(5) In-dept Interviews}{73}
 \contentsline {subsection}{\numberline {3.3.2}ANT and MAS approaches - Data analysis}{74}
-\contentsline {subsubsection}{ANT Discourse analysis}{75}
+\contentsline {subsubsection}{ANT Discourse analysis}{74}
 \contentsline {subsubsection}{MAS Structural analysis}{78}
 \contentsline {subsection}{\numberline {3.3.3}System Building - Data display}{79}
 \contentsline {subsubsection}{Setting a procedure}{79}
@@ -147,29 +147,29 @@
 \contentsline {chapter}{\numberline {8}Conclusions}{224}
 \contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{225}
 \contentsline {subsection}{\numberline {8.1.1}[..] to the research hypotheses}{226}
-\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{226}
-\contentsline {subsection}{\numberline {8.1.3}[..] to the research objectives}{226}
-\contentsline {subsection}{\numberline {8.1.4}[..] to the methodological approach}{226}
-\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{228}
-\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{228}
-\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{229}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{227}
+\contentsline {subsection}{\numberline {8.1.3}[..] to the research objectives}{227}
+\contentsline {subsection}{\numberline {8.1.4}[..] to the methodological approach}{228}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{229}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development taxonomy}{229}
+\contentsline {subsection}{\numberline {8.2.2}An Ordinary City}{230}
 \contentsline {subsection}{\numberline {8.2.3}A Post-socialist City}{230}
-\contentsline {subsection}{\numberline {8.2.4}Urbanity}{231}
-\contentsline {subsection}{\numberline {8.2.5}Serbia - Belgrade - Savamala}{232}
-\contentsline {subsection}{\numberline {8.2.6}ANT}{232}
-\contentsline {section}{\numberline {8.3}Limitations of the research}{234}
-\contentsline {section}{\numberline {8.4}Practical Implications}{234}
-\contentsline {subsection}{\numberline {8.4.1}Urban Development model}{235}
-\contentsline {section}{\numberline {8.5}Future Prospects}{236}
-\contentsline {chapter}{\numberline {A}Data collection}{237}
-\contentsline {section}{\numberline {A.1}Interviews}{237}
-\contentsline {section}{\numberline {A.2}Questionnaires}{237}
-\contentsline {section}{\numberline {A.3}Workshops}{237}
-\contentsline {chapter}{\numberline {B}List of abbreviations}{238}
-\contentsline {chapter}{\numberline {C}Bibliography}{239}
-\contentsline {section}{\numberline {C.1}scientific}{239}
-\contentsline {section}{\numberline {C.2}legal documents}{239}
-\contentsline {section}{\numberline {C.3}grey literature - pracitce-based}{239}
-\contentsline {section}{\numberline {C.4}media sources}{239}
-\contentsline {chapter}{\numberline {D}CV Marija Cvetinovic}{240}
-\contentsline {chapter}{Bibliography}{240}
+\contentsline {subsection}{\numberline {8.2.4}Urbanity}{232}
+\contentsline {subsection}{\numberline {8.2.5}Serbia - Belgrade - Savamala}{233}
+\contentsline {subsection}{\numberline {8.2.6}ANT}{234}
+\contentsline {section}{\numberline {8.3}Limitations of the research}{236}
+\contentsline {section}{\numberline {8.4}Practical Implications}{236}
+\contentsline {subsection}{\numberline {8.4.1}Urban Development model}{237}
+\contentsline {section}{\numberline {8.5}Future Prospects}{237}
+\contentsline {chapter}{\numberline {A}Data collection}{239}
+\contentsline {section}{\numberline {A.1}Interviews}{239}
+\contentsline {section}{\numberline {A.2}Questionnaires}{239}
+\contentsline {section}{\numberline {A.3}Workshops}{239}
+\contentsline {chapter}{\numberline {B}List of abbreviations}{240}
+\contentsline {chapter}{\numberline {C}Bibliography}{241}
+\contentsline {section}{\numberline {C.1}scientific}{241}
+\contentsline {section}{\numberline {C.2}legal documents}{241}
+\contentsline {section}{\numberline {C.3}grey literature - pracitce-based}{241}
+\contentsline {section}{\numberline {C.4}media sources}{241}
+\contentsline {chapter}{\numberline {D}CV Marija Cvetinovic}{242}
+\contentsline {chapter}{Bibliography}{242}
