@@ -251,7 +251,7 @@ Urban development of post-socialist cities is perceived as a dynamic concept, a 
 
 \textbf{"Ordinary cities also emerge from a post-colonial critique of urban studies and signal a new era for urban studies research characterised by a more cosmopolitan approach to uderstanding cityness and city futures. This can underpin a field of study that encompasses all cities and that distributes the difference amongst cities as diversity rather than as hierarchical categories. It is the ordinary city, then, that comes into view within a postcolonialised urban studies" (Robinson, 2006)}.
 
-\section{Thesis Aims and Scope}
+\section{Thesis Aims and Scope: Urban Complexity and Dynamics}
 \textbf{research scope:} grasp the actual urban development process in cities
 
 \subsection{Research Objectives}
@@ -312,7 +312,7 @@ Identified overarching decision making procedure acknowledges human agency. Thro
 \\
 Moreover, this thesis argues that an overarching definition of urbanity concept improves scientific capacity for grasping urban dynamics. It elaborates how the level of urbanity figures as an indicator for maintenance, transformation and change processes of an urban system, incorporating simultaneously its state and the transitions. The relationship between the physicality of urban form and the social components of urban life generates the level of urbanity - the quality of continuous harmonization of the variety of structural elements, social factors and vested interests existing in an urban environment (Holanda 2002, Canuto et al. 2012). Moreover, all these urban key elements are assumed to be equal agents in the continuous process of urban development that has been marked by maintenance, transformation and change of the urban system in order to improve its living conditions and facilitate social interactions.
 
-\subsection{Methodological justification}
+\subsection{Methodology as a starting point}
 
 Following contemporary relativist trends for rethinking space, time, globalization and cities, future research challenge can be defined as "visualizing cities as unformed, unorganized, non-stratified, always in the process of formation and deformation, eluding fixed categories, transient nomad space-time that does not dissect the city into either segments and ‘things’ or structures and processes" (Smith 2003:574). Accordingly, a corresponding change in approaching urban development can then be addressed by heterogeneous and iterative approach that has surpassed the perception of cities as merely economic, social and cultural venues treating them as complex and dynamic urban systems. In these circumstances it is necessary to apply proper techniques and methodologies for urban research and analyses which encompass complexity and dynamics of cities for the improvement of living conditions and the facilitation of social interactions in the process of urban development. 
 \\
@@ -330,9 +330,9 @@ This thesis adopted MAS-ANT methodology in order to:
 
 \section{Contribution}
 
-\textbf{research impact:} the quality of an urban system generates a vibrant and fluid context open to permanent transitions gives rise to potential to originate diverse opportunities for new rounds of exchanges among research, innovation, action and development (Bolay et al. 2011).
 
-Relate Contribution to Conclusions
+
+\textbf{research impact:} the quality of an urban system generates a vibrant and fluid context open to permanent transitions gives rise to potential to originate diverse opportunities for new rounds of exchanges among research, innovation, action and development (Bolay et al. 2011).
 
 The idea is to create visual interpretations that can be easily computerize (html5), and then easily changed. This enables the continuous generalizations and conclusions drawing and the introduction and description of new elements.
 
@@ -340,9 +340,7 @@ A by-product would be this new definition of urbanity and urban development.
 
 This proposal aims to define a method of solving concrete problems through a process of understanding and dealing with current difficulties as they emerge and evolve.
 
-elaborate inappropriateness of urban development concept for describing and guiding urban processes in cities outside the Global North. Especially not for tracing and directing urban transitions in the way that brings social and environmentally sustainable benefits to the inhabitants and the urban environment.
-
-However, it is a widespread rarely criticised and unbeatable concept, especially in practice and practice-based research. Without delving into hidden motives and circumstances (economic, political, colonial), as this is rather an architectural approach to the urban, I use redefine the core of the concept, but keep its scope and aim to produce an operational methodological framework for practical investigations of the pallette of different cities around the world.
+urban development concept is reconsidered for describing and guiding urban processes in cities outside the Global North.
 
 \section{Thesis Structure}
 
@@ -355,11 +353,11 @@ The conceptual and methodological parts build the theoretical framework for this
 \\
 In order to substantiate proposed hypothesis,  presented  theoretical framework will be tested on an elucidated case study. In \textbf{CHAPTER 4} the choice of Savamala neighbourhood in Belgrade is clarified and data collection procedures are summarized in the form of a linear and chronological case study report.
 \\
-The following chapter moves forward to hypothesis testing and consecutive application of the chosen research methodologies. Data analysis with Actor-network theory (ANT) is the core of \textbf{CHAPTER 5}.
+The following chapter moves forward to hypothesis testing and consecutive application of the chosen research methodologies. Data analysis with Actor-network theory (ANT) is the core of \textbf{CHAPTER 5} which addresses the issue of urban complexity.
 \\
-\textbf{CHAPTER 6} deals with system building according to the postulates of Multi-Agent system (MAS).
+\textbf{CHAPTER 6} deals with system building according to the postulates of Multi-Agent system (MAS) and provides the elaboration of urban dynamics.
 \\
-\textbf{CHAPTER 7} presents the actual hybridization of two methods (MAS-ANT).
+\textbf{CHAPTER 7} presents the actual hybridization of two methods (MAS-ANT) and display the data on urban development processes.
 \\
 In \textbf{CHAPTER 8} the performed research is pulled together. The resulting discussion is drawn upon the outlined background information on the theoretical framework, the deconstructed MAS-ANT methodological hybrid, and collected and analysed data on the cases study from the previous chapters. Based on these results, this thesis is concluded on two separate levels, regarding research and theoretical framework. The final results are also presented in the wider perspective concerning its practical application and limits and potential of its framework
 
@@ -4796,7 +4794,7 @@ Even though the analytic strategy was not extended for use across cases, the res
 While theory is a neutral, explanatory tool (\cite{Sears 2008}), it also supply meanings and interpretations that enter everyday life and influence processes and practices.
 In this respect, I have returned to the initial conceptual, epistemological and local frameworks in order to re-place the results of this research within its initial theoretical framework
 
-\subsection{Urban Development taxonomy}
+\subsection{Urban Development Taxonomy}
 
 Urban development is a predominant concept in urban theory and practice and even more, in everyday life.
 However, the issue of urban development was extensively addressed and used in this thesis research.
@@ -4809,20 +4807,20 @@ Taking all this into account, the issues raised about urban development are summ
 
 \begin{itemize}
 
-\item \textbf{Urban development involves a vision, multiple individual visions of future};
+\item \textbf{Urban development involves a vision, multiple individual visions of future.}
 When we speak about urban development as a goal, it is a positive vision directed by particular interest group who see it so.
 The accorded positive values of contemporary global society already, long ago, implicitly encroached upon the connotation of development giving it a value of growth, evolution, maturation, modernization and created a wild-goose chase of, actually, an illusory expectation
 \hl{Esteva 1992}.
 Instead of futile pursuits disconnected from the concrete space and historical moment, urban development should be, not built but defined by local populations, civic sector, professionals, experts in their local spaces, while the implementation rests with the negotiations among different layers of decision making from international to local level.
 
-\item \textbf{Urban development addresses present as much as future - it is a process, a range of processes;}
+\item \textbf{Urban development addresses present as much as the future - it is a process, a range of processes.}
 Human actions and behaviours are inherently temporal.
 They involve an intention, a decision (conscious or unconscious) and implementation, so that they necessarily stretch from the present moment into future. In this respect, on the way to achieve one goal, multiple other goals are crossing human paths and pulling off course.
 While urban reality is human reality (an environment for humans), urban development should stand for multiple actors and various interests at play.
 Regardless of their particular nature which might greatly vary depending on actors and time-frames, the reference of these processes to the current state of the system could be referenced as maintenance, transformation or radical change of the same system.
 Finally, processual nature of urban development comprise whatever may occur in the future, without explicating its interest/value notion, but only its influence the current state of the system.
 
-\item \textbf{It is important to be clear what urban development means and how it is articulated in between a goal, a prospect and a process;}
+\item \textbf{It is important to be clear what urban development means and how it is articulated in between a goal, a prospect and a process.}
 The symbolic meaning of urban development is deeply rooted in human historic and social discourse and it is unrealistic to expect it to be change and abandoned, though it has cautiously been so in scientific and professional domains. 
 Consequently, it is also important to reference the results to different interpretations of urban development (a goal, prospect, process).
 In comparison to a goal- and process-oriented idea, urban development prospects keep track of reality and probability among what may the scenarios be and what are particular interests of different actors and stakeholders.
@@ -4833,13 +4831,42 @@ and
 projects [a course of actions over time with clear goals and detailed plans and budgets - clearly stated goal - a period of time - defined budget] \hl{Vujosevic 2015 Regionalizam 2}.
 Accordingly, after beening clear about what urban development is, it is important to tackle also how it is set in motion within programmes, policies and projects.
 
-\item \textbf{Urban development addresses future in relation to past and present - it might be everything you can make of it;}
+\item \textbf{Urban development addresses future in relation to past and present - it might be everything you can make of it.}
 Apart from the crisis of capitalism and the critics of growth, the
 urges for diversity right (\hl{Amin Good city}) and participatory approach speak also about urban development and the importance for the redefinition of the term. 
 In this reference, one step forward might be acknowledging the significance of of the system maintenance processes (which might be referred to as stagnant in some cases), not only those that imply improvements and growth.
 \end{itemize}
 
+In sum, urban development is rather an inappropriate concept for describing and guiding urban processes in cities outside the Global North.
+Even more so, when tracing and directing urban system transitions in the way that brings social and environmentally sustainable benefits to the inhabitants and the urban environment.
+However, it is a widespread and rarely criticized concept that is extensively used in practice and practice-based research.
+Without delving into hidden motives and circumstances (economic, political, colonial), the concept was redefined in this research, while its scope and aim was kept in order to produce an operational methodological framework for practical investigations of the pallette of different cities around the world.
+
 \textbf{"To root oneself in the present demands an image of the future. It is not possible to act here and now, in the present, without having an image of the next instant, of the other, of a certain temporal horizon. That image of the future offers guidance, encouragement, orientation, hope." \hl{Esteva 1992}}
+
+\subsection{Urbanity}
+
+Urbanity was another crucial concept undertaken in this research and re-framed to denote:
+
+\begin{itemize}
+\item \textbf{Measurable concept:}
+\\
+Urbanity includes state and a transition/evolution and therefore it can be socially and spatially evaluated through the level of urbanity.
+
+\item \textbf{The level of urbanity:}
+\\
+In neutral value state, an overarching definition of the level of urbanity enables grasping urban dynamics.
+
+\item \textbf{Contextualization of urbanity:}
+Urbanity is inseparable from the context as it is based not only on processes (density and diversity), but also  on local socio-spatial capital.
+
+\item \textbf{Urbanity results from the combination of planning and design:}
+The level of urbanity represents the balance of social and economic planning and socially and culturally responsible urban design
+Otherwise, "planning can slide into blind procedure and design can deteriorate into blind aesthetic
+(\hl{Van Assche et al. 2013}) and both cases affects urbanity.
+\end{itemize}
+
+"Space is a physical residue of [despised] socio-economic and political system and it becomes principally its ideological monument." \hl{Stanek 2014}
 
 \subsection{An Ordinary City}
 
@@ -4874,126 +4901,108 @@ In this light, most of top-down, outside-in actions seem like a tactics of impos
 
 \subsection{A Post-socialist City}
 
-An urban development model deals with deficiencies and incompatibilities between the reality of cities and the existing urban planning tools used.
-This is done by taking advantage of the incompleteness and the spontaneous urban development of environments in transitional economies: Creating the city through a myriad of strategies from above, interventions instigated by different interests and small changes from the ground up empowers the aforementioned incompleteness of cities, and this gives them their durability, flexibility and importance on the global scale. The case study of Savamala neighbourhood in Belgrade, Serbia within such a incompleteness and the on-going generation of urban conflicts and bottom-up interventions, offers the potential to be constantly remade through a summary of small movements and partial approaches released as an integrated system of urban development.
+The scope of post-socialist cities has directed and confined this research in methodological and empirical sense.
+The deficiencies and incompatibilities between the reality of post-socialist cities and the existing western paradigm of the urban directed the theoretical account on the said cities.
+Post-socialist cities, in general, are struggling to balance post-socialist path-dependent traits with transitional trends and influences.
+In this references and according to the analyses conducted in this this thesis, several issues should be highlighted, such as:
 
-Exposing the power game of relations and influences among urban key agents in Savamala indicates opportunities for altering post-socialist urban planning on various levels. MAS-ANT analyses reveals: 
-(1)	Processes and procedures which are interrelated within an urban agent profile (nature of agents, network of influence, function etc.);
-(2)	What are assemblage network of relations between regulatory framework, urban actors, spatial issues;
-(3)	what  urban  patterns  and  social  impact  may result  from  these  relations  and  induce  spatial,  social  or institutional changes
+\begin{itemize}
+\item \textbf{A reflective, yet less presumably critical attitude towards socialist past should be embraced in urban practice;}
+\\
+Neither future-oriented nor path-dependent directive is solely adequate for approaching urban complexity and dynamics of  post-socialist cities. Namely, a synthetic and objective attitude towards space-time flux is necessary for understanding post-socialist urban evolution (\cite{Thomas 1998}; \hl{waves of planning 2006}).
+There are numerous examples that socialist practices, traditions and values were disregarded and dismissed without a grounded reason and replaced without real criticism with those imposed by transition.
+As already mentioned, the evolution of urban systems is not a directional trajectory towards a single goal.
+The state of post-socialist cities nowadays resulted from a convergent path from past to present that should be continued toward the most contingent future, not just interrupted and replaced with something trendy and brand  new.
 
-\hl{waves of planning 2006}
-in  agreement  with  Thomas [1998] it is found that the relationship between past, present and future is essential to understanding  the  evolution  process  and  products  of  various  events  and  influences.
-the dynamics of the process  of  evolution  resembles  more  closely  transiting  through  various  stages  (or  waves) than a continuous development on a unidirectional trajectory
+\item \textbf{Balance borrowing, imposition and replication practices with finding locally grounded solutions;}
+\\
+Urban development outside the Western world was undoubtedly a practice of borrowing, imposition and replication(\hl{waves of planning 2006}). So, it could not be avoided nor neglected.
+Yet, it is important to base and argument choices and plans in what is found on the ground.
+In developing countries regulating and guiding urban development usually starts from scratch.
+On the other hand,  in post-socialist cities regulatory framework exists and often it does not lack quality nor local reliance, but institutional processes and difficult societal circumstances make them fail (\hl{Mornings after Nedovic Budic}). In this circumstances, elaborated and objective evaluations, professional approach, expert and local knowledge are necessary for making the right decision.
 
-control, verification and consulting networks distributed among local actors and within procedures
-\hl{Vujosevic 2015 Regionalizam u Srbiji 2}
-upravno pravna nacela za novi sistem (Djuric) - p87-fusnota
-    vertikalni odnosi - legislativa and koordinacija, respekt nizih instanci
-    horizontalni odnosi - unutrasnje racionalizacije, depolitizacija, kontinuirana edukacija
-    lokalna uprava and gradjani - pravila sluzbenickog ponasanja and etickog kodeksa
+\item \textbf{Control, verification and consulting networks should be extensively distributed among local actors, in planning processes and within institutional procedures;}
+\\
+A burning issue in post-socialist cities is the issue of coordination and cooperation within urban framework.
+Horisontal and vertical distribution of roles and decision-making urges for revisions.
+While vertical relationality should be fostered in legislative coordination and rules of conduct, horizontal connections are necessary for internal rationalization, depoliticization, continual improvements through education and code of ethics toward work and in interpersonal relations (\hl{Vujosevic 2015 Regionalizam u Srbiji 2}).
+     
+\item \textbf{Culture, tradition and values that affect urban framework should be mainly local, not global;}
+\\
+Culture has been recently growing in importance as a resource for urban  and  community development (\hl{Bianchini 1999}; \hl{Mercer 2010}; \cite{Volic et al. 2012}).
+Culture is now ever present and global. 
+However, post-socialist cities are more and more embracing this international cultural trends, though it is also important to appreciate local and historical in their immediate surroundings.
 
-\hl{Vujosevic 2015 Regionalizam u Srbiji 2}
-how to govern/approach conflicts - any top-down action must be structured, participation for solving conflicts
+\item \textbf{Post-socialist cities are in between the North and the South and should profit from the position;}
+\\
+There are many examples of processes, procedures and practices proving that what is happening in post-socialist cities is neither that featuring developing world, nor it pertains to the developed one, but it is rather a link (\hl{ETHZ 2012 Belgrade Formal Informal}).
+Taking into account the recommendations based on ordinary cities theory, what could be the knowledge transfer from the South to the North, might actually begin in post-socialist cities.
 
-hl{ref Peric 2016}: planning was transformed into an instrument of the ruling political party elaborate
-to do for planners:
-     gain skills of negotiation, mediation and facilitation
-    institutional capacity building of local governance
-    
-\hl{ETHZ 2012 Belgrade Formal Informal}
-Belgrade is the link between the informal sector of the South and advanced deregulation of the North
-illustrations/DIAGRAMS p84, 96,97
+\item {\textbf{Local professionals should increase their knowledge of risk and vulnerability and accept to deal with uncertainty;}}
+\\
+Finally, in relation to the concrete context in Serbia, which is not the unique case (at least not in the Balkans), sharp social decline and system dissolution is an example of anti/de-development.
+Mistakes and misconducts should be exposed in order not to be repeated and a critical and introspective attitude may provide a potential knowledge on what makes the system maintain itself, reproduce, mature and finally become resilient.
+\end{itemize}
 
- 	\hl{waves of planning 2006}
-The  external  influences  from Europe  and  the  Middle  East  were  sometimes  self-inflicted  and  spontaneous;  sometimes imposed in combination with diplomatic efforts, religious and cultural ideas, demagogy, or political pressure; and sometimes invited and taken by voluntary action. While traditional settlements were more responsive to local circumstances, culturally grounded, environmentally sensitive and uniquely fit for the given socio-economic context, the imposed models and solutions provided for innovation and modernization efforts that were in step with the regional (e.g. European) trends. In borrowing, however, some of the local context was often overlooked in the excitement with the imported ideas and practices.
+\subsection{And in local context... [Serbia - Belgrade - Savamala]}
 
-professionals are to increase their knowledge of risk and vulnerability.
+The integrity of this research is also supported with the significance of the case study selection for general public interest, contextually relevant recommendations and practical implications (\hl{Yin}).
+\\
+The case study choice is based on the recognized potential of the incomplete and spontaneous urban system evolution happening in transition.
+An unclear social, economic and political situation in post-socialist cities is a fertile ground for a fragmented, small-scale approach to urban conflicts, which could eventually produce more long-term and far-reaching results.
+A myriad of strategies from above, interventions instigated by different interests and small changes from the ground up are the constitutive forces of the aforementioned incompleteness of post-socialist cities.
+However, research into these underlying forces has been limited notwithstanding the importance of solving urban conflicts and making cities durable, flexible and visible on the global scale.
+\\
+However, the researched local context is rather chaotic and difficult to tangle.
+Serbia is experiencing the reversed tendency from what urban development should stand for - it is under strong pressure of negative negative natural increase (\hl{UNICEF}), declining economic capacity and deteriorating living standard (\hl{Vujosevic}), growing ignorance for democratic political practice (\hl{Peric 2016}), and disregard for research, education and  knowledge \hl{Vujosevic and Maricic 2012}.
+In these circumnstances, most important issue to deal with is the harmonisation of the disbalanced morphology of post-socialist urban decision making towards solving urban conflicts, in the way that:
+\begin{itemize}
+\item \textbf{Local experts and professionals} - return dignity and influence to experts and professionals, who are often side-lined;
 
-\hl{ref (Volic et al, 2012)}:
-"Bianchini introduces the concept of ‘cultural planning’ (Bianchini, 1999) which represents ‘a strategic and integral use of cultural  resources  for  urban  and  community development’ (Mercer, 2010). "
-"Cultural  planning considers cultural resources as urban resources that play a strategic role in planning and in the
-new economy (ibid)."
+\item \textbf{Professional domains} - move away from authoritarian and partocratic approach in professional domains;
 
-"In that way ‘a diversity of offer and mix of functions within the architectural context would be achieved, which could  lead  to  the  sustainable  city  renewal, together with a strong national or local support and  with  participation  of  local  population’ (Vaništa Lazarević and Đukić, 2006). "
+\item \textbf{Urban planning} - re-establish the role of urban planning as an instrument of knowledgable not powerful, and as a practice of socio-spatial management of urban environments, not a technical task;
 
-\hl{Mornings after Nedovic Budic}
-It is not the laws but their implementation that is based on flawed institutional processes and difficult societal circumstances.
-   
-\subsection{Urbanity}
+\item \textbf{Bottom-up actions and initiatives}  - provide means for prioritizing and fostering positive practices, they are usually happening on the ground with no effective  and  binding policies  and institutionalized  regulatory  means  for synchronization  and  coordination  among  them.
+\end{itemize}
 
-urbanity includes state and transition/evolution (the level of urbanity)
-
-In neutral value state, an overarching definition of the level of urbanity improves the scientific capacity of grasping urban dynamics. The urbanity concept.
-
-•	Building an urban development model starts out from the experiences of all urban actors and stakeholders in order to better evaluate the dynamics used in the creation and administration of their area of living and to practically apply theoretical knowledge and scientific solutions to improve life in cities. This method mobilizes the populations to form an integral part of all decision-making processes through the education and communication strategies built up on the basis of studying local cases that participants can relate to, and which serve as an experimental field. Furthermore, an inclusive urban development model in real urban environments activates unconscious creativity and it coordinates and articulates this process of collective planning procedures which depends on the individual's direct experience as well as on their sense of well-being.
-
-\hl{Stanek 2014}
-space is a physical residue of despised socio-economic and political system and it becomes principally its ideological monument
-
-\hl{Van Assche et al. 2013}
-Planning can slide into blind procedure and design can deteriorate into blind aesthetic, but in each community, the search for a workable and unique balance between planning and design perspectives is an economic, political, and we
-would add ecological, necessity.
-seeing through the rhetoric and the self- descriptions of the current actors, and the rhetoric on the rules governing their interactions.
-
-\subsection{ANT}
+Finally, the study of Savamala neighbourhood enabled exposing the power game of relations and influences among urban key agents by indicating
+(1)	interrelated processes and procedures generated by local urban agency;
+(2)	assemblage network of relations between regulatory framework, urban actors,  and spatial issues generated through a bottom-up logical argumentation;
+and
+(3)	urban  patterns  and  social  impact that is produced therein.  
+\\
+Unfortunately, based on what is happening on site, Savamala could not be saved from the destiny prescribed to it from the top-down.
+Yet the scientific results taken from this case study might be a strategic basis for more effective reactions in the future and didactic material for further education which address the on-going generation of urban conflicts and bottom-up interventions and offer a summary of small movements and partial approaches which surpasses the model of a post-socialist city on which it has been built and target an integrated system of urban development processes.
  
-Urban reality and developmental circumstances in Savamala illustrated herein seem to represent bits of transitional chaos which post-socialist countries face. Not to mention that, capital cities are personification of such “development schizophrenia” (Vujosevic 2015) while being the focal political, economic and cultural nodes as a legacy of once centralized state. This exercise of visualizing through ANT methodological approach expresses an attempt to depict the complexity of urban actors, forces and artefacts to a legible scheme of links and nodes inspired by the similar endeavour from Marshall and Staeheli (Marshall and Staeheli 2015) . We recognize the quality of ANT scientific approach as an explanatory construct that studies associations and symmetrical relationality (Farias et al. 2009). Without addressing any particular state of affairs, this new perspective minimalizes the importance and influence of permanence of urban structures across time and space, and instead deals with a city as a contingent, fragmentary and heterogeneous, but persistent product of human/non-human actors, intermediary/mediator roles, concrete associations, stabilizing and destabilizing agencies and urban assemblages. We have shown that all these elements are spatially embedded and harmonized in particular physical set of Savamala. From our research results, we agree with the mentioned authors on the point that ANT interpretation may be a mere entry point or an operational agenda for further research, though we would like to argue that, on this pathway, ANT appear to have limited capacity for going any further from it has brought us by now – it appears as unable to receive practical recognition, influence the reality and go beyond identification of the obvious.
-Bearing in mind that urban development of cities is has surpassed its perception as merely economic, social and cultural venues, the vitality of ANT approach lies in: (1) encompassing the active role of non-humans, (2) seeing the totality of the world as process, and (3) overreaching radical categories of time and space by representing horizontal links and associations. Although these premises grasp the core concept of urban dynamics, this methodology does not imply the capacity to deconstruct and interpret such complex aggregation of all real-life urban processes. In urban terms, ANT is, therefore, still perceived as a conceptual methodology whose integral approach works out only in confined urban environments, where it could comprise a dynamic, interactive process of interdependences and connections among all active urban actors and the formation of urban assemblages through roles, associations and agencies and their calibration within the chain of decision making.
-In this respect we would like to recapitulate ANT setbacks to stand out as an overarching methodological approach for urban research:
-•	ANT in its insistence on general symmetry fails to go beyond the description of the empirical reality of urban processes. Although it succeeds to include causal relations between actors, the future state of the system based on these relations stays undiscovered (Elder-Vass 2008). For example, we have identified how political, economic and cultural aspect signify and engage in several networks, but we do not have any insight on the valence of these aspects to engage in new networks, while this relation between what is and what will/would/could be is actually the essence of development.
-•	Though ANT inaugurate flat ontology of the social (Latour 2005), networks are "narrated" by human constituents (Collins and Yearley 1992; Czarniawska 1997; Whittle and Spicer 2008;  Marshall and Staeheli 2015) and interpretations and translations are chiefly the product of the researcher’s positionality  (Rose 1997;  Ruming 2009). We acknowledge that our case study diagram reorder and multiply if we go from one actor’s to the other’s viewpoint or if we have it re-iterated by other researcher. Therefore, the credibility of ANT as a scientific method can be questioned as it should produce the same results regardless of iterations or agency.
-•	Perceiving ANT results only as detailed empirical descriptions means discrediting “how and why” questions, leads to thinking that its sole aim is maintenance of the system   (Amsterdamska 1990; Lee and Brown 1994; Whittle and Spicer 2008), with no regard to prospects of its change or transformation(Gabriel and Jacobs 2008). Similarly, when we examine urban development diagram of Savamala neighbourhood, we see summarized the developmental ﬂows of human collisions and coalitions, finances, practices, information and knowledge, but we do not have any tools at hand to point out where maintenance, transformation and change of the system happens. Finally, with ANT results we are incapable to intervene in an urban system – to articulate social practices, anticipate conflictual urban issues, and provide an overview of actions, solutions and changes - and we find these the pillars of urban development. 
-In sum, we comply with the vision of others that ANT theoretical perspective has aspired to explain the totality of the world without relying on "other" frameworks (Lee and Brown 1994, Gad and Jensen 2010), but actually remains on the level of description that may appear insufficiently scientific for a methodological approach (Gabriel and Jacobs 2008). Our ANT diagram addresses complexity and provides framework for future extension of actors and new relations when they collide, overlap and interfere in networks. These networks represent system dynamics of cooperative, discontinuous, contradictory or even mutually exclusive relations among actors, whereby, in dynamic terms, the actors and networks are constantly changing and consequently constituting new realities. According to our interpretation, ANT scheme neither can tell us anything about this, nor can it indicate how the urban system maintain, transform or change itself. In this respect, even though we have widen the scope of ANT categorizations and interpretations and have dealt to a certain point with urban complexity, it still falls short to meet the expectations as a potential interpretive tool and urges for methodological revisions, adaptations or complements in order to facilitate an understanding of undercover processes and mechanisms or to provide explanations, recommendations or operational diagnosis on how to cope with developmental dynamics of maintenance, transformation and/or change of an urban system.
+\subsection{Epistemological framework - When ANT opens doors for revisions..}
+ 
+This research recognized the quality of ANT scientific approach as an explanatory construct that studies associations and symmetrical relationality (\hl{Farias et al. 2009}).
+From the results presented herein, usefulness of ANT interpretation was as a mere entry point on an operational agenda for further research.
+Accordingly, ANT appeared to have limited capacity for going any further and it seemed unable to receive practical recognition, influence the reality and go beyond descriptions.
 
+Bearing in mind complexity and dynamics of urban development phenomenon, the vitality of ANT approach lies in: (1) encompassing the active role of non-humans, (2) seeing the totality of the world as process, and (3) overreaching radical categories of time and space by representing horizontal links and associations.
+Although these premises grasp the core concept of urban dynamics, this methodology does not imply the capacity to deconstruct and interpret such complex aggregation of all real-life urban processes.
+In urban terms, ANT is, therefore, still perceived as a conceptual methodology whose integral approach works out only in confined urban environments, where it could comprise a dynamic, interactive process of interdependences and connections among all active urban actors and the formation of urban assemblages through roles, associations and agencies and their calibration within the chain of decision making.
+\\
+In this respect I would like to recapitulate ANT setbacks to stand out as an overarching methodological approach for urban research:
+\begin{itemize}
+\item ANT in its insistence on general symmetry fails to go beyond the description of the empirical reality of urban processes. Although it succeeds to include causal relations between actors, the future state of the system based on these relations stays undiscovered (\hl{Elder-Vass 2008}). For example, we have identified how political, economic and cultural aspect signify and engage in several networks, but we do not have any insight on the valence of these aspects to engage in new networks, while this relation between what is and what will/would/could be is actually the essence of urban  development concept.
+
+\item Though ANT inaugurate flat ontology of the social (\cite{Latour 2005}), networks are "narrated" by human constituents (\cite{Collins and Yearley 1992}; \cite{Czarniawska 1997}; \cite{Whittle and Spicer 2008};  \cite{Marshall and Staeheli 2015}) and interpretations and translations are chiefly the product of the researcher’s positionality  (\cite{Rose 1997}; \cite{Ruming 2009}). It is acknowledged that the ANT diagram reorder and multiply if transfered from one actor’s to the other’s viewpoint or if it is re-iterated by other researcher. Therefore, the credibility of ANT as a scientific method can be questioned as it should produce the same results regardless of iterations or agency.
+
+\item Perceiving ANT results only as detailed empirical descriptions means discrediting "how and why" questions, leads to thinking that its sole aim is maintenance of the system (\hl{Amsterdamska 1990}; \cite{Lee and Brown 1994}; \hl{Whittle and Spicer 2008}), with no regard to prospects of its change or transformation(Gabriel and Jacobs 2008).
+Similarly, from ANT examinations of Savamala, the results were the developmental flows of human collisions and coalitions, finances, practices, information and knowledge. Yet, ANT does not offer any tools at hand to point out where maintenance, transformation and change of the system happens.
+Finally, with ANT results the researcher was incapable to intervene in an urban system - to articulate social practices, anticipate conflictual urban issues, and provide an overview of actions, solutions and changes - which were identified as the pillars of urban development within this research project.
+\end{itemize}
+ 
+In sum, while ANT theoretical perspective has aspired to explain the totality of the world without relying on "other" frameworks (\cite{Lee and Brown 1994},  \cite{Gad and Jensen 2010}), it actually remained on the level of description that may appear insufficient and ineffective for practical application (\cite{Gabriel and Jacobs 2008}).
+The ANT diagram assembled in this research addressed complexity and provided framework for future extension of actors and new relations when they collide, overlap and interfere in networks.
+These networks represented a base for system dynamics of cooperative, discontinuous, contradictory or even mutually exclusive relations among constantly changing actors and consequent continu new realities. According to our interpretation, ANT scheme neither can tell us anything about this, nor can it indicate how the urban system maintain, transform or change itself. In this respect, even though we have widen the scope of ANT categorizations and interpretations and have dealt to a certain point with urban complexity, it still falls short to meet the expectations as a potential interpretive tool and urges for methodological revisions, adaptations or complements in order to facilitate an understanding of undercover processes and mechanisms or to provide explanations, recommendations or operational diagnosis on how to cope with developmental dynamics of maintenance, transformation and/or change of an urban system.
+
+This exercise of visualizing through ANT methodological approach expresses an attempt to depict the complexity of urban actors, forces and artefacts to a legible scheme of links and nodes inspired by the similar endeavour from Marshall and Staeheli (Marshall and Staeheli 2015). 
 1.	ANT diagram visualizes complex actor roles and maps urban networks
 2.	ANT diagram expresses a bottom-up logical argumentation on urban system evolution
-
-\subsection{Serbia - Belgrade - Savamala}
-
-Yin
-The significance of the case study selection
-the case study must be significant: of general public interest, nationally important in policy and practical terms
-
-\hl{expert questionnaire post-socialist}
-Q17
-\textbf{social aspects}
-demographic movements and structures
-and natural increase:
-UNICEF: Serbia is disappearing, negative natural increase
-for the muslims to install in Serbia, no need for buying (climate change influence)
-
-The whole of MAS-ANT visualisations of agent profiles aims at encompassing major urban planning strategies, in situ transformative forces and potentials, and follow the creative paths of urban dwellers (participatory urban design activities) for imagining new urban futures. Consequently, in post-socialist cities, the final goal of MAS-ANT applicability is an action towards harmonisation of the morphology of post-socialist urban decision making.
-
-The reversed way of development - impoverishing, from middle income to the least developed 
-
-\hl{Vujosevic and Maricic 2012}
-at large, the revival of urban planning and the boost of urban development depends on revival of strategic research, thinking and governance.
-
-These  circumstances  led  to  the  multitude  of interests,  initiatives  and  small-scale  projects but with  no  effective  and  binding policies  and institutionalized  regulatory  means  for synchronization  and  coordination  among  them.
-
-important to have a critical society
-
-inclusive socio-spatial interventions strengthen horizontal practices and initiatives, unlike the leading urban public institutions, which tend to support vertical urban development decision-making. 
-
-\hl{ref Peric 2016}:
-principles of a pro-active, transparent, adaptive, inclusive, monitored, evaluation-and-feedback-based planning procedure, supportive and compatible with the development of its civil society, based on the authority of law and traditional social rules and in harmony with the rules of the European Union.
-
-\hl{ref Peric 2016}:
-glorification of the neoliberal principles without taking into account the public interest demand:
-    Systemic factors:
-nominal decentralization of spatial planning power
-in reality: tight cooperation between the city and the national government - 
-planning was transformed into an instrument of the ruling political party
-    Cultural factors:
-authoritarian role and personified leader
-elementary ignorance of democratic decision making
-deviation from path dependency manner in planners behaviour -  before planners acted in concert with the authorities, now planners are completely side-lined
-planners in Serbia are not updating their competences over time (navigating and steering different interests and interest groups)
-    Local factors:
-experts are focused on the technicalities and technical knowledge, not on strategic decision making (path dependency - socialist traditions)
-
-The case study of Savamala neighbourhood in the post-socialist city of Belgrade in the transitional country of Serbia is not only relevant for the Central and Eastern European region, but it is also applicable to other countries around the world that are undergoing a similar transition to a democratic and market-based system. Transitional economies that find themselves in an unclear social, economic and political situation are fertile ground for a fragmented, small-scale approach to urban conflicts, which could eventually produce more long-term and far-reaching results. However, research into the underlying forces that drive urban change has been limited notwithstanding the importance of cities in the overall process of economic and social transition. Building an urban development model in a post-socialist context of Savamala is a strategic basis for future interventions and didactic material for further education which surpasses the model of a post-socialist city in a transitional economy on which it has been built.
 
 \section{Limitations of the research}
 
@@ -5012,6 +5021,9 @@ Misunderstanding 5: It is often difficult to summarize and develop general propo
 (\hl{Robinson 2013})
 A core tension exists in urban analysis between the territorial foundations and universal scope of analytical work
 
+extensive verification of categorizations
+important to have a critical society
+
 \section{Practical Implications}
 
 The rise of the global economy is intrinsically anchored in the flow of information and the development of communication technology (Sassen, 2012). Furthermore, these factors have influenced the perception and constitution of reality, they have allowed accelerating process of globalization, a shift from traditional industrial activity to the dispersion of production, a transfer of products, hypermobility of capital and a redefinition of physical space (Firmino et al 2008). In this way, technological capacity has become one of the major premises for competitiveness at a global economic level  (Castells, 1998).
@@ -5022,6 +5034,7 @@ Finally, when applied to transitional economies (which lag behind the successful
 
 \subsection{Data visualization}
 
+Furthermore, an inclusive urban development model in real urban environments activates unconscious creativity and it coordinates and articulates this process of collective planning procedures which depends on the individual's direct experience as well as on their sense of well-being.
 
 \subsection{Urban Development model}
 
