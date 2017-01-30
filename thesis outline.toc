@@ -110,67 +110,67 @@
 \contentsline {subsection}{\numberline {5.1.4}Stabilizing and destabilizing agencies}{158}
 \contentsline {paragraph}{Socially functional networks}{159}
 \contentsline {paragraph}{Supportive/secondary networks}{160}
-\contentsline {subsection}{\numberline {5.1.5}Urban assemblages}{161}
-\contentsline {section}{\numberline {5.2}Urban Assemblage Map}{162}
-\contentsline {subsection}{\numberline {5.2.1}Mapping actor-network distributions in urban decision making}{163}
-\contentsline {subsection}{\numberline {5.2.2}Mapping urban agency and social aspects}{167}
-\contentsline {section}{\numberline {5.3}Conclusion}{174}
-\contentsline {chapter}{\numberline {6}MAS System Assembling}{176}
-\contentsline {section}{\numberline {6.1}Socio-spatial Patterns in MAS: Dynamism of Objects and Relations in Savamala}{177}
-\contentsline {subsection}{\numberline {6.1.1}Passive contextual elements}{177}
-\contentsline {subsubsection}{Spatial capacities}{178}
-\contentsline {subsubsection}{Social potentials}{181}
-\contentsline {subsection}{\numberline {6.1.2}The Assembly of Relations}{184}
-\contentsline {subsubsection}{Situated practices}{185}
-\contentsline {subsubsection}{Urban conflicts}{186}
-\contentsline {section}{\numberline {6.2}Agent Preferences: Scope and Operationality}{191}
-\contentsline {subsection}{\numberline {6.2.1}Civil and Creative Articulation of Agents}{193}
-\contentsline {subsection}{\numberline {6.2.2}Top-down Technocratic Approach to Space}{195}
-\contentsline {subsection}{\numberline {6.2.3}Belgrade Waterfront Whereabouts}{197}
-\contentsline {section}{\numberline {6.3}Conclusion}{198}
-\contentsline {chapter}{\numberline {7}MAS-ANT data and results display}{200}
-\contentsline {section}{\numberline {7.1}The Body of Urban Transitions}{201}
-\contentsline {subsection}{\numberline {7.1.1}Profiling the agents}{202}
-\contentsline {paragraph}{Agent structure}{203}
-\contentsline {paragraph}{Agent preferences}{206}
-\contentsline {paragraph}{Agent Behaviour}{208}
-\contentsline {subsection}{\numberline {7.1.2}Decision Making Layers' Scenarios as an Indicator of Urban Development Prospects}{212}
-\contentsline {subsubsection}{Operationality of bottom-up, on-site interventions}{212}
-\contentsline {subsubsection}{Interest-based Waterfront Future}{215}
-\contentsline {subsubsection}{Strategies and Tactics of Urban Institutions}{218}
-\contentsline {subsection}{\numberline {7.1.3}Resilience, Flexibility and Contradiction in Urban Processes}{219}
-\contentsline {subsubsection}{The Practice of Maintenance}{219}
-\contentsline {subsubsection}{System transformation}{221}
-\contentsline {subsubsection}{Urban change}{222}
-\contentsline {section}{\numberline {7.2}The MAS-ANT Diagram}{223}
-\contentsline {section}{\numberline {7.3}Conclusion}{225}
-\contentsline {chapter}{\numberline {8}Conclusions}{226}
-\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{227}
-\contentsline {subsection}{\numberline {8.1.1}[..] to the research hypotheses}{228}
-\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{229}
-\contentsline {subsection}{\numberline {8.1.3}[..] to the research objectives}{229}
-\contentsline {subsection}{\numberline {8.1.4}[..] to the methodological approach}{230}
-\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{231}
-\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{231}
-\contentsline {subsection}{\numberline {8.2.2}Urbanity}{233}
-\contentsline {subsection}{\numberline {8.2.3}An Ordinary City}{233}
-\contentsline {subsection}{\numberline {8.2.4}A Post-socialist City}{234}
-\contentsline {subsection}{\numberline {8.2.5}And in local context... [Serbia - Belgrade - Savamala]}{236}
-\contentsline {subsection}{\numberline {8.2.6}Epistemological framework - When ANT opens doors for revisions..}{237}
-\contentsline {section}{\numberline {8.3}Limitations of the research}{239}
-\contentsline {section}{\numberline {8.4}Practical Implications}{240}
-\contentsline {subsection}{\numberline {8.4.1}Data visualization}{241}
-\contentsline {subsection}{\numberline {8.4.2}Urban Development Model}{241}
-\contentsline {section}{\numberline {8.5}Future Prospects}{241}
-\contentsline {chapter}{\numberline {9}Bibliography}{243}
-\contentsline {section}{\numberline {9.1}scientific}{243}
-\contentsline {section}{\numberline {9.2}legal documents}{243}
-\contentsline {section}{\numberline {9.3}practice-based}{243}
-\contentsline {section}{\numberline {9.4}media sources}{243}
-\contentsline {chapter}{\numberline {10}List of abbreviations}{244}
-\contentsline {chapter}{\numberline {A}Data collection}{245}
-\contentsline {section}{\numberline {A.1}Interviews}{245}
-\contentsline {section}{\numberline {A.2}Questionnaires}{245}
-\contentsline {section}{\numberline {A.3}Workshops}{245}
-\contentsline {chapter}{\numberline {B}CV Marija Cvetinovic}{246}
-\contentsline {chapter}{Bibliography}{246}
+\contentsline {subsection}{\numberline {5.1.5}Urban assemblages}{162}
+\contentsline {section}{\numberline {5.2}Urban Assemblage Map}{163}
+\contentsline {subsection}{\numberline {5.2.1}Mapping actor-network distributions in urban decision making}{164}
+\contentsline {subsection}{\numberline {5.2.2}Mapping urban agency and social aspects}{169}
+\contentsline {section}{\numberline {5.3}Conclusion}{176}
+\contentsline {chapter}{\numberline {6}Re-assembling Urban Dynamics within an Multi-Agent System}{179}
+\contentsline {section}{\numberline {6.1}Socio-spatial Patterns in MAS: Dynamism of Objects and Relations in Savamala}{180}
+\contentsline {subsection}{\numberline {6.1.1}Passive contextual elements}{180}
+\contentsline {subsubsection}{Spatial capacities}{181}
+\contentsline {subsubsection}{Social potentials}{184}
+\contentsline {subsection}{\numberline {6.1.2}The Assembly of Relations}{187}
+\contentsline {subsubsection}{Situated practices}{188}
+\contentsline {subsubsection}{Urban conflicts}{189}
+\contentsline {section}{\numberline {6.2}Agent Preferences: Scope and Operationality}{194}
+\contentsline {subsection}{\numberline {6.2.1}Civil and Creative Articulation of Agents}{196}
+\contentsline {subsection}{\numberline {6.2.2}Top-down Technocratic Approach to Space}{198}
+\contentsline {subsection}{\numberline {6.2.3}Belgrade Waterfront Whereabouts}{200}
+\contentsline {section}{\numberline {6.3}Conclusion}{201}
+\contentsline {chapter}{\numberline {7}MAS-ANT data and results display}{203}
+\contentsline {section}{\numberline {7.1}The Body of Urban Transitions}{204}
+\contentsline {subsection}{\numberline {7.1.1}Profiling the agents}{205}
+\contentsline {paragraph}{Agent structure}{206}
+\contentsline {paragraph}{Agent preferences}{209}
+\contentsline {paragraph}{Agent Behaviour}{211}
+\contentsline {subsection}{\numberline {7.1.2}Decision Making Layers' Scenarios as an Indicator of Urban Development Prospects}{215}
+\contentsline {subsubsection}{Operationality of bottom-up, on-site interventions}{215}
+\contentsline {subsubsection}{Interest-based Waterfront Future}{218}
+\contentsline {subsubsection}{Strategies and Tactics of Urban Institutions}{221}
+\contentsline {subsection}{\numberline {7.1.3}Resilience, Flexibility and Contradiction in Urban Processes}{222}
+\contentsline {subsubsection}{The Practice of Maintenance}{222}
+\contentsline {subsubsection}{System transformation}{224}
+\contentsline {subsubsection}{Urban change}{225}
+\contentsline {section}{\numberline {7.2}The MAS-ANT Diagram}{226}
+\contentsline {section}{\numberline {7.3}Conclusion}{228}
+\contentsline {chapter}{\numberline {8}Conclusions}{229}
+\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{230}
+\contentsline {subsection}{\numberline {8.1.1}[..] to the research hypotheses}{231}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{232}
+\contentsline {subsection}{\numberline {8.1.3}[..] to the research objectives}{232}
+\contentsline {subsection}{\numberline {8.1.4}[..] to the methodological approach}{233}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{234}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{234}
+\contentsline {subsection}{\numberline {8.2.2}Urbanity}{236}
+\contentsline {subsection}{\numberline {8.2.3}An Ordinary City}{236}
+\contentsline {subsection}{\numberline {8.2.4}A Post-socialist City}{237}
+\contentsline {subsection}{\numberline {8.2.5}And in local context... [Serbia - Belgrade - Savamala]}{239}
+\contentsline {subsection}{\numberline {8.2.6}Epistemological framework - When ANT opens doors for revisions..}{240}
+\contentsline {section}{\numberline {8.3}Limitations of the research}{242}
+\contentsline {section}{\numberline {8.4}Practical Implications}{243}
+\contentsline {subsection}{\numberline {8.4.1}Data visualization}{244}
+\contentsline {subsection}{\numberline {8.4.2}Urban Development Model}{244}
+\contentsline {section}{\numberline {8.5}Future Prospects}{244}
+\contentsline {chapter}{\numberline {9}Bibliography}{246}
+\contentsline {section}{\numberline {9.1}scientific}{246}
+\contentsline {section}{\numberline {9.2}legal documents}{246}
+\contentsline {section}{\numberline {9.3}practice-based}{246}
+\contentsline {section}{\numberline {9.4}media sources}{246}
+\contentsline {chapter}{\numberline {10}List of abbreviations}{247}
+\contentsline {chapter}{\numberline {A}Data collection}{248}
+\contentsline {section}{\numberline {A.1}Interviews}{248}
+\contentsline {section}{\numberline {A.2}Questionnaires}{248}
+\contentsline {section}{\numberline {A.3}Workshops}{248}
+\contentsline {chapter}{\numberline {B}CV Marija Cvetinovic}{249}
+\contentsline {chapter}{Bibliography}{249}
