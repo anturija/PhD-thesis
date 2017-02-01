@@ -128,48 +128,48 @@
 \contentsline {subsection}{\numberline {6.2.2}Top-down Technocratic Approach to Space}{202}{subsection.6.2.2}
 \contentsline {subsection}{\numberline {6.2.3}Belgrade Waterfront Whereabouts}{203}{subsection.6.2.3}
 \contentsline {section}{\numberline {6.3}Conclusion}{205}{section.6.3}
-\contentsline {chapter}{\numberline {7}MAS-ANT data and results display}{207}{chapter.7}
+\contentsline {chapter}{\numberline {7}Urban Processes and Cross-Pollination of Data}{207}{chapter.7}
 \contentsline {section}{\numberline {7.1}The Body of Urban Transitions}{208}{section.7.1}
 \contentsline {subsection}{\numberline {7.1.1}Profiling the agents}{209}{subsection.7.1.1}
 \contentsline {paragraph}{Agent structure}{210}{section*.58}
-\contentsline {paragraph}{Agent preferences}{213}{section*.59}
-\contentsline {paragraph}{Agent Behaviour}{215}{section*.60}
-\contentsline {subsection}{\numberline {7.1.2}Decision Making Layers' Scenarios as an Indicator of Urban Development Prospects}{219}{subsection.7.1.2}
-\contentsline {subsubsection}{Operationality of bottom-up, on-site interventions}{219}{section*.61}
-\contentsline {subsubsection}{Interest-based Waterfront Future}{222}{section*.62}
-\contentsline {subsubsection}{Strategies and Tactics of Urban Institutions}{225}{section*.63}
-\contentsline {subsection}{\numberline {7.1.3}Resilience, Flexibility and Contradiction in Urban Processes}{226}{subsection.7.1.3}
-\contentsline {subsubsection}{The Practice of Maintenance}{226}{section*.64}
-\contentsline {subsubsection}{System transformation}{228}{section*.65}
-\contentsline {subsubsection}{Urban change}{229}{section*.66}
-\contentsline {section}{\numberline {7.2}The MAS-ANT Diagram}{230}{section.7.2}
-\contentsline {section}{\numberline {7.3}Conclusion}{232}{section.7.3}
-\contentsline {chapter}{\numberline {8}Conclusions}{233}{chapter.8}
-\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{234}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}[..] to the research hypotheses}{235}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{236}{subsection.8.1.2}
-\contentsline {subsection}{\numberline {8.1.3}[..] to the research objectives}{236}{subsection.8.1.3}
-\contentsline {subsection}{\numberline {8.1.4}[..] to the methodological approach}{237}{subsection.8.1.4}
-\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{238}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{238}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Urbanity}{240}{subsection.8.2.2}
-\contentsline {subsection}{\numberline {8.2.3}An Ordinary City}{240}{subsection.8.2.3}
-\contentsline {subsection}{\numberline {8.2.4}A Post-socialist City}{241}{subsection.8.2.4}
-\contentsline {subsection}{\numberline {8.2.5}And in local context... [Serbia - Belgrade - Savamala]}{243}{subsection.8.2.5}
-\contentsline {subsection}{\numberline {8.2.6}Epistemological framework - When ANT opens doors for revisions..}{244}{subsection.8.2.6}
-\contentsline {section}{\numberline {8.3}Limitations of the research}{246}{section.8.3}
-\contentsline {section}{\numberline {8.4}Practical Implications}{247}{section.8.4}
-\contentsline {subsection}{\numberline {8.4.1}Data visualization}{248}{subsection.8.4.1}
-\contentsline {subsection}{\numberline {8.4.2}Urban Development Model}{248}{subsection.8.4.2}
-\contentsline {section}{\numberline {8.5}Future Prospects}{248}{section.8.5}
-\contentsline {section}{\numberline {8.6}scientific}{250}{section.8.6}
-\contentsline {section}{\numberline {8.7}legal documents}{250}{section.8.7}
-\contentsline {section}{\numberline {8.8}practice-based}{250}{section.8.8}
-\contentsline {section}{\numberline {8.9}media sources}{250}{section.8.9}
-\contentsline {chapter}{\numberline {9}List of Acronyms and Abbreviations}{251}{chapter.9}
-\contentsline {chapter}{\numberline {A}Data collection}{252}{appendix.A}
-\contentsline {section}{\numberline {A.1}Interviews}{252}{section.A.1}
-\contentsline {section}{\numberline {A.2}Questionnaires}{252}{section.A.2}
-\contentsline {section}{\numberline {A.3}Workshops}{252}{section.A.3}
-\contentsline {chapter}{\numberline {B}CV Marija Cvetinovic}{253}{appendix.B}
-\contentsline {chapter}{Bibliography}{253}{appendix.B}
+\contentsline {paragraph}{Agent preferences}{214}{section*.59}
+\contentsline {paragraph}{Agent Behaviour}{216}{section*.60}
+\contentsline {subsection}{\numberline {7.1.2}Decision Making Layers' Scenarios as an Indicator of Urban Development Prospects}{221}{subsection.7.1.2}
+\contentsline {subsubsection}{Operationality of bottom-up, on-site interventions}{222}{section*.61}
+\contentsline {subsubsection}{Interest-based Waterfront Future}{225}{section*.62}
+\contentsline {subsubsection}{Strategies and Tactics of Urban Institutions}{228}{section*.63}
+\contentsline {subsection}{\numberline {7.1.3}Resilience, Flexibility and Contradiction in Urban Processes}{229}{subsection.7.1.3}
+\contentsline {subsubsection}{The Practice of Maintenance}{229}{section*.64}
+\contentsline {subsubsection}{System transformation}{231}{section*.65}
+\contentsline {subsubsection}{Urban change}{232}{section*.66}
+\contentsline {section}{\numberline {7.2}The MAS-ANT Diagram}{233}{section.7.2}
+\contentsline {section}{\numberline {7.3}Conclusion}{235}{section.7.3}
+\contentsline {chapter}{\numberline {8}Conclusions}{237}{chapter.8}
+\contentsline {section}{\numberline {8.1}Conclusions related to the research framework}{238}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}[..] to the research hypotheses}{239}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}[..] to the research questions}{240}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.3}[..] to the research objectives}{240}{subsection.8.1.3}
+\contentsline {subsection}{\numberline {8.1.4}[..] to the methodological approach}{241}{subsection.8.1.4}
+\contentsline {section}{\numberline {8.2}Conclusions related to the theoretical framework}{242}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Urban Development Taxonomy}{242}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Urbanity}{244}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}An Ordinary City}{244}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}A Post-socialist City}{245}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.5}And in local context... [Serbia - Belgrade - Savamala]}{247}{subsection.8.2.5}
+\contentsline {subsection}{\numberline {8.2.6}Epistemological framework - When ANT opens doors for revisions..}{248}{subsection.8.2.6}
+\contentsline {section}{\numberline {8.3}Limitations of the research}{250}{section.8.3}
+\contentsline {section}{\numberline {8.4}Practical Implications}{251}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Data visualization}{252}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}Urban Development Model}{252}{subsection.8.4.2}
+\contentsline {section}{\numberline {8.5}Future Prospects}{252}{section.8.5}
+\contentsline {section}{\numberline {8.6}scientific}{254}{section.8.6}
+\contentsline {section}{\numberline {8.7}legal documents}{254}{section.8.7}
+\contentsline {section}{\numberline {8.8}practice-based}{254}{section.8.8}
+\contentsline {section}{\numberline {8.9}media sources}{254}{section.8.9}
+\contentsline {chapter}{\numberline {9}List of Acronyms and Abbreviations}{255}{chapter.9}
+\contentsline {chapter}{\numberline {A}Data collection}{256}{appendix.A}
+\contentsline {section}{\numberline {A.1}Interviews}{256}{section.A.1}
+\contentsline {section}{\numberline {A.2}Questionnaires}{256}{section.A.2}
+\contentsline {section}{\numberline {A.3}Workshops}{256}{section.A.3}
+\contentsline {chapter}{\numberline {B}CV Marija Cvetinovic}{257}{appendix.B}
+\contentsline {chapter}{Bibliography}{257}{appendix.B}
