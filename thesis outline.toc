@@ -120,11 +120,11 @@
 \contentsline {subsection}{\numberline {6.1.1}Passive contextual elements}{183}{subsection.6.1.1}
 \contentsline {subsubsection}{Spatial capacities}{184}{section*.54}
 \contentsline {subsubsection}{Social potentials}{187}{section*.55}
-\contentsline {subsection}{\numberline {6.1.2}The Assembly of Relations}{191}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.2}The Assembly of Relations}{192}{subsection.6.1.2}
 \contentsline {subsubsection}{Urban practices}{192}{section*.56}
 \contentsline {subsubsection}{Urban conflicts}{194}{section*.57}
-\contentsline {section}{\numberline {6.2}Agent Preferences: Scope and Operationality}{199}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Civil and Creative Articulation of Agents}{202}{subsection.6.2.1}
+\contentsline {section}{\numberline {6.2}Agent Preferences: Scope and Operationality}{200}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Civil and Creative Articulation of Agents}{203}{subsection.6.2.1}
 \contentsline {subsection}{\numberline {6.2.2}Top-down Technocratic Approach to Space}{205}{subsection.6.2.2}
 \contentsline {subsection}{\numberline {6.2.3}Belgrade Waterfront Whereabouts}{206}{subsection.6.2.3}
 \contentsline {section}{\numberline {6.3}Conclusion}{208}{section.6.3}
@@ -162,14 +162,14 @@
 \contentsline {subsection}{\numberline {8.4.1}Data visualization}{256}{subsection.8.4.1}
 \contentsline {subsection}{\numberline {8.4.2}Urban Development Model}{256}{subsection.8.4.2}
 \contentsline {section}{\numberline {8.5}Future Prospects}{256}{section.8.5}
-\contentsline {section}{\numberline {8.6}scientific}{258}{section.8.6}
-\contentsline {section}{\numberline {8.7}legal documents}{258}{section.8.7}
-\contentsline {section}{\numberline {8.8}practice-based}{258}{section.8.8}
-\contentsline {section}{\numberline {8.9}media sources}{258}{section.8.9}
-\contentsline {chapter}{\numberline {9}List of Acronyms and Abbreviations}{259}{chapter.9}
-\contentsline {chapter}{\numberline {A}Data collection}{260}{appendix.A}
-\contentsline {section}{\numberline {A.1}Interviews}{260}{section.A.1}
-\contentsline {section}{\numberline {A.2}Questionnaires}{260}{section.A.2}
-\contentsline {section}{\numberline {A.3}Workshops}{260}{section.A.3}
-\contentsline {chapter}{\numberline {B}CV Marija Cvetinovic}{261}{appendix.B}
-\contentsline {chapter}{Bibliography}{261}{appendix.B}
+\contentsline {chapter}{Bibliography}{258}{chapter*.67}
+\contentsline {section}{\numberline {8.6}scientific}{262}{section.8.6}
+\contentsline {section}{\numberline {8.7}legal documents}{262}{section.8.7}
+\contentsline {section}{\numberline {8.8}practice-based}{262}{section.8.8}
+\contentsline {section}{\numberline {8.9}media sources}{262}{section.8.9}
+\contentsline {chapter}{\numberline {9}List of Acronyms and Abbreviations}{263}{chapter.9}
+\contentsline {chapter}{\numberline {A}Data collection}{264}{appendix.A}
+\contentsline {section}{\numberline {A.1}Interviews}{264}{section.A.1}
+\contentsline {section}{\numberline {A.2}Questionnaires}{264}{section.A.2}
+\contentsline {section}{\numberline {A.3}Workshops}{264}{section.A.3}
+\contentsline {chapter}{\numberline {B}CV Marija Cvetinovic}{265}{appendix.B}
