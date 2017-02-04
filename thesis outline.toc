@@ -28,13 +28,13 @@
 \contentsline {subsubsection}{Urban Planning Strategies}{35}{section*.8}
 \contentsline {subsubsection}{Real Estate Bias}{37}{section*.9}
 \contentsline {subsubsection}{Traces of Participation}{39}{section*.10}
-\contentsline {subsubsection}{Urban Decision-making Layers}{40}{section*.11}
+\contentsline {subsubsection}{Urban Decision-making Layers}{41}{section*.11}
 \contentsline {subsection}{\numberline {2.1.5}How to frame urbanity to grasp system dynamics}{41}{subsection.2.1.5}
 \contentsline {paragraph}{Contextual resources}{44}{section*.12}
 \contentsline {paragraph}{Urban Practices vs Urban Conflicts}{45}{section*.13}
 \contentsline {paragraph}{Urban System Transitions}{46}{section*.14}
-\contentsline {section}{\numberline {2.2}Epistemological Framework}{46}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}ANT in analysis of urban development}{47}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.2}Epistemological Framework}{47}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}ANT in analysis of urban development}{48}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Multi-Agent System for Process Simulation}{50}{subsection.2.2.2}
 \contentsline {section}{\numberline {2.3}Local framework}{52}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Socio-spatial Patterns of Post-socialist Cities}{53}{subsection.2.3.1}
@@ -164,13 +164,13 @@
 \contentsline {subsection}{\numberline {8.4.2}Urban Development Model}{257}{subsection.8.4.2}
 \contentsline {section}{\numberline {8.5}Future Prospects}{257}{section.8.5}
 \contentsline {chapter}{Bibliography}{259}{chapter*.68}
-\contentsline {section}{\numberline {8.6}scientific}{264}{section.8.6}
-\contentsline {section}{\numberline {8.7}legal documents}{264}{section.8.7}
-\contentsline {section}{\numberline {8.8}practice-based}{264}{section.8.8}
-\contentsline {section}{\numberline {8.9}media sources}{264}{section.8.9}
-\contentsline {chapter}{\numberline {9}List of Acronyms and Abbreviations}{265}{chapter.9}
-\contentsline {chapter}{\numberline {A}Data collection}{266}{appendix.A}
-\contentsline {section}{\numberline {A.1}Interviews}{266}{section.A.1}
-\contentsline {section}{\numberline {A.2}Questionnaires}{266}{section.A.2}
-\contentsline {section}{\numberline {A.3}Workshops}{266}{section.A.3}
-\contentsline {chapter}{\numberline {B}CV Marija Cvetinovic}{267}{appendix.B}
+\contentsline {section}{\numberline {8.6}scientific}{265}{section.8.6}
+\contentsline {section}{\numberline {8.7}legal documents}{265}{section.8.7}
+\contentsline {section}{\numberline {8.8}practice-based}{265}{section.8.8}
+\contentsline {section}{\numberline {8.9}media sources}{265}{section.8.9}
+\contentsline {chapter}{\numberline {9}List of Acronyms and Abbreviations}{266}{chapter.9}
+\contentsline {chapter}{\numberline {A}Data collection}{267}{appendix.A}
+\contentsline {section}{\numberline {A.1}Interviews}{267}{section.A.1}
+\contentsline {section}{\numberline {A.2}Questionnaires}{267}{section.A.2}
+\contentsline {section}{\numberline {A.3}Workshops}{267}{section.A.3}
+\contentsline {chapter}{\numberline {B}CV Marija Cvetinovic}{268}{appendix.B}

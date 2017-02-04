@@ -1,5 +1,9 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Lydon}{lyd}{2012}]{lydon_tactical_2012}
+ (2012).
+\newblock Tactical urbanism.
+
 \bibitem[\protect\citeauthoryear{??}{fac}{2013}]{factories_micro_2013}
  (2013?).
 \newblock Micro factories.
@@ -17,10 +21,23 @@ Amin, A. and N.~Thrift (1996, January).
   {Europe}}.
 \newblock USA: Oxford University Press.
 
+\bibitem[\protect\citeauthoryear{Arnstein}{Arnstein}{1969}]{arnstein_ladder_1969}
+Arnstein, S.~R. (1969).
+\newblock A {Ladder} {Of} {Citizen} {Participation}.
+\newblock {\em Journal of the American Institute of Planners\/}~{\em 35\/}(4),
+  216--224.
+
 \bibitem[\protect\citeauthoryear{Belić}{Belić}{2014}]{belic_parobrod_2014}
 Belić, N. (2014, February).
 \newblock Parobrod „Župa” isplovljava iz penzije.
 \newblock {\em Politika Online\/}.
+
+\bibitem[\protect\citeauthoryear{Bolay}{Bolay}{1996}]{bolay_planning_1996}
+Bolay, J.-C. (1996).
+\newblock Planning differently: {Urban} {Habitat} and {Popular} {Participation}
+  in {Latin} {America}, a {Swiss} {Contribution} to the {Best} {Practices}
+  {Initiative} ({Argentine}, {Bolivie}, {Brésil}, {Venezuela}).
+\newblock {\em OFL\/}.
 
 \bibitem[\protect\citeauthoryear{Bolay, Pedrazzini, Rabinovich, Catenazzi, and
   García~Pleyán}{Bolay et~al.}{2005}]{Bolay_urban_2005}
@@ -29,6 +46,14 @@ Bolay, J.-C., Y.~Pedrazzini, A.~Rabinovich, A.~Catenazzi, and
 \newblock Urban environment, spatial fragmentation and social segration in
   {Latin} {America}: {Where} does innovation lie?
 \newblock {\em Habitat International\/}~{\em 29\/}(4), 627--645.
+
+\bibitem[\protect\citeauthoryear{Bolay, Pedrazzini, Rabinovich~Behrend,
+  Garcia~Pleyan, and Catenazzi}{Bolay et~al.}{2004}]{bolay_urban_2004}
+Bolay, J.-C., Y.~Pedrazzini, A.~Rabinovich~Behrend, C.~Garcia~Pleyan, and
+  A.~Catenazzi (2004).
+\newblock Urban services under neoliberal premises ? {Experiences} in
+  {Argentina}, {Bolivia} and {Cuba}.
+\newblock {\em TRIALOG\/}.
 
 \bibitem[\protect\citeauthoryear{Bousquet and Le~Page}{Bousquet and
   Le~Page}{2004}]{bousquet_multi-agent_2004}
@@ -139,17 +164,34 @@ Harvey, D. (1989).
 \newblock Blackwell.
 \newblock 293 S.
 
+\bibitem[\protect\citeauthoryear{Harvey}{Harvey}{2003}]{harvey_condition_2003}
+Harvey, D. (2003).
+\newblock {\em The condition of postmodernity}.
+\newblock Blackwell Publishers.
+
 \bibitem[\protect\citeauthoryear{Harvey}{Harvey}{2012}]{Harvey_rebel_2012}
 Harvey, D. (2012).
 \newblock {\em Rebel cities: from the right to the city to the urban
   revolution}.
 \newblock New York: Verso.
 
+\bibitem[\protect\citeauthoryear{Healey}{Healey}{1996}]{healey_communicative_1996}
+Healey, P. (1996).
+\newblock The communicative turn in planning theory and its implications for
+  spatial strategy formation.
+\newblock {\em Environment and planning B\/}~{\em 23}, 217--234.
+
 \bibitem[\protect\citeauthoryear{Healey}{Healey}{1997}]{Healey_Collaborative_1997}
 Healey, P. (1997).
 \newblock {\em Collaborative planning: shaping places in fragmented societies}.
 \newblock Planning, environment, cities. Basingstoke, Hampshire: Macmillan.
 \newblock OCLC: 247495613.
+
+\bibitem[\protect\citeauthoryear{Hirt}{Hirt}{2008}]{hirt_landscapes_2008}
+Hirt, S. (2008, November).
+\newblock Landscapes of {Postmodernity}: {Changes} in the {Built} {Fabric} of
+  {Belgrade} and {Sofia} {Since} the {End} of {Socialism}.
+\newblock {\em Urban Geography\/}~{\em 29\/}(8), 785--810.
 
 \bibitem[\protect\citeauthoryear{Hirt}{Hirt}{2009}]{hirt_belgrade_2009}
 Hirt, S. (2009, October).
@@ -197,6 +239,14 @@ Lefebvre, H. (1974).
 \newblock {\em Production of {Space}}.
 \newblock Blackwell Publishing.
 
+\bibitem[\protect\citeauthoryear{Lehrer and Laidley}{Lehrer and
+  Laidley}{2008}]{lehrer_old_2008}
+Lehrer, U. and J.~Laidley (2008, December).
+\newblock Old {Mega}-{Projects} {Newly} {Packaged}? {Waterfront}
+  {Redevelopment} in {Toronto}.
+\newblock {\em International Journal of Urban and Regional Research\/}~{\em
+  32\/}(4), 786--803.
+
 \bibitem[\protect\citeauthoryear{Lynch and Rodwin}{Lynch and
   Rodwin}{1958}]{lynch_theory_1958}
 Lynch, K. and L.~Rodwin (1958).
@@ -227,6 +277,11 @@ Moroni, S. (2010, November).
   reform.
 \newblock {\em Planning Theory\/}~{\em 9\/}(4), 275--297.
 
+\bibitem[\protect\citeauthoryear{Mouffe}{Mouffe}{2002}]{mouffe_which_2002}
+Mouffe, C. (2002).
+\newblock Which {Public} {Sphere} for a {Democratic} {Society}?
+\newblock {\em Theoria\/}~{\em 49\/}(99), 55--65.
+
 \bibitem[\protect\citeauthoryear{{Mrdjenovic Tatjana}, {Djukic Aleksandra}, and
   {Stupar Aleksandra}}{{Mrdjenovic Tatjana}
   et~al.}{2015}]{mrdjenovic_tatjana_urban_2015}
@@ -250,6 +305,12 @@ Nedović-Budić, Z., D.~Djordjević, and T.~Dabović (2011, March).
 \newblock The {Mornings} after…{Serbian} {Spatial} {Planning} {Legislation}
   in {Context}.
 \newblock {\em European Planning Studies\/}~{\em 19\/}(3), 429--455.
+
+\bibitem[\protect\citeauthoryear{Ostrom}{Ostrom}{1995}]{ostrom_governing_1995}
+Ostrom, E. (1995).
+\newblock {\em Governing the commons: the evolution of institutions for
+  collective action}.
+\newblock Cambridge [u.a.: Cambridge Univ. Press.
 
 \bibitem[\protect\citeauthoryear{Peric}{Peric}{2016}]{Peric_evolution_2016}
 Peric, A. (2016).
@@ -302,6 +363,13 @@ Portugali, J. (2011).
 prostora, M. (2014).
 \newblock Urbani razvoj u {Srbiji} – jačanje uloge građana kao brane javnog
   interesa.
+
+\bibitem[\protect\citeauthoryear{Putnam, Leonardi, and Nanetti}{Putnam
+  et~al.}{1993}]{putnam_making_1993}
+Putnam, R., R.~Leonardi, and R.~Nanetti (1993).
+\newblock {\em Making {Democracy} {Work}: {Civic} {Traditions} in {Modern}
+  {Italy}}.
+\newblock Princeton: Princeton University Press.
 
 \bibitem[\protect\citeauthoryear{Robinson}{Robinson}{2015}]{Robinson_Comparative_2015}
 Robinson, J. (2015, December).
@@ -376,6 +444,13 @@ Tonkiss, F. (2014, January).
 Tulimirović, D. (2016, June).
 \newblock {PROTEST} "{NEĆE} {PROĆI}" {Lazović}: {Sve} nas je više, grad je
   naš.
+
+\bibitem[\protect\citeauthoryear{Van~Assche, Beunen, Duineveld, and
+  de~Jong}{Van~Assche et~al.}{2013}]{van_assche_co-evolutions_2013}
+Van~Assche, K., R.~Beunen, M.~Duineveld, and H.~de~Jong (2013, May).
+\newblock Co-evolutions of planning and design: {Risks} and benefits of design
+  perspectives in planning systems.
+\newblock {\em Planning Theory\/}~{\em 12\/}(2), 177--198.
 
 \bibitem[\protect\citeauthoryear{Vanista~Lazarevic}{Vanista~Lazarevic}{2015}]{doytchinov_urban_2015}
 Vanista~Lazarevic, E. (2015).

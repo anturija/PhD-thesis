@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  4 FEB 2017 23:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.9)  5 FEB 2017 00:44
 entering extended mode
 **"thesis outline.tex"
 ("thesis outline.tex"
@@ -1756,10 +1756,6 @@ Package natbib Warning: Citation `Getimis 2012' on page 36 undefined on input l
 ine 870.
 
 
-Package natbib Warning: Citation `Van_Co-evolutions_2013' on page 36 undefined 
-on input line 872.
-
-
 Package natbib Warning: Citation `Getimis 2012' on page 36 undefined on input l
 ine 873.
 
@@ -1878,24 +1874,87 @@ input line 955.
 Package natbib Warning: Citation `healey_collaborative_1997' on page 39 undefin
 ed on input line 957.
 
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
+
+Package natbib Warning: Citation `UN_building_2009' on page 39 undefined on inp
+ut line 962.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--967
+
+ []
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Package natbib Warning: Citation `(Lehrer and Laidley 2008)' on page 39 undefin
-ed on input line 988.
+Underfull \hbox (badness 10000) in paragraph at lines 968--974
 
-[39] [40]
+ []
+
+
+Package natbib Warning: Citation `scharpf_XXX_1997' on page 39 undefined on inp
+ut line 977.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--979
+
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--987
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 988--996
+
+ []
+
+
+Package natbib Warning: Citation `bolay_urban_2005' on page 40 undefined on inp
+ut line 998.
+
+
+Package natbib Warning: Citation `Getimis 2012' on page 40 undefined on input l
+ine 1001.
+
+
+Package natbib Warning: Citation `lindner_XXXX_2009' on page 40 undefined on in
+put line 1003.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 997--1005
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1006--1011
+
+ []
+
+
+Package natbib Warning: Citation `zukin_culture_1995' on page 40 undefined on i
+nput line 1017.
+
+
+Package natbib Warning: Citation `lloyd_XXX_2006' on page 40 undefined on input
+ line 1017.
+
+
+Package natbib Warning: Citation `basett_XXXX_1993' on page 40 undefined on inp
+ut line 1019.
+
+[40]
 
 Package natbib Warning: Citation `Sykora 1999' on page 41 undefined on input li
-ne 1007.
+ne 1038.
 
 
 Package natbib Warning: Citation `Tardin 2014' on page 41 undefined on input li
-ne 1007.
+ne 1038.
 
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ¤ in font cmr9!
@@ -1997,12 +2056,12 @@ Missing character: There is no ¶ in font cmr10!
  [44]
 
 Package natbib Warning: Citation `Coleman 1988' on page 45 undefined on input l
-ine 1094.
+ine 1125.
 
 [45]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
- [46]
+ [46] [47]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -2075,11 +2134,10 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
- [47] [48] [49] [50]
+ [48] [49] [50] [51]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [51]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
 Missing character: There is no Ã in font cmr10!
@@ -2125,7 +2183,7 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [55] [56] [57]
+ [55] [56] [57] [58]
 Missing character: There is no Ã in font cmbx10!
 Missing character: There is no © in font cmbx10!
 Missing character: There is no Ã in font cmbx10!
@@ -2142,10 +2200,10 @@ Missing character: There is no Ã in font cmbx10!
 Missing character: There is no © in font cmbx10!
 Missing character: There is no Ã in font cmbx10!
 Missing character: There is no   in font cmbx10!
- [58]
+
 
 Package natbib Warning: Citation `Latour 2005' on page 59 undefined on input li
-ne 1374.
+ne 1405.
 
 [59] [60]
 Chapter 3.
@@ -2154,91 +2212,91 @@ Chapter 3.
 ] [62] [63] [64]
 
 Package natbib Warning: Citation `(Yin 1994)' on page 65 undefined on input lin
-e 1521.
+e 1552.
 
 
 Package natbib Warning: Citation `(Feagin' on page 65 undefined on input line 1
-521.
+552.
 
 
 Package natbib Warning: Citation `Orum and Sjoberg 1999)' on page 65 undefined 
-on input line 1521.
+on input line 1552.
 
 
 Package natbib Warning: Citation `(Wanborn 2010)' on page 65 undefined on input
- line 1521.
+ line 1552.
 
 
 Package natbib Warning: Citation `(Scholz and Tietje' on page 65 undefined on i
-nput line 1521.
+nput line 1552.
 
 
 Package natbib Warning: Citation `2002; Yin 2009)' on page 65 undefined on inpu
-t line 1521.
+t line 1552.
 
 
 Package natbib Warning: Citation `(Harrison 2002)' on page 65 undefined on inpu
-t line 1521.
+t line 1552.
 
 
 Package natbib Warning: Citation `(Feagin et al. 1991)' on page 65 undefined on
- input line 1523.
+ input line 1554.
 
 [65]
 
 Package natbib Warning: Citation `(Yin 2009)' on page 66 undefined on input lin
-e 1526.
+e 1557.
 
 
 Package natbib Warning: Citation `Campbell 1975' on page 66 undefined on input 
-line 1531.
+line 1562.
 
 
 Package natbib Warning: Citation `(Feagin et al. 1991)' on page 66 undefined on
- input line 1536.
+ input line 1567.
 
 
 Package natbib Warning: Citation `(Harrison 2002)' on page 66 undefined on inpu
-t line 1543.
+t line 1574.
 
 
 Package natbib Warning: Citation `(Yin 2009)' on page 66 undefined on input lin
-e 1543.
+e 1574.
 
 
 Package natbib Warning: Citation `(Denzin 1987b' on page 66 undefined on input 
-line 1545.
+line 1576.
 
 [66]
 
 Package natbib Warning: Citation `(Yin XXX)' on page 67 undefined on input line
- 1557.
+ 1588.
 
 [67]
 
 Package natbib Warning: Citation `(Harrison 2002)' on page 68 undefined on inpu
-t line 1576.
+t line 1607.
 
 
 Package natbib Warning: Citation `(Flyvbjerg 2006)' on page 68 undefined on inp
-ut line 1578.
+ut line 1609.
 
 
 Package natbib Warning: Citation `Yin's (XXXX)' on page 68 undefined on input l
-ine 1579.
+ine 1610.
 
 [68]
 
 Package natbib Warning: Citation `(Yin XXX)' on page 69 undefined on input line
- 1587.
+ 1618.
 
 
 Package natbib Warning: Citation `Harrison (2002)' on page 69 undefined on inpu
-t line 1598.
+t line 1629.
 
 
 Package natbib Warning: Citation `Flyvbjerg (2006)' on page 69 undefined on inp
-ut line 1598.
+ut line 1629.
 
 [69]
 Missing character: There is no â in font cmbx10!
@@ -2250,53 +2308,53 @@ Missing character: There is no ™ in font cmbx10!
 
 
 Package natbib Warning: Citation `Robson' on page 70 undefined on input line 16
-09.
+40.
 
 
-Package natbib Warning: Citation `1993' on page 70 undefined on input line 1609
+Package natbib Warning: Citation `1993' on page 70 undefined on input line 1640
 .
 
 
-Package natbib Warning: Citation `Yin' on page 70 undefined on input line 1609.
+Package natbib Warning: Citation `Yin' on page 70 undefined on input line 1640.
 
 
 
-Package natbib Warning: Citation `1994' on page 70 undefined on input line 1609
+Package natbib Warning: Citation `1994' on page 70 undefined on input line 1640
 .
 
 [70] [71]
 
 Package natbib Warning: Citation `Meredith 1989' on page 72 undefined on input 
-line 1637.
+line 1668.
 
 
 Package natbib Warning: Citation `Harrison 2002' on page 72 undefined on input 
-line 1637.
+line 1668.
 
 
 Package natbib Warning: Citation `Denzin et al. XXXX' on page 72 undefined on i
-nput line 1637.
+nput line 1668.
 
 [72]
 
-Package natbib Warning: Citation `(Yin' on page 73 undefined on input line 1659
+Package natbib Warning: Citation `(Yin' on page 73 undefined on input line 1690
 .
 
 
-Package natbib Warning: Citation `1994)' on page 73 undefined on input line 165
-9.
+Package natbib Warning: Citation `1994)' on page 73 undefined on input line 169
+0.
 
 
 Package natbib Warning: Citation `(Mertens 1998' on page 73 undefined on input 
-line 1659.
+line 1690.
 
 
 Package natbib Warning: Citation `Flick 2002' on page 73 undefined on input lin
-e 1659.
+e 1690.
 
 
 Package natbib Warning: Citation `Grubovic)' on page 73 undefined on input line
- 1659.
+ 1690.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -2306,81 +2364,81 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `(Pettigrew XXXX' on page 73 undefined on inpu
-t line 1660.
+t line 1691.
 
 
 Package natbib Warning: Citation `Harrison 2002)' on page 73 undefined on input
- line 1660.
+ line 1691.
 
 [73]
 
 Package natbib Warning: Citation `(Mogalakwe 2006)' on page 74 undefined on inp
-ut line 1669.
+ut line 1700.
 
 
 Package natbib Warning: Citation `(Robson' on page 74 undefined on input line 1
-669.
+700.
 
 
 Package natbib Warning: Citation `1993; GRUBOVIC)' on page 74 undefined on inpu
-t line 1669.
+t line 1700.
 
 
 Package natbib Warning: Citation `((Jary and Jary 1991; Payne and Payne 2004; M
-ogalakwe 2006)' on page 74 undefined on input line 1670.
+ogalakwe 2006)' on page 74 undefined on input line 1701.
 
 
 Package natbib Warning: Citation `(Forster' on page 74 undefined on input line 
-1672.
+1703.
 
 
-Package natbib Warning: Citation `1994)' on page 74 undefined on input line 167
-2.
-
-
-Package natbib Warning: Citation `Scoot 2004' on page 74 undefined on input lin
-e 1673.
-
-
-Package natbib Warning: Citation `(Cochrane' on page 74 undefined on input line
- 1673.
-
-
-Package natbib Warning: Citation `1998; Yin' on page 74 undefined on input line
- 1673.
-
-
-Package natbib Warning: Citation `1994)' on page 74 undefined on input line 167
+Package natbib Warning: Citation `1994)' on page 74 undefined on input line 170
 3.
 
 
+Package natbib Warning: Citation `Scoot 2004' on page 74 undefined on input lin
+e 1704.
+
+
+Package natbib Warning: Citation `(Cochrane' on page 74 undefined on input line
+ 1704.
+
+
+Package natbib Warning: Citation `1998; Yin' on page 74 undefined on input line
+ 1704.
+
+
+Package natbib Warning: Citation `1994)' on page 74 undefined on input line 170
+4.
+
+
 Package natbib Warning: Citation `(Payne and Payne' on page 74 undefined on inp
-ut line 1675.
+ut line 1706.
 
 
-Package natbib Warning: Citation `2004)' on page 74 undefined on input line 167
-5.
+Package natbib Warning: Citation `2004)' on page 74 undefined on input line 170
+6.
 
 [74] [75]
 
 Package natbib Warning: Citation `ref mcintyre PAR' on page 76 undefined on inp
-ut line 1698.
+ut line 1729.
 
 
 Package natbib Warning: Citation `ref whyte PAR ref' on page 76 undefined on in
-put line 1698.
+put line 1729.
 
 
 Package natbib Warning: Citation `ref mcintyre PAR' on page 76 undefined on inp
-ut line 1700.
+ut line 1731.
 
 
 Package natbib Warning: Citation `ref mcintyre PAR' on page 76 undefined on inp
-ut line 1700.
+ut line 1731.
 
 
 Package natbib Warning: Citation `ref mcintyre PAR' on page 76 undefined on inp
-ut line 1702.
+ut line 1733.
 
 [76]
 Missing character: There is no â in font cmr10!
@@ -2392,51 +2450,51 @@ Missing character: There is no ™ in font cmr10!
 
 
 Package natbib Warning: Citation `Payne and Payne 2004' on page 77 undefined on
- input line 1707.
+ input line 1738.
 
 
 Package natbib Warning: Citation `Payne and Payne 2004' on page 77 undefined on
- input line 1709.
+ input line 1740.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `King 1994' on page 77 undefined on input line
- 1721.
+ 1752.
 
 [77]
 
 Package natbib Warning: Citation `Latour 1996' on page 78 undefined on input li
-ne 1732.
+ne 1763.
 
 
 Package natbib Warning: Citation `Cerulo 2009' on page 78 undefined on input li
-ne 1732.
+ne 1763.
 
 
 Package natbib Warning: Citation `Latour 2005' on page 78 undefined on input li
-ne 1734.
+ne 1765.
 
 [78]
 
 Package natbib Warning: Citation `Latour 1996' on page 79 undefined on input li
-ne 1742.
+ne 1773.
 
 
 Package natbib Warning: Citation `Cerulo 2009' on page 79 undefined on input li
-ne 1742.
+ne 1773.
 
 
 Package natbib Warning: Citation `Mitchell 1999' on page 79 undefined on input 
-line 1743.
+line 1774.
 
 
 Package natbib Warning: Citation `Firmino et al.' on page 79 undefined on input
- line 1743.
+ line 1774.
 
 
-Package natbib Warning: Citation `2008' on page 79 undefined on input line 1743
+Package natbib Warning: Citation `2008' on page 79 undefined on input line 1774
 .
 
 [79]
@@ -2446,15 +2504,15 @@ Missing character: There is no ™ in font cmr10!
 
 
 Package natbib Warning: Citation `Latour 2005' on page 80 undefined on input li
-ne 1752.
+ne 1783.
 
 
 Package natbib Warning: Citation `Farias 2011' on page 80 undefined on input li
-ne 1753.
+ne 1784.
 
 
 Package natbib Warning: Citation `Callon 1986' on page 80 undefined on input li
-ne 1753.
+ne 1784.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -2462,28 +2520,28 @@ Missing character: There is no ™ in font cmr10!
 [80]
 
 Package natbib Warning: Citation `Farias 2011' on page 81 undefined on input li
-ne 1757.
+ne 1788.
 
 
-Overfull \hbox (7.61885pt too wide) in paragraph at lines 1757--1759
+Overfull \hbox (7.61885pt too wide) in paragraph at lines 1788--1790
 []\OT1/cmr/m/n/10.95 When ap-ply-ing ANT for ur-ban anal-y-sis, the im-por-tanc
 e lies in avoid-ing pre-established
  []
 
 
 Package natbib Warning: Citation `Muniesa et al. 2007' on page 81 undefined on 
-input line 1762.
+input line 1793.
 
 
 Package natbib Warning: Citation `FarÃ­as 2011' on page 81 undefined on input l
-ine 1762.
+ine 1793.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `Ferber 1999' on page 81 undefined on input li
-ne 1774.
+ne 1805.
 
 [81] [82]
 Missing character: There is no â in font cmr10!
@@ -2492,10 +2550,10 @@ Missing character: There is no ™ in font cmr10!
 
 
 Package natbib Warning: Citation `Arsanjani et al. 2013' on page 83 undefined o
-n input line 1817.
+n input line 1848.
 
 [83]
-Overfull \hbox (4.85217pt too wide) in paragraph at lines 1831--1832
+Overfull \hbox (4.85217pt too wide) in paragraph at lines 1862--1863
 []\OT1/cmr/m/n/10.95 Evaluate state and the evo-lu-tion of the sys-tem (main-te
 -nance, trans-for-ma-tion, change): 
  []
@@ -2511,12 +2569,12 @@ Missing character: There is no ™ in font cmr10!
  [87] [88] [89]
 
 Package natbib Warning: Citation `Blagojevic 2009' on page 90 undefined on inpu
-t line 1941.
+t line 1972.
 
 [90] [91] [92] [93] [94]
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015' on page 95 unde
-fined on input line 2023.
+fined on input line 2054.
 
 [95]
 Missing character: There is no Ã in font cmr10!
@@ -2532,16 +2590,16 @@ Missing character: There is no ¼ in font cmr10!
 
 
 Package natbib Warning: Citation `waves of planning 2006' on page 96 undefined 
-on input line 2047.
+on input line 2078.
 
 [96]
 
 Package natbib Warning: Citation `Vesna Cagic 2014' on page 97 undefined on inp
-ut line 2065.
+ut line 2096.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 97 undefined on input lin
-e 2065.
+e 2096.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -2551,32 +2609,32 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `waves of planning 2006' on page 97 undefined 
-on input line 2065.
+on input line 2096.
 
 
 Package natbib Warning: Citation `Mornings after Nedovic Budic' on page 97 unde
-fined on input line 2070.
+fined on input line 2101.
 
 
 Package natbib Warning: Citation `(Vujosevic and Nedovic 2006)' on page 97 unde
-fined on input line 2072.
+fined on input line 2103.
 
 
 Package natbib Warning: Citation `adjustment of planning practice nedovic budic
- 2001' on page 97 undefined on input line 2076.
+ 2001' on page 97 undefined on input line 2107.
 
 [97]
 
 Package natbib Warning: Citation `from Grozdanic find references' on page 98 un
-defined on input line 2102.
+defined on input line 2133.
 
 
 Package natbib Warning: Citation `(Vujosevic and Nedovic 2006)' on page 98 unde
-fined on input line 2103.
+fined on input line 2134.
 
 
 Package natbib Warning: Citation `Vladina strategija za smanjenje siromastva' o
-n page 98 undefined on input line 2112.
+n page 98 undefined on input line 2143.
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no Ã in font cmr10!
@@ -2591,40 +2649,40 @@ Missing character: There is no ¶ in font cmr10!
 [98] [99] [100]
 
 Package natbib Warning: Citation `ref Peric 2016' on page 101 undefined on inpu
-t line 2167.
+t line 2198.
 
 
 Package natbib Warning: Citation `Vujosevic 2015 Regionalizam u Srbiji 2' on pa
-ge 101 undefined on input line 2175.
+ge 101 undefined on input line 2206.
 
 
 Package natbib Warning: Citation `Mornings after Nedovic Budic' on page 101 und
-efined on input line 2176.
+efined on input line 2207.
 
 
 Package natbib Warning: Citation `adjustment of planning practice nedovic budic
- 2001' on page 101 undefined on input line 2176.
+ 2001' on page 101 undefined on input line 2207.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 101 undefined on input li
-ne 2180.
+ne 2211.
 
 
 Package natbib Warning: Citation `Cagic 2014' on page 101 undefined on input li
-ne 2187.
+ne 2218.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 101 undefined on input li
-ne 2187.
+ne 2218.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 101 undefined on input li
-ne 2188.
+ne 2219.
 
 [101] [102]
 
 Package natbib Warning: Citation `ref Peric 2016' on page 103 undefined on inpu
-t line 2192.
+t line 2223.
 
 [103] [104] [105]
 Missing character: There is no â in font cmr10!
@@ -2638,18 +2696,18 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Overfull \hbox (30.09799pt too wide) in paragraph at lines 2275--2338
+Overfull \hbox (30.09799pt too wide) in paragraph at lines 2306--2369
 \OT1/cmr/m/n/10.95 In fact, Josi-movic pi-o-neered a long-lasting paradigm of d
 e-Ottomanization (or de-Orientalization)
  []
 
 [107] [108] [109]
-Underfull \hbox (badness 10000) in paragraph at lines 2339--2341
+Underfull \hbox (badness 10000) in paragraph at lines 2370--2372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2355--2357
+Underfull \hbox (badness 10000) in paragraph at lines 2386--2388
 
  []
 
@@ -2663,40 +2721,40 @@ Missing character: There is no ™ in font cmr10!
  [112]
 
 Package natbib Warning: Citation `Vujosevic 2015 Regionalizam u Srbiji 2' on pa
-ge 113 undefined on input line 2427.
+ge 113 undefined on input line 2458.
 
 
-Package natbib Warning: Citation `ref' on page 113 undefined on input line 2432
+Package natbib Warning: Citation `ref' on page 113 undefined on input line 2463
 .
 
 
 Package natbib Warning: Citation `(Savic 2014' on page 113 undefined on input l
-ine 2435.
+ine 2466.
 
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015)' on page 113 un
-defined on input line 2435.
+defined on input line 2466.
 
 
 Package natbib Warning: Citation `Vanista Lazarevic in Doytchinov 2015' on page
- 113 undefined on input line 2438.
+ 113 undefined on input line 2469.
 
 
-Package natbib Warning: Citation `ref' on page 113 undefined on input line 2440
+Package natbib Warning: Citation `ref' on page 113 undefined on input line 2471
 .
 
 
 Package natbib Warning: Citation `Prodanovic Stariji i lepsi Beograd' on page 1
-13 undefined on input line 2441.
+13 undefined on input line 2472.
 
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 113 undefined on input l
-ine 2444.
+ine 2475.
 
 [113]
 
 Package natbib Warning: Citation `(Grozdanic 2008)' on page 114 undefined on in
-put line 2461.
+put line 2492.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -2712,206 +2770,206 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 114 undefined on input l
-ine 2473.
+ine 2504.
 
 
 Package natbib Warning: Citation `Grozdanic' on page 114 undefined on input lin
-e 2474.
+e 2505.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 114 undefined on input l
-ine 2477.
+ine 2508.
 
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 114 undefined on input l
-ine 2479.
+ine 2510.
 
 
 Package natbib Warning: Citation `Stupar 2004 isocarp' on page 114 undefined on
- input line 2482.
+ input line 2513.
 
 
 Package natbib Warning: Citation `Grozdanic' on page 114 undefined on input lin
-e 2483.
+e 2514.
 
 
 Package natbib Warning: Citation `Zekovic et al. 2015' on page 114 undefined on
- input line 2486.
+ input line 2517.
 
 
 Package natbib Warning: Citation `Cities in Transition 2013' on page 114 undefi
-ned on input line 2490.
+ned on input line 2521.
 
 
 Package natbib Warning: Citation `Vukmirovic et al 2013' on page 114 undefined 
-on input line 2491.
+on input line 2522.
 
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015' on page 114 und
-efined on input line 2496.
+efined on input line 2527.
 
 
 Package natbib Warning: Citation `Hirt 2009' on page 114 undefined on input lin
-e 2498.
+e 2529.
 
 
 Package natbib Warning: Citation `Vanista Lazarevic in Doytchinov 2015' on page
- 114 undefined on input line 2503.
+ 114 undefined on input line 2534.
 
 
 Package natbib Warning: Citation `other ref Samardzic in Doytchinov 2015' on pa
-ge 114 undefined on input line 2509.
+ge 114 undefined on input line 2540.
 
 
 Package natbib Warning: Citation `Vujovic and Petrovic 2007' on page 114 undefi
-ned on input line 2510.
+ned on input line 2541.
 
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015' on page 114 und
-efined on input line 2511.
+efined on input line 2542.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2457--2513
+Underfull \hbox (badness 10000) in paragraph at lines 2488--2544
 
  []
 
 [114] [115] [116]
 
 Package natbib Warning: Citation `Nedovic-Budic 2001' on page 117 undefined on 
-input line 2519.
+input line 2550.
 
 
 Package natbib Warning: Citation `Vujovic et al. 2007' on page 117 undefined on
- input line 2523.
+ input line 2554.
 
 
 Package natbib Warning: Citation `Hirt 2008' on page 117 undefined on input lin
-e 2525.
+e 2556.
 
 [117]
 
 Package natbib Warning: Citation `"Urban Incubator Belgrade" 2013' on page 118 
-undefined on input line 2547.
+undefined on input line 2578.
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 
-Overfull \hbox (20.91211pt too wide) in paragraph at lines 2540--2552
+Overfull \hbox (20.91211pt too wide) in paragraph at lines 2571--2583
 \OT1/cmr/m/n/10.95 During all these years Sava-mala has been a venue with a pla
 u-si-ble col-li-sion (tra-di-tional/modern;
  []
 
 [118]
-Overfull \hbox (18.66127pt too wide) in paragraph at lines 2581--2582
+Overfull \hbox (18.66127pt too wide) in paragraph at lines 2612--2613
 \OT1/cmr/m/n/10.95 night life, cre-ative clus-ter and lim-ited cit-i-zen par-ti
 c-i-pa-tion gov-erned by non-governmental
  []
 
 
 Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
-119 undefined on input line 2591.
+119 undefined on input line 2622.
 
 
 Package natbib Warning: Citation `bureau savamala' on page 119 undefined on inp
-ut line 2601.
+ut line 2632.
 
 
 Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
-119 undefined on input line 2602.
+119 undefined on input line 2633.
 
 
 Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
-119 undefined on input line 2607.
+119 undefined on input line 2638.
 
 
 Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
-119 undefined on input line 2610.
+119 undefined on input line 2641.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `Roter Blagojevic in Doytchinov 2015' on page 
-119 undefined on input line 2611.
+119 undefined on input line 2642.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `Blagojevic 2009' on page 119 undefined on inp
-ut line 2612.
+ut line 2643.
 
 
 Package natbib Warning: Citation `Bureau Savamala' on page 119 undefined on inp
-ut line 2632.
+ut line 2663.
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 
-LaTeX Warning: Reference `Nusic' on page 119 undefined on input line 2636.
+LaTeX Warning: Reference `Nusic' on page 119 undefined on input line 2667.
 
 
 Package natbib Warning: Citation `ref and Kamenzind2' on page 119 undefined on 
-input line 2649.
+input line 2680.
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 
 Package natbib Warning: Citation `Zekovic et al.' on page 119 undefined on inpu
-t line 2675.
+t line 2706.
 
 
-Package natbib Warning: Citation `2016' on page 119 undefined on input line 267
-5.
+Package natbib Warning: Citation `2016' on page 119 undefined on input line 270
+6.
 
 [119] [120] [121] [122]
 
 Package natbib Warning: Citation `bureau savamala' on page 123 undefined on inp
-ut line 2682.
+ut line 2713.
 
 
 Package natbib Warning: Citation `(Grozdanic 2008)' on page 123 undefined on in
-put line 2686.
+put line 2717.
 
 [123]
 
 Package natbib Warning: Citation `(Nedovic-Budic' on page 124 undefined on inpu
-t line 2710.
+t line 2741.
 
 
 Package natbib Warning: Citation `2001)' on page 124 undefined on input line 27
-10.
+41.
 
 
-Package natbib Warning: Citation `Yin' on page 124 undefined on input line 2721
+Package natbib Warning: Citation `Yin' on page 124 undefined on input line 2752
 .
 
 
-Package natbib Warning: Citation `2009' on page 124 undefined on input line 272
-1.
+Package natbib Warning: Citation `2009' on page 124 undefined on input line 275
+2.
 
 
 Package natbib Warning: Citation `Vujosevic and Nedovic Budic 2006' on page 124
- undefined on input line 2738.
+ undefined on input line 2769.
 
 
 Package natbib Warning: Citation `Stojkov and Dobricic 2012' on page 124 undefi
-ned on input line 2739.
+ned on input line 2770.
 
 
 Package natbib Warning: Citation `Arbter 2001' on page 124 undefined on input l
-ine 2739.
+ine 2770.
 
 [124]
 
 Package natbib Warning: Citation `Stupar 2004' on page 125 undefined on input l
-ine 2752.
+ine 2783.
 
 
-Overfull \hbox (2.75221pt too wide) in paragraph at lines 2759--2760
+Overfull \hbox (2.75221pt too wide) in paragraph at lines 2790--2791
 []\OT1/cmr/m/n/10.95 ESPON 2020 (Eu-ro-pean Spa-tial Plan-ning Ob-ser-va-tory N
 et-work) is a pro-gramme
  []
@@ -2919,94 +2977,94 @@ et-work) is a pro-gramme
 [125]
 
 Package natbib Warning: Citation `Vujovic and Petrovic 2007' on page 126 undefi
-ned on input line 2795.
+ned on input line 2826.
 
 [126]
 
 Package natbib Warning: Citation `Zakon 2003' on page 127 undefined on input li
-ne 2805.
+ne 2836.
 
 
 Package natbib Warning: Citation `waves of planning 2006' on page 127 undefined
- on input line 2806.
+ on input line 2837.
 
 
-Package natbib Warning: Citation `ref' on page 127 undefined on input line 2808
+Package natbib Warning: Citation `ref' on page 127 undefined on input line 2839
 .
 
 
-Package natbib Warning: Citation `ref' on page 127 undefined on input line 2811
+Package natbib Warning: Citation `ref' on page 127 undefined on input line 2842
 .
 
 
 Package natbib Warning: Citation `Vujosevic and Nedovic Budic 2006' on page 127
- undefined on input line 2818.
+ undefined on input line 2849.
 
 
 Package natbib Warning: Citation `Vujovic and Petrovic 2007' on page 127 undefi
-ned on input line 2820.
+ned on input line 2851.
 
 [127]
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 128 undefined on input l
-ine 2841.
+ine 2872.
 
 
 Package natbib Warning: Citation `nedovic budic 2001' on page 128 undefined on 
-input line 2854.
+input line 2885.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-128 undefined on input line 2860.
+128 undefined on input line 2891.
 
 
 Package natbib Warning: Citation `(Hirt 2009)' on page 128 undefined on input l
-ine 2869.
+ine 2900.
 
 
 Package natbib Warning: Citation `Vujosevic and Nedovic Budic 2006' on page 128
- undefined on input line 2873.
+ undefined on input line 2904.
 
 
 Package natbib Warning: Citation `Vujosevic 2015 Regionalizam u Srbiji 2' on pa
-ge 128 undefined on input line 2876.
+ge 128 undefined on input line 2907.
 
 [128]
 
 Package natbib Warning: Citation `Stojkov and Dobricic 2012 02' on page 129 und
-efined on input line 2887.
+efined on input line 2918.
 
 [129]
 
 Package natbib Warning: Citation `ref Official Gazette of the City of Belgrade 
-no 27/03' on page 130 undefined on input line 2904.
+no 27/03' on page 130 undefined on input line 2935.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-130 undefined on input line 2909.
+130 undefined on input line 2940.
 
 
-Package natbib Warning: Citation `ref' on page 130 undefined on input line 2911
+Package natbib Warning: Citation `ref' on page 130 undefined on input line 2942
 .
 
 
 Package natbib Warning: Citation `Grozdanic' on page 130 undefined on input lin
-e 2913.
+e 2944.
 
 
-Package natbib Warning: Citation `ref' on page 130 undefined on input line 2914
+Package natbib Warning: Citation `ref' on page 130 undefined on input line 2945
 .
 
 
-Package natbib Warning: Citation `ref' on page 130 undefined on input line 2919
+Package natbib Warning: Citation `ref' on page 130 undefined on input line 2950
 .
 
 
 Package natbib Warning: Citation `Stupar 2004' on page 130 undefined on input l
-ine 2927.
+ine 2958.
 
 
-Overfull \hbox (16.62344pt too wide) in paragraph at lines 2929--2930
+Overfull \hbox (16.62344pt too wide) in paragraph at lines 2960--2961
 []\OT1/cmr/m/n/10.95 Brownfield, ur-ban and nat-u-ral her-itage re-gen-er-a-tio
 n and preser-va-tion (ex-industrial
  []
@@ -3014,98 +3072,98 @@ n and preser-va-tion (ex-industrial
 [130]
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 131 undefined on inpu
-t line 2951.
+t line 2982.
 
 
 Package natbib Warning: Citation `Stojkov and Dobricic 2012 02' on page 131 und
-efined on input line 2955.
+efined on input line 2986.
 
 
 Package natbib Warning: Citation `(Maksic 2012)' on page 131 undefined on input
- line 2971.
+ line 3002.
 
 [131]
 
 Package natbib Warning: Citation `Maksic 2012' on page 132 undefined on input l
-ine 2987.
+ine 3018.
 
 
 Package natbib Warning: Citation `adjustment of planning practice nedovic budic
- 2001' on page 132 undefined on input line 3002.
+ 2001' on page 132 undefined on input line 3033.
 
 
 Package natbib Warning: Citation `Vujosevic and Maricic 2012' on page 132 undef
-ined on input line 3002.
+ined on input line 3033.
 
 
 Package natbib Warning: Citation `Vujosevic and Maricic 2012' on page 132 undef
-ined on input line 3003.
+ined on input line 3034.
 
 [132]
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 133 undefined on inpu
-t line 3006.
+t line 3037.
 
 
 Package natbib Warning: Citation `(Harvey 2012)' on page 133 undefined on input
- line 3011.
+ line 3042.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `(Bolay et al. 2005)' on page 133 undefined on
- input line 3013.
+ input line 3044.
 
 
 Package natbib Warning: Citation `(Djokic et al. 2007)' on page 133 undefined o
-n input line 3013.
+n input line 3044.
 
 
 Package natbib Warning: Citation `(Ellin 1999)' on page 133 undefined on input 
-line 3016.
+line 3047.
 
 
 Package natbib Warning: Citation `(Vujosevic 2010)' on page 133 undefined on in
-put line 3019.
+put line 3050.
 
 
 Package natbib Warning: Citation `(Djokic et al. 2007)' on page 133 undefined o
-n input line 3020.
+n input line 3051.
 
 
 Package natbib Warning: Citation `(Vujovic and Petrovic 2007)' on page 133 unde
-fined on input line 3021.
+fined on input line 3052.
 
 
 Package natbib Warning: Citation `adjustment of planning practice nedovic budic
- 2001' on page 133 undefined on input line 3025.
+ 2001' on page 133 undefined on input line 3056.
 
 
 Package natbib Warning: Citation `Lazarevic Bajec 2009' on page 133 undefined o
-n input line 3027.
+n input line 3058.
 
 [133]
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-134 undefined on input line 3034.
+134 undefined on input line 3065.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-134 undefined on input line 3039.
+134 undefined on input line 3070.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-134 undefined on input line 3056.
+134 undefined on input line 3087.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-134 undefined on input line 3059.
+134 undefined on input line 3090.
 
 [134]
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-135 undefined on input line 3079.
+135 undefined on input line 3110.
 
 [135] [136]
 Missing character: There is no â in font cmr10!
@@ -3114,58 +3172,58 @@ Missing character: There is no ™ in font cmr10!
 
 
 Package natbib Warning: Citation `Peric 2016' on page 137 undefined on input li
-ne 3105.
+ne 3136.
 
 
 Package natbib Warning: Citation `Zaklina document' on page 137 undefined on in
-put line 3117.
+put line 3148.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-137 undefined on input line 3118.
+137 undefined on input line 3149.
 
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ² in font cmr10!
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-137 undefined on input line 3123.
+137 undefined on input line 3154.
 
 
 Package natbib Warning: Citation `Maruna 2015' on page 137 undefined on input l
-ine 3150.
+ine 3181.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 137 undefined on input li
-ne 3150.
+ne 3181.
 
 
 Package natbib Warning: Citation `Maruna 2015' on page 137 undefined on input l
-ine 3153.
+ine 3184.
 
 
 Package natbib Warning: Citation `Peric 2016' on page 137 undefined on input li
-ne 3153.
+ne 3184.
 
 
 Package natbib Warning: Citation `Vukmirovic in Doytchinov et al 2015' on page 
-137 undefined on input line 3155.
+137 undefined on input line 3186.
 
 [137] [138]
 
 Package natbib Warning: Citation `(Urban Incubator Belgrade 2013)' on page 139 
-undefined on input line 3179.
+undefined on input line 3210.
 
 [139] [140]
 
 Package natbib Warning: Citation `Cvetinovic et al 2013' on page 141 undefined 
-on input line 3221.
+on input line 3252.
 
 
 Package natbib Warning: Citation `Cvetinovic et al 2013' on page 141 undefined 
-on input line 3251.
+on input line 3282.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3251.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3282.
 
 [141]
 Missing character: There is no â in font cmr9!
@@ -3174,7 +3232,7 @@ Missing character: There is no ™ in font cmr9!
  [142]
 
 Package natbib Warning: Citation `("Bureau Savamala" 2013)' on page 143 undefin
-ed on input line 3271.
+ed on input line 3302.
 
 Missing character: There is no â in font cmr9!
 Missing character: There is no â in font cmr9!
@@ -3194,11 +3252,11 @@ Missing character: There is no  in font cmr9!
 [143]
 
 Package natbib Warning: Citation `(Kamenzind' on page 144 undefined on input li
-ne 3324.
+ne 3355.
 
 
 Package natbib Warning: Citation `Interview director Goethe institute 2013)' on
- page 144 undefined on input line 3324.
+ page 144 undefined on input line 3355.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -3210,31 +3268,31 @@ Missing character: There is no ¼ in font cmr10!
 [144] [145]
 
 Package natbib Warning: Citation `(Grozdanic)' on page 146 undefined on input l
-ine 3372.
+ine 3403.
 
 [146]
 Chapter 5.
 
 Package natbib Warning: Citation `Stojkov grad kultura politika' on page 147 un
-defined on input line 3381.
+defined on input line 3412.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3381--3389
+Underfull \hbox (badness 10000) in paragraph at lines 3412--3420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3390--3396
+Underfull \hbox (badness 10000) in paragraph at lines 3421--3427
 
  []
 
 
 Package natbib Warning: Citation `Latour' on page 147 undefined on input line 3
-398.
+429.
 
 
-Package natbib Warning: Citation `2005' on page 147 undefined on input line 339
-8.
+Package natbib Warning: Citation `2005' on page 147 undefined on input line 342
+9.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -3243,13 +3301,13 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Overfull \hbox (0.19414pt too wide) in paragraph at lines 3397--3406
+Overfull \hbox (0.19414pt too wide) in paragraph at lines 3428--3437
 []\OT1/cmr/m/n/10.95 In this re-search project, Actor-network the-ory (ANT) ser
 ves for in-ter-pret-ing the present
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3397--3406
+Underfull \hbox (badness 10000) in paragraph at lines 3428--3437
 
  []
 
@@ -3258,177 +3316,177 @@ Underfull \hbox (badness 10000) in paragraph at lines 3397--3406
 ]
 
 Package natbib Warning: Citation `FarÃ­as and Bender' on page 148 undefined on 
-input line 3418.
+input line 3449.
 
 
 Package natbib Warning: Citation `2011)' on page 148 undefined on input line 34
-18.
+49.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3418--3424
+Underfull \hbox (badness 10000) in paragraph at lines 3449--3455
 
  []
 
 [148]
-Underfull \hbox (badness 10000) in paragraph at lines 3437--3441
+Underfull \hbox (badness 10000) in paragraph at lines 3468--3472
 
  []
 
 
-Overfull \hbox (5.24754pt too wide) in paragraph at lines 3442--3444
+Overfull \hbox (5.24754pt too wide) in paragraph at lines 3473--3475
 \OT1/cmr/m/n/10.95 space) with ma-te-rial con-sti-tu-tional el-e-ments (built e
 n-vi-ron-ment - ur-ban struc-tures), wherein
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3442--3444
+Underfull \hbox (badness 10000) in paragraph at lines 3473--3475
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3445--3448
+Underfull \hbox (badness 10000) in paragraph at lines 3476--3479
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3449--3454
+Underfull \hbox (badness 10000) in paragraph at lines 3480--3485
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3455--3459
+Underfull \hbox (badness 10000) in paragraph at lines 3486--3490
 
  []
 
 [149]
-Underfull \hbox (badness 10000) in paragraph at lines 3477--3484
+Underfull \hbox (badness 10000) in paragraph at lines 3508--3515
 
  []
 
 
 Package natbib Warning: Citation `Official gazette RS 09/2014' on page 150 unde
-fined on input line 3489.
+fined on input line 3520.
 
 
 Package natbib Warning: Citation `Urbani razvoj u Srbiji Ministry of Space 2014
-' on page 150 undefined on input line 3490.
+' on page 150 undefined on input line 3521.
 
 [150]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 3513--3522
+Underfull \hbox (badness 10000) in paragraph at lines 3544--3553
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3523--3531
+Underfull \hbox (badness 10000) in paragraph at lines 3554--3562
 
  []
 
 [151]
 
 Package natbib Warning: Citation `Urbani razvoj u Srbiji Ministry of Space 2014
-' on page 152 undefined on input line 3534.
+' on page 152 undefined on input line 3565.
 
 
 Package natbib Warning: Citation `Urbani razvoj u Srbiji Ministry of Space 2014
-' on page 152 undefined on input line 3543.
+' on page 152 undefined on input line 3574.
 
 
 Package natbib Warning: Citation `Novi evropski regionalizam 2' on page 152 und
-efined on input line 3548.
+efined on input line 3579.
 
 [152]
 
 Package natbib Warning: Citation `Urbani razvoj u Srbiji Ministry of Space 2014
-' on page 153 undefined on input line 3578.
+' on page 153 undefined on input line 3609.
 
 
-Overfull \hbox (13.64255pt too wide) in paragraph at lines 3572--3581
+Overfull \hbox (13.64255pt too wide) in paragraph at lines 3603--3612
 \OT1/cmr/m/n/10.95 or-der pro-duc-ing: (1) low $[]$, (2) high $[]$, (3) high $[
 ]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3572--3581
+Underfull \hbox (badness 10000) in paragraph at lines 3603--3612
 
  []
 
 
 Package natbib Warning: Citation `Vujosevic 2004 Belgrade Metropolitan Area Gov
-ernance' on page 153 undefined on input line 3585.
+ernance' on page 153 undefined on input line 3616.
 
 
 Package natbib Warning: Citation `Urbani razvoj u Srbiji Ministry of Space 2014
-' on page 153 undefined on input line 3588.
+' on page 153 undefined on input line 3619.
 
 [153]
-Underfull \hbox (badness 10000) in paragraph at lines 3608--3610
+Underfull \hbox (badness 10000) in paragraph at lines 3639--3641
 
  []
 
 
-Overfull \hbox (61.45761pt too wide) in paragraph at lines 3611--3618
+Overfull \hbox (61.45761pt too wide) in paragraph at lines 3642--3649
 \OT1/cmr/m/n/10.95 ground where plan-ning very of-ten serves as a sup-port-ive 
 mech-a-nism for $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3611--3618
+Underfull \hbox (badness 10000) in paragraph at lines 3642--3649
 
  []
 
 
 Package natbib Warning: Citation `Urbani razvoj u Srbiji Ministry of Space 2014
-' on page 154 undefined on input line 3620.
+' on page 154 undefined on input line 3651.
 
 
 Package natbib Warning: Citation `cenzolovka tamara tekst' on page 154 undefine
-d on input line 3621.
+d on input line 3652.
 
 [154]
 
 Package natbib Warning: Citation `Program Savskkog amfiteatra 1' on page 155 un
-defined on input line 3634.
+defined on input line 3665.
 
 
 Package natbib Warning: Citation `Program Savskkog amfiteatra 1' on page 155 un
-defined on input line 3636.
+defined on input line 3667.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3650--3664
+Underfull \hbox (badness 10000) in paragraph at lines 3681--3695
 
  []
 
 [155]
 
 Package natbib Warning: Citation `Urbani razvoj u Srbiji Ministry of Space 2014
-' on page 156 undefined on input line 3669.
+' on page 156 undefined on input line 3700.
 
 
 Package natbib Warning: Citation `Cvetinovic and Veselinovic 2012' on page 156 
-undefined on input line 3675.
+undefined on input line 3706.
 
 
 Package natbib Warning: Citation `Urbani razvoj u Srbiji Ministry of Space 2014
-' on page 156 undefined on input line 3676.
+' on page 156 undefined on input line 3707.
 
 
 Package natbib Warning: Citation `(Cvetinovic et al. 2013)' on page 156 undefin
-ed on input line 3680.
+ed on input line 3711.
 
 
 Package natbib Warning: Citation `ref Monocle' on page 156 undefined on input l
-ine 3682.
+ine 3713.
 
 
 Package natbib Warning: Citation `Gardian?' on page 156 undefined on input line
- 3682.
+ 3713.
 
 [156]
-Underfull \hbox (badness 10000) in paragraph at lines 3697--3712
+Underfull \hbox (badness 10000) in paragraph at lines 3728--3743
 
  []
 
@@ -3441,7 +3499,7 @@ Missing character: There is no ™ in font cmr10!
 [157] [158]
 
 Package natbib Warning: Citation `add references from media sources archive' on
- page 159 undefined on input line 3784.
+ page 159 undefined on input line 3815.
 
 [159]
 Missing character: There is no Ã in font cmr10!
@@ -3449,94 +3507,94 @@ Missing character: There is no © in font cmr10!
 
 
 Package natbib Warning: Citation `Latour 2005' on page 160 undefined on input l
-ine 3808.
+ine 3839.
 
 
 Package natbib Warning: Citation `Latour 2005' on page 160 undefined on input l
-ine 3809.
+ine 3840.
 
 [160] [161] [162] [163] [164]
 
 Package natbib Warning: Citation `Zekovic and Maricic' on page 165 undefined on
- input line 3933.
+ input line 3964.
 
 
 Package natbib Warning: Citation `2017 land market' on page 165 undefined on in
-put line 3933.
+put line 3964.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3951--3954
+Underfull \hbox (badness 10000) in paragraph at lines 3982--3985
 
  []
 
 [165]
-Underfull \hbox (badness 10000) in paragraph at lines 3955--3960
+Underfull \hbox (badness 10000) in paragraph at lines 3986--3991
 
  []
 
 
 Package natbib Warning: Citation `Latour 2005' on page 166 undefined on input l
-ine 3961.
+ine 3992.
 
 [166]
-Underfull \hbox (badness 10000) in paragraph at lines 3990--3992
+Underfull \hbox (badness 10000) in paragraph at lines 4021--4023
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3993--3998
+Underfull \hbox (badness 10000) in paragraph at lines 4024--4029
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3999--4004
+Underfull \hbox (badness 10000) in paragraph at lines 4030--4035
 
  []
 
 [167]
-Underfull \hbox (badness 10000) in paragraph at lines 4005--4009
+Underfull \hbox (badness 10000) in paragraph at lines 4036--4040
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4010--4015
+Underfull \hbox (badness 10000) in paragraph at lines 4041--4046
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4022--4024
+Underfull \hbox (badness 10000) in paragraph at lines 4053--4055
 
  []
 
 
 Package natbib Warning: Citation `Mathur' on page 168 undefined on input line 4
-025.
+056.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4025--4035
+Underfull \hbox (badness 10000) in paragraph at lines 4056--4066
 
  []
 
 [168] [169]
-Underfull \hbox (badness 10000) in paragraph at lines 4067--4070
+Underfull \hbox (badness 10000) in paragraph at lines 4098--4101
 
  []
 
 [170]
 
 Package natbib Warning: Citation `Alternativni izvestaj' on page 171 undefined 
-on input line 4086.
+on input line 4117.
 
 
 Package natbib Warning: Citation `alternativni izvestaj' on page 171 undefined 
-on input line 4088.
+on input line 4119.
 
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 171 undefined on inpu
-t line 4091.
+t line 4122.
 
 [171]
-Underfull \hbox (badness 10000) in paragraph at lines 4119--4122
+Underfull \hbox (badness 10000) in paragraph at lines 4150--4153
 
  []
 
@@ -3547,168 +3605,146 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4143--4151
+Underfull \hbox (badness 10000) in paragraph at lines 4174--4182
 
  []
 
 
 Package natbib Warning: Citation `Vujovic and Petrovic' on page 173 undefined o
-n input line 4164.
+n input line 4195.
 
 
-Package natbib Warning: Citation `2007' on page 173 undefined on input line 416
-4.
+Package natbib Warning: Citation `2007' on page 173 undefined on input line 419
+5.
 
 
 Package natbib Warning: Citation `Vujosevic and Maricic' on page 173 undefined 
-on input line 4172.
+on input line 4203.
 
 
-Package natbib Warning: Citation `2012' on page 173 undefined on input line 417
-2.
-
-
-Package natbib Warning: Citation `Djordjevic and Dabovic' on page 173 undefined
- on input line 4173.
-
-
-Package natbib Warning: Citation `2009' on page 173 undefined on input line 417
+Package natbib Warning: Citation `2012' on page 173 undefined on input line 420
 3.
 
 
+Package natbib Warning: Citation `Djordjevic and Dabovic' on page 173 undefined
+ on input line 4204.
+
+
+Package natbib Warning: Citation `2009' on page 173 undefined on input line 420
+4.
+
+
 Package natbib Warning: Citation `Zekovic et al.' on page 173 undefined on inpu
-t line 4175.
+t line 4206.
 
 
-Package natbib Warning: Citation `2016' on page 173 undefined on input line 417
-5.
+Package natbib Warning: Citation `2016' on page 173 undefined on input line 420
+6.
 
 [173]
-Underfull \hbox (badness 10000) in paragraph at lines 4184--4187
+Underfull \hbox (badness 10000) in paragraph at lines 4215--4218
 
  []
 
 
 Package natbib Warning: Citation `Vujovic and Petrovic' on page 174 undefined o
-n input line 4191.
+n input line 4222.
 
 
-Package natbib Warning: Citation `2007' on page 174 undefined on input line 419
-1.
+Package natbib Warning: Citation `2007' on page 174 undefined on input line 422
+2.
 
 [174]
-Underfull \hbox (badness 10000) in paragraph at lines 4200--4205
+Underfull \hbox (badness 10000) in paragraph at lines 4231--4236
 
  []
 
 
 Package natbib Warning: Citation `Alternativni izvestaj' on page 175 undefined 
-on input line 4209.
+on input line 4240.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4212--4217
+Underfull \hbox (badness 10000) in paragraph at lines 4243--4248
 
  []
 
 [175]
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 176 undefined on inpu
-t line 4230.
+t line 4261.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4226--4232
+Underfull \hbox (badness 10000) in paragraph at lines 4257--4263
 
  []
 
 [176]
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 177 undefined on inpu
-t line 4249.
+t line 4280.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4246--4251
+Underfull \hbox (badness 10000) in paragraph at lines 4277--4282
 
  []
 
 
 Package natbib Warning: Citation `Samardzic in Doytchinov 2015' on page 177 und
-efined on input line 4258.
+efined on input line 4289.
 
 [177]
-Underfull \hbox (badness 10000) in paragraph at lines 4263--4266
+Underfull \hbox (badness 10000) in paragraph at lines 4294--4297
 
  []
 
 
 Package natbib Warning: Citation `Vujosevic 2012' on page 178 undefined on inpu
-t line 4269.
+t line 4300.
 
 
 Package natbib Warning: Citation `Urbani razvoj u Srbiji Ministry of Space 2014
-' on page 178 undefined on input line 4281.
+' on page 178 undefined on input line 4312.
 
 [178]
-Underfull \hbox (badness 10000) in paragraph at lines 4287--4291
+Underfull \hbox (badness 10000) in paragraph at lines 4318--4322
 
  []
 
 [179]
 
 Package natbib Warning: Citation `Table RS' on page 180 undefined on input line
- 4300.
+ 4331.
 
 
 Package natbib Warning: Citation `Latour 2005' on page 180 undefined on input l
-ine 4319.
+ine 4350.
 
 
 Package natbib Warning: Citation `Mathur et al. 2007' on page 180 undefined on 
-input line 4326.
+input line 4357.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4325--4328
+Underfull \hbox (badness 10000) in paragraph at lines 4356--4359
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4329--4333
+Underfull \hbox (badness 10000) in paragraph at lines 4360--4364
 
  []
 
 [180]
-Underfull \hbox (badness 10000) in paragraph at lines 4334--4337
+Underfull \hbox (badness 10000) in paragraph at lines 4365--4368
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4338--4345
+Underfull \hbox (badness 10000) in paragraph at lines 4369--4376
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4346--4350
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4351--4355
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4356--4360
-
- []
-
-[181]
-Underfull \hbox (badness 10000) in paragraph at lines 4361--4368
-
- []
-
-[182]
-Chapter 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4378--4381
+Underfull \hbox (badness 10000) in paragraph at lines 4377--4381
 
  []
 
@@ -3718,24 +3754,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 4382--4386
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4387--4390
+Underfull \hbox (badness 10000) in paragraph at lines 4387--4391
+
+ []
+
+[181]
+Underfull \hbox (badness 10000) in paragraph at lines 4392--4399
+
+ []
+
+[182]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4409--4412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4391--4396
+Underfull \hbox (badness 10000) in paragraph at lines 4413--4417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4418--4421
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4422--4427
 
  []
 
 [183
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4405--4412
+Underfull \hbox (badness 10000) in paragraph at lines 4436--4443
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4424--4428
+Underfull \hbox (badness 10000) in paragraph at lines 4455--4459
 
  []
 
@@ -3745,40 +3803,40 @@ Missing character: There is no ‡ in font cmr10!
 
 
 Package natbib Warning: Citation `healey_collaborative_1997' on page 185 undefi
-ned on input line 4433.
+ned on input line 4464.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4429--4435
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4436--4439
+Underfull \hbox (badness 10000) in paragraph at lines 4460--4466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4448--4463
+Underfull \hbox (badness 10000) in paragraph at lines 4467--4470
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4464--4470
+Underfull \hbox (badness 10000) in paragraph at lines 4479--4494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4471--4475
+Underfull \hbox (badness 10000) in paragraph at lines 4495--4501
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4502--4506
 
  []
 
 [185]
-Underfull \hbox (badness 10000) in paragraph at lines 4476--4479
+Underfull \hbox (badness 10000) in paragraph at lines 4507--4510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4480--4484
+Underfull \hbox (badness 10000) in paragraph at lines 4511--4515
 
  []
 
@@ -3786,22 +3844,22 @@ Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4485--4492
+Underfull \hbox (badness 10000) in paragraph at lines 4516--4523
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4493--4495
+Underfull \hbox (badness 10000) in paragraph at lines 4524--4526
 
  []
 
 [186]
-Underfull \hbox (badness 10000) in paragraph at lines 4496--4500
+Underfull \hbox (badness 10000) in paragraph at lines 4527--4531
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4501--4504
+Underfull \hbox (badness 10000) in paragraph at lines 4532--4535
 
  []
 
@@ -3809,22 +3867,22 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4520--4528
+Underfull \hbox (badness 10000) in paragraph at lines 4551--4559
 
  []
 
 [187]
-Underfull \hbox (badness 10000) in paragraph at lines 4529--4536
+Underfull \hbox (badness 10000) in paragraph at lines 4560--4567
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4545--4548
+Underfull \hbox (badness 10000) in paragraph at lines 4576--4579
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4549--4555
+Underfull \hbox (badness 10000) in paragraph at lines 4580--4586
 
  []
 
@@ -3838,24 +3896,24 @@ Missing character: There is no ¡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4556--4565
+Underfull \hbox (badness 10000) in paragraph at lines 4587--4596
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4567--4571
+Underfull \hbox (badness 10000) in paragraph at lines 4598--4602
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4572--4576
+Underfull \hbox (badness 10000) in paragraph at lines 4603--4607
 
  []
 
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4577--4584
+Underfull \hbox (badness 10000) in paragraph at lines 4608--4615
 
  []
 
@@ -3863,31 +3921,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 4577--4584
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4585--4593
+Underfull \hbox (badness 10000) in paragraph at lines 4616--4624
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4594--4596
+Underfull \hbox (badness 10000) in paragraph at lines 4625--4627
 
  []
 
 
 Package natbib Warning: Citation `B92 2015' on page 190 undefined on input line
- 4609.
+ 4640.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4597--4611
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4612--4620
+Underfull \hbox (badness 10000) in paragraph at lines 4628--4642
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4621--4629
+Underfull \hbox (badness 10000) in paragraph at lines 4643--4651
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4652--4660
 
  []
 
@@ -3895,63 +3953,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 4621--4629
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no © in font cmr9!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4630--4640
+Underfull \hbox (badness 10000) in paragraph at lines 4661--4671
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4641--4648
+Underfull \hbox (badness 10000) in paragraph at lines 4672--4679
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4649--4654
+Underfull \hbox (badness 10000) in paragraph at lines 4680--4685
 
  []
 
 
 Package natbib Warning: Citation `NeDa(vi)moBeograd' on page 191 undefined on i
-nput line 4655.
+nput line 4686.
 
 
 Package natbib Warning: Citation `SlobodnaEvropa2014' on page 191 undefined on 
-input line 4658.
+input line 4689.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4655--4661
+Underfull \hbox (badness 10000) in paragraph at lines 4686--4692
 
  []
 
 [191]
 
 Package natbib Warning: Citation `media?' on page 192 undefined on input line 4
-665.
+696.
 
 
 Package natbib Warning: Citation `media?' on page 192 undefined on input line 4
-665.
+696.
 
 
 Package natbib Warning: Citation `media?' on page 192 undefined on input line 4
-665.
+696.
 
 
 Package natbib Warning: Citation `TheSpectacleBlog2014' on page 192 undefined o
-n input line 4665.
+n input line 4696.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4662--4667
+Underfull \hbox (badness 10000) in paragraph at lines 4693--4698
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4668--4672
+Underfull \hbox (badness 10000) in paragraph at lines 4699--4703
 
  []
 
 
 Package natbib Warning: Citation `BalkanInsight2016' on page 192 undefined on i
-nput line 4673.
+nput line 4704.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -3962,37 +4020,12 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4673--4679
+Underfull \hbox (badness 10000) in paragraph at lines 4704--4710
 
  []
 
 [192]
-Underfull \hbox (badness 10000) in paragraph at lines 4697--4699
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4700--4706
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4716--4718
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4719--4722
-
- []
-
-[193]
-
-Package natbib Warning: Citation `ref Vujosevic' on page 194 undefined on input
- line 4723.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4723--4730
+Underfull \hbox (badness 10000) in paragraph at lines 4728--4730
 
  []
 
@@ -4002,245 +4035,270 @@ Underfull \hbox (badness 10000) in paragraph at lines 4731--4737
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 4747--4749
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4750--4753
+
+ []
+
+[193]
+
+Package natbib Warning: Citation `ref Vujosevic' on page 194 undefined on input
+ line 4754.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4754--4761
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4762--4768
+
+ []
+
+
 Package natbib Warning: Citation `(check ref web The Game of Savamala and XXXX'
- on page 194 undefined on input line 4740.
+ on page 194 undefined on input line 4771.
 
 
 Package natbib Warning: Citation `Mikser Festival 2014)' on page 194 undefined 
-on input line 4740.
+on input line 4771.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4738--4745
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4746--4750
+Underfull \hbox (badness 10000) in paragraph at lines 4769--4776
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4751--4764
+Underfull \hbox (badness 10000) in paragraph at lines 4777--4781
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4782--4795
 
  []
 
 [194]
 
 Package natbib Warning: Citation `ref media' on page 195 undefined on input lin
-e 4765.
+e 4796.
 
 
 Package natbib Warning: Citation `BWPSPSP' on page 195 undefined on input line 
-4767.
+4798.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4765--4770
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4771--4775
+Underfull \hbox (badness 10000) in paragraph at lines 4796--4801
 
  []
 
 
-Package natbib Warning: Citation `media' on page 195 undefined on input line 47
-77.
+Underfull \hbox (badness 10000) in paragraph at lines 4802--4806
+
+ []
 
 
-Package natbib Warning: Citation `media' on page 195 undefined on input line 47
-78.
+Package natbib Warning: Citation `media' on page 195 undefined on input line 48
+08.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4776--4780
+Package natbib Warning: Citation `media' on page 195 undefined on input line 48
+09.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4807--4811
 
  []
 
 
 Package natbib Warning: Citation `MinistarstvoProstora2014' on page 195 undefin
-ed on input line 4782.
+ed on input line 4813.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4786--4791
+Underfull \hbox (badness 10000) in paragraph at lines 4817--4822
 
  []
 
 [195]
-Underfull \hbox (badness 10000) in paragraph at lines 4792--4800
+Underfull \hbox (badness 10000) in paragraph at lines 4823--4831
 
  []
 
 
 Package natbib Warning: Citation `GPXXX' on page 196 undefined on input line 48
-02.
+33.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4801--4805
+Underfull \hbox (badness 10000) in paragraph at lines 4832--4836
 
  []
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no § in font cmr10!
 
-Overfull \hbox (9.4713pt too wide) in paragraph at lines 4806--4812
+Overfull \hbox (9.4713pt too wide) in paragraph at lines 4837--4843
 []\OT1/cmr/m/n/10.95 The 3D rep-re-sen-ta-tion of the Sava-mala neigh-bour-hood
  in-cor-po-rated soft data ([][]Cvetinovic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4806--4812
+Underfull \hbox (badness 10000) in paragraph at lines 4837--4843
 
  []
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4813--4820
+Underfull \hbox (badness 10000) in paragraph at lines 4844--4851
 
  []
 
 
 Package natbib Warning: Citation `media' on page 196 undefined on input line 48
-21.
+52.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4821--4825
+Underfull \hbox (badness 10000) in paragraph at lines 4852--4856
 
  []
 
 [196]
 
 Package natbib Warning: Citation `Nemanja Petrovic project' on page 197 undefin
-ed on input line 4828.
+ed on input line 4859.
 
 
 Package natbib Warning: Citation `ref studies' on page 197 undefined on input l
-ine 4830.
+ine 4861.
 
 
 Package natbib Warning: Citation `UZ Integrated Development plan' on page 197 u
-ndefined on input line 4832.
+ndefined on input line 4863.
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¼ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4826--4838
+Underfull \hbox (badness 10000) in paragraph at lines 4857--4869
 
  []
 
 
 Package natbib Warning: Citation `WOrldBank2015' on page 197 undefined on input
- line 4843.
+ line 4874.
 
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4839--4847
+Underfull \hbox (badness 10000) in paragraph at lines 4870--4878
 
  []
 
 
 Package natbib Warning: Citation `WorldBank2013' on page 197 undefined on input
- line 4851.
+ line 4882.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4848--4853
+Underfull \hbox (badness 10000) in paragraph at lines 4879--4884
 
  []
 
 [197]
-Underfull \hbox (badness 10000) in paragraph at lines 4854--4862
+Underfull \hbox (badness 10000) in paragraph at lines 4885--4893
 
  []
 
 
 Package natbib Warning: Citation `media' on page 198 undefined on input line 48
-66.
+97.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4863--4870
+Underfull \hbox (badness 10000) in paragraph at lines 4894--4901
 
  []
 
 
-Package natbib Warning: Citation `media' on page 198 undefined on input line 48
-72.
+Package natbib Warning: Citation `media' on page 198 undefined on input line 49
+03.
 
 
 Package natbib Warning: Citation `JVA2015' on page 198 undefined on input line 
-4874.
+4905.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4871--4877
+Underfull \hbox (badness 10000) in paragraph at lines 4902--4908
 
  []
 
 [198]
-Underfull \hbox (badness 10000) in paragraph at lines 4878--4889
+Underfull \hbox (badness 10000) in paragraph at lines 4909--4920
 
  []
 
 
-Package natbib Warning: Citation `media' on page 199 undefined on input line 48
-97.
+Package natbib Warning: Citation `media' on page 199 undefined on input line 49
+28.
 
 
-Package natbib Warning: Citation `fb' on page 199 undefined on input line 4897.
+Package natbib Warning: Citation `fb' on page 199 undefined on input line 4928.
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4890--4899
+Underfull \hbox (badness 10000) in paragraph at lines 4921--4930
 
  []
 
 
 Package natbib Warning: Citation `projects' on page 199 undefined on input line
- 4904.
+ 4935.
 
 
 Package natbib Warning: Citation `projects' on page 199 undefined on input line
- 4906.
+ 4937.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4900--4908
+Underfull \hbox (badness 10000) in paragraph at lines 4931--4939
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4909--4911
+Underfull \hbox (badness 10000) in paragraph at lines 4940--4942
 
  []
 
 [199]
 
 Package natbib Warning: Citation `ref doks' on page 200 undefined on input line
- 4912.
+ 4943.
 
 
 Package natbib Warning: Citation `imena and ref' on page 200 undefined on input
- line 4912.
+ line 4943.
 
 
 Package natbib Warning: Citation `ref Gardian' on page 200 undefined on input l
-ine 4912.
+ine 4943.
 
 
-Package natbib Warning: Citation `ref' on page 200 undefined on input line 4912
+Package natbib Warning: Citation `ref' on page 200 undefined on input line 4943
 .
 
 
-Package natbib Warning: Citation `ref' on page 200 undefined on input line 4914
+Package natbib Warning: Citation `ref' on page 200 undefined on input line 4945
 .
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4912--4916
+Underfull \hbox (badness 10000) in paragraph at lines 4943--4947
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4917--4933
+Underfull \hbox (badness 10000) in paragraph at lines 4948--4964
 
  []
 
@@ -4248,7 +4306,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4917--4933
 Missing character: There is no Ã in font cmbx10!
 Missing character: There is no § in font cmbx10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4956--4962
+Underfull \hbox (badness 10000) in paragraph at lines 4987--4993
 
  []
 
@@ -4258,10 +4316,10 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 
 Package natbib Warning: Citation `vujosevic_postsocijalisticka_2010)' on page 2
-01 undefined on input line 4963.
+01 undefined on input line 4994.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4963--4972
+Underfull \hbox (badness 10000) in paragraph at lines 4994--5003
 
  []
 
@@ -4270,88 +4328,88 @@ Missing character: There is no ‡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4973--4979
+Underfull \hbox (badness 10000) in paragraph at lines 5004--5010
 
  []
 
 
 Package natbib Warning: Citation `CvetinovicEtAl2016b' on page 201 undefined on
- input line 4980.
+ input line 5011.
 
 
 Package natbib Warning: Citation `peric_evolution_2016' on page 201 undefined o
-n input line 4982.
+n input line 5013.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4980--4985
+Underfull \hbox (badness 10000) in paragraph at lines 5011--5016
 
  []
 
 [201]
-Overfull \hbox (7.16086pt too wide) in paragraph at lines 4986--4989
+Overfull \hbox (7.16086pt too wide) in paragraph at lines 5017--5020
 []\OT1/cmr/m/n/10.95 Based on the pre-vi-ous anal-y-ses \OMS/cmsy/m/n/10.95 f\O
 T1/cmr/m/n/10.95 historical/contextual ([][]Chap-ter 4[][]), actor-network ([][
 ]Chap-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4986--4989
+Underfull \hbox (badness 10000) in paragraph at lines 5017--5020
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4990--5003
+Underfull \hbox (badness 10000) in paragraph at lines 5021--5034
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5004--5021
+Underfull \hbox (badness 10000) in paragraph at lines 5035--5052
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5022--5026
+Underfull \hbox (badness 10000) in paragraph at lines 5053--5057
 
  []
 
 [202]
 
-Package hyperref Warning: Suppressing link with empty target on input line 5084
+Package hyperref Warning: Suppressing link with empty target on input line 5115
 .
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 5084
+Package hyperref Warning: Suppressing link with empty target on input line 5115
 .
 
 [203]
 
-Package hyperref Warning: Suppressing link with empty target on input line 5089
+Package hyperref Warning: Suppressing link with empty target on input line 5120
 .
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5089--5091
+Underfull \hbox (badness 10000) in paragraph at lines 5120--5122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5092--5097
+Underfull \hbox (badness 10000) in paragraph at lines 5123--5128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5098--5103
+Underfull \hbox (badness 10000) in paragraph at lines 5129--5134
 
  []
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5104--5110
+Underfull \hbox (badness 10000) in paragraph at lines 5135--5141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5111--5118
+Underfull \hbox (badness 10000) in paragraph at lines 5142--5149
 
  []
 
@@ -4359,60 +4417,60 @@ Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 
 Package natbib Warning: Citation `NDVBGD website' on page 204 undefined on inpu
-t line 5123.
+t line 5154.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5119--5125
+Underfull \hbox (badness 10000) in paragraph at lines 5150--5156
 
  []
 
 [204]
 
 Package natbib Warning: Citation `Landry2012' on page 205 undefined on input li
-ne 5126.
+ne 5157.
 
 
 Package natbib Warning: Citation `Architecture-Goethe institute website' on pag
-e 205 undefined on input line 5127.
+e 205 undefined on input line 5158.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5126--5130
+Underfull \hbox (badness 10000) in paragraph at lines 5157--5161
 
  []
 
 
 Package natbib Warning: Citation `British council' on page 205 undefined on inp
-ut line 5131.
+ut line 5162.
 
 
 Package natbib Warning: Citation `Urban places public spaces' on page 205 undef
-ined on input line 5132.
+ined on input line 5163.
 
 
-Package natbib Warning: Citation `ref' on page 205 undefined on input line 5134
+Package natbib Warning: Citation `ref' on page 205 undefined on input line 5165
 .
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5131--5136
+Underfull \hbox (badness 10000) in paragraph at lines 5162--5167
 
  []
 
 
 Package natbib Warning: Citation `British council' on page 205 undefined on inp
-ut line 5138.
+ut line 5169.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5137--5140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5141--5143
+Underfull \hbox (badness 10000) in paragraph at lines 5168--5171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5144--5151
+Underfull \hbox (badness 10000) in paragraph at lines 5172--5174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5175--5182
 
  []
 
@@ -4422,44 +4480,44 @@ Missing character: There is no ‡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5159--5163
+Underfull \hbox (badness 10000) in paragraph at lines 5190--5194
 
  []
 
 
-Package natbib Warning: Citation `PCA' on page 206 undefined on input line 5164
+Package natbib Warning: Citation `PCA' on page 206 undefined on input line 5195
 .
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5164--5171
+Underfull \hbox (badness 10000) in paragraph at lines 5195--5202
 
  []
 
 
 Package natbib Warning: Citation `VujovicAndPetrovic2007' on page 206 undefined
- on input line 5172.
+ on input line 5203.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5172--5177
+Underfull \hbox (badness 10000) in paragraph at lines 5203--5208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5178--5182
+Underfull \hbox (badness 10000) in paragraph at lines 5209--5213
 
  []
 
 [206]
 
-Package natbib Warning: Citation `PCA' on page 207 undefined on input line 5183
+Package natbib Warning: Citation `PCA' on page 207 undefined on input line 5214
 .
 
 
 Package natbib Warning: Citation `ref media all different' on page 207 undefine
-d on input line 5186.
+d on input line 5217.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5183--5189
+Underfull \hbox (badness 10000) in paragraph at lines 5214--5220
 
  []
 
@@ -4469,11 +4527,11 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 
 Package natbib Warning: Citation `SKGO2013' on page 207 undefined on input line
- 5193.
+ 5224.
 
 
 Package natbib Warning: Citation `Zekovic all ref' on page 207 undefined on inp
-ut line 5193.
+ut line 5224.
 
 Missing character: There is no â in font cmbx10!
 Missing character: There is no € in font cmbx10!
@@ -4483,125 +4541,125 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no ™ in font cmbx10!
 
 Package natbib Warning: Citation `ref media' on page 207 undefined on input lin
-e 5205.
+e 5236.
 
 
 Package natbib Warning: Citation `ref slavka smederevo' on page 207 undefined o
-n input line 5206.
+n input line 5237.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5201--5208
+Underfull \hbox (badness 10000) in paragraph at lines 5232--5239
 
  []
 
 
 Package natbib Warning: Citation `harvey_rebel_2012' on page 207 undefined on i
-nput line 5209.
+nput line 5240.
 
 
 Package natbib Warning: Citation `Hoyle 2000' on page 207 undefined on input li
-ne 5210.
+ne 5241.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5209--5212
+Underfull \hbox (badness 10000) in paragraph at lines 5240--5243
 
  []
 
 [207]
 
 Package natbib Warning: Citation `Flyvbjerg2005' on page 208 undefined on input
- line 5214.
+ line 5245.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5213--5217
+Underfull \hbox (badness 10000) in paragraph at lines 5244--5248
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5218--5229
+Underfull \hbox (badness 10000) in paragraph at lines 5249--5260
 
  []
 
 
 Package natbib Warning: Citation `JVA BWP' on page 208 undefined on input line 
-5232.
+5263.
 
 
-Package natbib Warning: Citation `2015' on page 208 undefined on input line 523
-2.
+Package natbib Warning: Citation `2015' on page 208 undefined on input line 526
+3.
 
 
 Package natbib Warning: Citation `AnalizaUgovoraNDVBGD2016' on page 208 undefin
-ed on input line 5235.
+ed on input line 5266.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5230--5252
+Underfull \hbox (badness 10000) in paragraph at lines 5261--5283
 
  []
 
 
 Package natbib Warning: Citation `Kennedy et al.' on page 208 undefined on inpu
-t line 5253.
+t line 5284.
 
 
-Package natbib Warning: Citation `2014' on page 208 undefined on input line 525
-3.
+Package natbib Warning: Citation `2014' on page 208 undefined on input line 528
+4.
 
 
 Package natbib Warning: Citation `Flyvbjerg2009' on page 208 undefined on input
- line 5255.
+ line 5286.
 
 
 Package natbib Warning: Citation `Flyvbjerg et al. 2003' on page 208 undefined 
-on input line 5255.
+on input line 5286.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5253--5263
+Underfull \hbox (badness 10000) in paragraph at lines 5284--5294
 
  []
 
 [208]
-Underfull \hbox (badness 10000) in paragraph at lines 5273--5278
+Underfull \hbox (badness 10000) in paragraph at lines 5304--5309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5279--5285
+Underfull \hbox (badness 10000) in paragraph at lines 5310--5316
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5286--5292
+Underfull \hbox (badness 10000) in paragraph at lines 5317--5323
 
  []
 
 [209]
-Underfull \hbox (badness 10000) in paragraph at lines 5293--5296
+Underfull \hbox (badness 10000) in paragraph at lines 5324--5327
 
  []
 
 [210]
 Chapter 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 5306--5309
+Underfull \hbox (badness 10000) in paragraph at lines 5337--5340
 
  []
 
 
 Package natbib Warning: Citation `UNHabitat2012' on page 211 undefined on input
- line 5310.
+ line 5341.
 
 
 Package natbib Warning: Citation `BolayAndKern2011' on page 211 undefined on in
-put line 5312.
+put line 5343.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5310--5314
+Underfull \hbox (badness 10000) in paragraph at lines 5341--5345
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5315--5317
+Underfull \hbox (badness 10000) in paragraph at lines 5346--5348
 
  []
 
@@ -4610,49 +4668,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 5315--5317
 ]
 
 Package natbib Warning: Citation `Stojkov2012' on page 212 undefined on input l
-ine 5327.
+ine 5358.
 
 
 Package natbib Warning: Citation `Braudel1970' on page 212 undefined on input l
-ine 5330.
+ine 5361.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5327--5332
+Underfull \hbox (badness 10000) in paragraph at lines 5358--5363
 
  []
 
 
 Package natbib Warning: Citation `NedovicBudicAndCavric2006' on page 212 undefi
-ned on input line 5338.
+ned on input line 5369.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5333--5341
+Underfull \hbox (badness 10000) in paragraph at lines 5364--5372
 
  []
 
 
 Package natbib Warning: Citation `Doytchinov2015' on page 212 undefined on inpu
-t line 5343.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5342--5347
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5348--5350
-
- []
-
-[212]
-Underfull \hbox (badness 10000) in paragraph at lines 5351--5355
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5356--5368
-
- []
+t line 5374.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5373--5378
@@ -4660,111 +4698,131 @@ Underfull \hbox (badness 10000) in paragraph at lines 5373--5378
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5379--5386
+Underfull \hbox (badness 10000) in paragraph at lines 5379--5381
+
+ []
+
+[212]
+Underfull \hbox (badness 10000) in paragraph at lines 5382--5386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5387--5399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5404--5409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5410--5417
 
  []
 
 [213]
 
 Package natbib Warning: Citation `CvetinovicEtAl.2016b' on page 214 undefined o
-n input line 5394.
+n input line 5425.
 
 
 Package natbib Warning: Citation `CvetinovicEtAl.2016a' on page 214 undefined o
-n input line 5394.
+n input line 5425.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5404--5410
+Underfull \hbox (badness 10000) in paragraph at lines 5435--5441
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5411--5413
+Underfull \hbox (badness 10000) in paragraph at lines 5442--5444
 
  []
 
 [214]
-Underfull \hbox (badness 10000) in paragraph at lines 5414--5424
+Underfull \hbox (badness 10000) in paragraph at lines 5445--5455
 
  []
 
 
 Package natbib Warning: Citation `ref(NDVBG docs)' on page 215 undefined on inp
-ut line 5426.
+ut line 5457.
 
 
-Overfull \hbox (2.7809pt too wide) in paragraph at lines 5425--5429
+Overfull \hbox (2.7809pt too wide) in paragraph at lines 5456--5460
 []\OT1/cmr/m/n/10.95 The dual po-si-tion of the Min-istry of Con-struc-tion, Ur
 -ban-ism and In-fras-truc-ture (MCTI)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5425--5429
+Underfull \hbox (badness 10000) in paragraph at lines 5456--5460
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5430--5433
+Underfull \hbox (badness 10000) in paragraph at lines 5461--5464
 
  []
 
 
 Package natbib Warning: Citation `Malenovic2016' on page 215 undefined on input
- line 5434.
+ line 5465.
 
 
 Package natbib Warning: Citation `Danas2015' on page 215 undefined on input lin
-e 5437.
+e 5468.
 
 
 Package natbib Warning: Citation `Politika2015' on page 215 undefined on input 
-line 5439.
+line 5470.
 
 
 Package natbib Warning: Citation `Lazovic2015' on page 215 undefined on input l
-ine 5441.
+ine 5472.
 
 
 Package natbib Warning: Citation `BukvicAndMilosevic2015' on page 215 undefined
- on input line 5441.
+ on input line 5472.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5434--5448
+Underfull \hbox (badness 10000) in paragraph at lines 5465--5479
 
  []
 
 [215]
 
 Package natbib Warning: Citation `SKGO2013' on page 216 undefined on input line
- 5450.
+ 5481.
 
 
 Package natbib Warning: Citation `Politika2015' on page 216 undefined on input 
-line 5453.
+line 5484.
 
 
 Package natbib Warning: Citation `ref media' on page 216 undefined on input lin
-e 5459.
+e 5490.
 
 
 Package natbib Warning: Citation `ref media' on page 216 undefined on input lin
-e 5460.
+e 5491.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5449--5462
+Underfull \hbox (badness 10000) in paragraph at lines 5480--5493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5463--5466
+Underfull \hbox (badness 10000) in paragraph at lines 5494--5497
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5467--5473
+Underfull \hbox (badness 10000) in paragraph at lines 5498--5504
 
  []
 
@@ -4773,22 +4831,22 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5474--5479
+Underfull \hbox (badness 10000) in paragraph at lines 5505--5510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5480--5485
+Underfull \hbox (badness 10000) in paragraph at lines 5511--5516
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5486--5492
+Underfull \hbox (badness 10000) in paragraph at lines 5517--5523
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5493--5497
+Underfull \hbox (badness 10000) in paragraph at lines 5524--5528
 
  []
 
@@ -4797,34 +4855,34 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5502--5506
+Underfull \hbox (badness 10000) in paragraph at lines 5533--5537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5507--5517
+Underfull \hbox (badness 10000) in paragraph at lines 5538--5548
 
  []
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no § in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5518--5521
+Underfull \hbox (badness 10000) in paragraph at lines 5549--5552
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5522--5535
+Underfull \hbox (badness 10000) in paragraph at lines 5553--5566
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5536--5545
+Underfull \hbox (badness 10000) in paragraph at lines 5567--5576
 
  []
 
 [218]
-Underfull \hbox (badness 10000) in paragraph at lines 5546--5556
+Underfull \hbox (badness 10000) in paragraph at lines 5577--5587
 
  []
 
@@ -4832,254 +4890,254 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5557--5560
+Underfull \hbox (badness 10000) in paragraph at lines 5588--5591
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5561--5565
+Underfull \hbox (badness 10000) in paragraph at lines 5592--5596
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5566--5572
+Underfull \hbox (badness 10000) in paragraph at lines 5597--5603
 
  []
 
 [219]
-Underfull \hbox (badness 10000) in paragraph at lines 5573--5579
+Underfull \hbox (badness 10000) in paragraph at lines 5604--5610
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5580--5586
+Underfull \hbox (badness 10000) in paragraph at lines 5611--5617
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5587--5593
+Underfull \hbox (badness 10000) in paragraph at lines 5618--5624
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5598--5601
+Underfull \hbox (badness 10000) in paragraph at lines 5629--5632
 
  []
 
 [220]
-Overfull \hbox (2.93288pt too wide) in paragraph at lines 5602--5605
+Overfull \hbox (2.93288pt too wide) in paragraph at lines 5633--5636
 []\OT1/cmr/m/n/10.95 In Sava-mala, a dy-namic, in-ter-ac-tive ur-ban as-sem-bla
 ges are ar-tic-u-lated through decision-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5602--5605
+Underfull \hbox (badness 10000) in paragraph at lines 5633--5636
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5606--5611
+Underfull \hbox (badness 10000) in paragraph at lines 5637--5642
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5613--5617
+Underfull \hbox (badness 10000) in paragraph at lines 5644--5648
 
  []
 
 
 Package natbib Warning: Citation `VukmirovicEtAl2013' on page 221 undefined on 
-input line 5619.
+input line 5650.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5618--5622
+Underfull \hbox (badness 10000) in paragraph at lines 5649--5653
 
  []
 
 
 Package natbib Warning: Citation `KruscheAndKlaus2015' on page 221 undefined on
- input line 5625.
+ input line 5656.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5623--5629
+Underfull \hbox (badness 10000) in paragraph at lines 5654--5660
 
  []
 
 
 Package natbib Warning: Citation `NedovicBudicEtAl.2011' on page 221 undefined 
-on input line 5632.
+on input line 5663.
 
 
 Package natbib Warning: Citation `(VujosevicEtAl.2010' on page 221 undefined on
- input line 5634.
+ input line 5665.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5630--5639
+Underfull \hbox (badness 10000) in paragraph at lines 5661--5670
 
  []
 
 [221]
-Underfull \hbox (badness 10000) in paragraph at lines 5640--5644
+Underfull \hbox (badness 10000) in paragraph at lines 5671--5675
 
  []
 
 
 Package natbib Warning: Citation `Daniels 2012???' on page 222 undefined on inp
-ut line 5645.
+ut line 5676.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5645--5654
+Underfull \hbox (badness 10000) in paragraph at lines 5676--5685
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5655--5660
+Underfull \hbox (badness 10000) in paragraph at lines 5686--5691
 
  []
 
 
 Package natbib Warning: Citation `ref media' on page 222 undefined on input lin
-e 5665.
+e 5696.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5661--5667
+Underfull \hbox (badness 10000) in paragraph at lines 5692--5698
 
  []
 
 [222]
-Underfull \hbox (badness 10000) in paragraph at lines 5668--5674
+Underfull \hbox (badness 10000) in paragraph at lines 5699--5705
 
  []
 
 
 Package natbib Warning: Citation `ref media' on page 223 undefined on input lin
-e 5675.
+e 5706.
 
 
 Package natbib Warning: Citation `ref media and documents NDVBGD' on page 223 u
-ndefined on input line 5676.
+ndefined on input line 5707.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5675--5679
+Underfull \hbox (badness 10000) in paragraph at lines 5706--5710
 
  []
 
 
 Package natbib Warning: Citation `Stojanovic2017' on page 223 undefined on inpu
-t line 5681.
+t line 5712.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5680--5686
+Underfull \hbox (badness 10000) in paragraph at lines 5711--5717
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5687--5695
+Underfull \hbox (badness 10000) in paragraph at lines 5718--5726
 
  []
 
 [223]
-Underfull \hbox (badness 10000) in paragraph at lines 5696--5700
+Underfull \hbox (badness 10000) in paragraph at lines 5727--5731
 
  []
 
 
-Overfull \hbox (0.92542pt too wide) in paragraph at lines 5701--5707
+Overfull \hbox (0.92542pt too wide) in paragraph at lines 5732--5738
 []\OT1/cmr/m/n/10.95 Browsing through dif-fer-ent net-works, the dis-tor-tion o
 f post-socialist in-sti-tu-tional frame-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5701--5707
+Underfull \hbox (badness 10000) in paragraph at lines 5732--5738
 
  []
 
 
 Package natbib Warning: Citation `NDVBGD analiza ugovora dokument????' on page 
-224 undefined on input line 5709.
+224 undefined on input line 5740.
 
 
 Package natbib Warning: Citation `JVA2015' on page 224 undefined on input line 
-5710.
+5741.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5708--5712
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5713--5719
+Underfull \hbox (badness 10000) in paragraph at lines 5739--5743
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5720--5725
+Underfull \hbox (badness 10000) in paragraph at lines 5744--5750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5751--5756
 
  []
 
 [224]
 
 Package natbib Warning: Citation `CvetinovicEtAl.2013' on page 225 undefined on
- input line 5739.
+ input line 5770.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5737--5741
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5742--5750
+Underfull \hbox (badness 10000) in paragraph at lines 5768--5772
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5755--5757
+Underfull \hbox (badness 10000) in paragraph at lines 5773--5781
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5786--5788
 
  []
 
 [225]
-Underfull \hbox (badness 10000) in paragraph at lines 5758--5762
+Underfull \hbox (badness 10000) in paragraph at lines 5789--5793
 
  []
 
 
 Package natbib Warning: Citation `(MÃ¼ller-WieferigAndHerzen2013' on page 226 u
-ndefined on input line 5771.
+ndefined on input line 5802.
 
 
 Package natbib Warning: Citation `MiticAndMiladinovic2016' on page 226 undefine
-d on input line 5773.
+d on input line 5804.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5763--5777
+Underfull \hbox (badness 10000) in paragraph at lines 5794--5808
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5778--5784
+Underfull \hbox (badness 10000) in paragraph at lines 5809--5815
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5785--5789
+Underfull \hbox (badness 10000) in paragraph at lines 5816--5820
 
  []
 
 [226]
-Underfull \hbox (badness 10000) in paragraph at lines 5790--5796
+Underfull \hbox (badness 10000) in paragraph at lines 5821--5827
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5797--5803
+Underfull \hbox (badness 10000) in paragraph at lines 5828--5834
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5804--5807
+Underfull \hbox (badness 10000) in paragraph at lines 5835--5838
 
  []
 
@@ -5088,105 +5146,105 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5808--5811
+Underfull \hbox (badness 10000) in paragraph at lines 5839--5842
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5812--5821
-
- []
-
-
-Package natbib Warning: Citation `ref media' on page 228 undefined on input lin
-e 5823.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5822--5831
+Underfull \hbox (badness 10000) in paragraph at lines 5843--5852
 
  []
 
 
 Package natbib Warning: Citation `ref media' on page 228 undefined on input lin
-e 5832.
+e 5854.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5832--5834
+Underfull \hbox (badness 10000) in paragraph at lines 5853--5862
+
+ []
+
+
+Package natbib Warning: Citation `ref media' on page 228 undefined on input lin
+e 5863.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5863--5865
 
  []
 
 
 Package natbib Warning: Citation `Harvey2003' on page 228 undefined on input li
-ne 5837.
+ne 5868.
 
 [228]
 
 Package natbib Warning: Citation `DecisionOfGovernment2014' on page 229 undefin
-ed on input line 5841.
+ed on input line 5872.
 
 
 Package natbib Warning: Citation `Ordinance2015' on page 229 undefined on input
- line 5841.
+ line 5872.
 
 
 Package natbib Warning: Citation `(Politika' on page 229 undefined on input lin
-e 5843.
+e 5874.
 
 
 Package natbib Warning: Citation `13. mart 2014)' on page 229 undefined on inpu
-t line 5843.
+t line 5874.
 
 
 Package natbib Warning: Citation `ref Vreme Djilas' on page 229 undefined on in
-put line 5845.
+put line 5876.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5841--5848
+Underfull \hbox (badness 10000) in paragraph at lines 5872--5879
 
  []
 
 
 Package natbib Warning: Citation `????????' on page 229 undefined on input line
- 5851.
+ 5882.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5849--5854
+Underfull \hbox (badness 10000) in paragraph at lines 5880--5885
 
  []
 
 
-Package natbib Warning: Citation `JVA' on page 229 undefined on input line 5856
+Package natbib Warning: Citation `JVA' on page 229 undefined on input line 5887
 .
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5855--5859
+Underfull \hbox (badness 10000) in paragraph at lines 5886--5890
 
  []
 
 [229]
 
 Package natbib Warning: Citation `Stojkov2015' on page 230 undefined on input l
-ine 5876.
+ine 5907.
 
 
-Package natbib Warning: Citation `ref' on page 230 undefined on input line 5880
+Package natbib Warning: Citation `ref' on page 230 undefined on input line 5911
 .
 
 
-Package natbib Warning: Citation `ref' on page 230 undefined on input line 5883
+Package natbib Warning: Citation `ref' on page 230 undefined on input line 5914
 .
 
 
 Package natbib Warning: Citation `NDVBGD analiza ugovora dokument????' on page 
-230 undefined on input line 5885.
+230 undefined on input line 5916.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5889--5893
+Underfull \hbox (badness 10000) in paragraph at lines 5920--5924
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5894--5901
+Underfull \hbox (badness 10000) in paragraph at lines 5925--5932
 
  []
 
@@ -5195,102 +5253,73 @@ Missing character: There is no § in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no § in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5902--5909
+Underfull \hbox (badness 10000) in paragraph at lines 5933--5940
 
  []
 
 [230]
-Underfull \hbox (badness 10000) in paragraph at lines 5910--5913
+Underfull \hbox (badness 10000) in paragraph at lines 5941--5944
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5914--5921
+Underfull \hbox (badness 10000) in paragraph at lines 5945--5952
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5922--5930
+Underfull \hbox (badness 10000) in paragraph at lines 5953--5961
 
  []
 
 
 Package natbib Warning: Citation `NDVBGD2016' on page 231 undefined on input li
-ne 5932.
+ne 5963.
 
 [231]
-Underfull \hbox (badness 10000) in paragraph at lines 5951--5953
+Underfull \hbox (badness 10000) in paragraph at lines 5982--5984
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5954--5960
+Underfull \hbox (badness 10000) in paragraph at lines 5985--5991
 
  []
 
 
 Package natbib Warning: Citation `Stojkov2012' on page 232 undefined on input l
-ine 5965.
+ine 5996.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5961--5968
+Underfull \hbox (badness 10000) in paragraph at lines 5992--5999
 
  []
 
 
 Package natbib Warning: Citation `Peric2016' on page 232 undefined on input lin
-e 5969.
+e 6000.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5969--5974
+Underfull \hbox (badness 10000) in paragraph at lines 6000--6005
 
  []
 
 [232]
 
 Package natbib Warning: Citation `Zekovic ??' on page 233 undefined on input li
-ne 5978.
+ne 6009.
 
 
 Package natbib Warning: Citation `VanistaLazarevic2015' on page 233 undefined o
-n input line 5979.
+n input line 6010.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5983--5986
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5987--5991
+Underfull \hbox (badness 10000) in paragraph at lines 6014--6017
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5997--6000
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6001--6009
-
- []
-
-[233]
-
-Package natbib Warning: Citation `Ã‡arikÃ§iEtAl.2009' on page 234 undefined on 
-input line 6011.
-
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ‡ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no § in font cmr10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 6010--6020
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6021--6027
+Underfull \hbox (badness 10000) in paragraph at lines 6018--6022
 
  []
 
@@ -5300,114 +5329,143 @@ Underfull \hbox (badness 10000) in paragraph at lines 6028--6031
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6032--6038
+Underfull \hbox (badness 10000) in paragraph at lines 6032--6040
+
+ []
+
+[233]
+
+Package natbib Warning: Citation `Ã‡arikÃ§iEtAl.2009' on page 234 undefined on 
+input line 6042.
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no § in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 6041--6051
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6052--6058
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6059--6062
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6063--6069
 
  []
 
 [234]
-Underfull \hbox (badness 10000) in paragraph at lines 6039--6045
+Underfull \hbox (badness 10000) in paragraph at lines 6070--6076
 
  []
 
 
 Package natbib Warning: Citation `Peric2016' on page 235 undefined on input lin
-e 6046.
+e 6077.
 
 
 Package natbib Warning: Citation `Stojkov2012' on page 235 undefined on input l
-ine 6053.
+ine 6084.
 
 
 Package natbib Warning: Citation `Grozdanic2008' on page 235 undefined on input
- line 6056.
+ line 6087.
 
 
 Package natbib Warning: Citation `Boisiere' on page 235 undefined on input line
- 6057.
+ 6088.
 
 
 Package natbib Warning: Citation `1981 ????' on page 235 undefined on input lin
-e 6057.
+e 6088.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6052--6060
+Underfull \hbox (badness 10000) in paragraph at lines 6083--6091
 
  []
 
 
 Package natbib Warning: Citation `NSSD; BUDS; check cultural heritage works' on
- page 235 undefined on input line 6062.
+ page 235 undefined on input line 6093.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6061--6064
+Underfull \hbox (badness 10000) in paragraph at lines 6092--6095
 
  []
 
 [235]
-Underfull \hbox (badness 10000) in paragraph at lines 6065--6071
+Underfull \hbox (badness 10000) in paragraph at lines 6096--6102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6072--6078
+Underfull \hbox (badness 10000) in paragraph at lines 6103--6109
 
  []
 
 
 Package natbib Warning: Citation `VanistaLazarevic2015' on page 236 undefined o
-n input line 6081.
+n input line 6112.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6079--6087
+Underfull \hbox (badness 10000) in paragraph at lines 6110--6118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6088--6091
+Underfull \hbox (badness 10000) in paragraph at lines 6119--6122
 
  []
 
 
 Package natbib Warning: Citation `VolicEtAl2012' on page 236 undefined on input
- line 6094.
+ line 6125.
 
 
 Package natbib Warning: Citation `RoterBlagojevic2015' on page 236 undefined on
- input line 6099.
+ input line 6130.
 
 
 Package natbib Warning: Citation `(Davoudi) from Peric ????' on page 236 undefi
-ned on input line 6100.
+ned on input line 6131.
 
 
 Package natbib Warning: Citation `(VujosevicEtAl.2010' on page 236 undefined on
- input line 6103.
+ input line 6134.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6099--6106
+Underfull \hbox (badness 10000) in paragraph at lines 6130--6137
 
  []
 
 [236]
 
 Package natbib Warning: Citation `MaksinovicXXXX' on page 237 undefined on inpu
-t line 6112.
+t line 6143.
 
 
 Package natbib Warning: Citation `PerovicXXXX' on page 237 undefined on input l
-ine 6112.
+ine 6143.
 
 
 Package natbib Warning: Citation `Blagojevic2009' on page 237 undefined on inpu
-t line 6112.
+t line 6143.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6107--6117
+Underfull \hbox (badness 10000) in paragraph at lines 6138--6148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6118--6124
+Underfull \hbox (badness 10000) in paragraph at lines 6149--6155
 
  []
 
@@ -5415,26 +5473,26 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 6125--6131
+Underfull \hbox (badness 10000) in paragraph at lines 6156--6162
 
  []
 
 
 Package natbib Warning: Citation `Savic2014' on page 237 undefined on input lin
-e 6134.
+e 6165.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6132--6137
+Underfull \hbox (badness 10000) in paragraph at lines 6163--6168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6138--6142
+Underfull \hbox (badness 10000) in paragraph at lines 6169--6173
 
  []
 
 [237]
-Underfull \hbox (badness 10000) in paragraph at lines 6143--6145
+Underfull \hbox (badness 10000) in paragraph at lines 6174--6176
 
  []
 
@@ -5446,81 +5504,81 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no ™ in font cmbx10!
 
 Package natbib Warning: Citation `VolicEtAl.2012' on page 238 undefined on inpu
-t line 6146.
+t line 6177.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6154--6158
-
- []
-
-
-Package natbib Warning: Citation `????' on page 238 undefined on input line 616
-1.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6159--6163
+Underfull \hbox (badness 10000) in paragraph at lines 6185--6189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6164--6168
+Package natbib Warning: Citation `????' on page 238 undefined on input line 619
+2.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6190--6194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6195--6199
 
  []
 
 
 Package natbib Warning: Citation `(VujosevicEtAl.2015' on page 238 undefined on
- input line 6169.
+ input line 6200.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6169--6174
+Underfull \hbox (badness 10000) in paragraph at lines 6200--6205
 
  []
 
 [238]
-Underfull \hbox (badness 10000) in paragraph at lines 6175--6181
+Underfull \hbox (badness 10000) in paragraph at lines 6206--6212
 
  []
 
 
 Package natbib Warning: Citation `Alexander and Faludi 1989 ?????' on page 239 
-undefined on input line 6184.
+undefined on input line 6215.
 
 
 Package natbib Warning: Citation `Stojkov2012' on page 239 undefined on input l
-ine 6184.
+ine 6215.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6182--6188
+Underfull \hbox (badness 10000) in paragraph at lines 6213--6219
 
  []
 
 [239]
-Underfull \hbox (badness 10000) in paragraph at lines 6196--6200
+Underfull \hbox (badness 10000) in paragraph at lines 6227--6231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6201--6203
+Underfull \hbox (badness 10000) in paragraph at lines 6232--6234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6204--6207
+Underfull \hbox (badness 10000) in paragraph at lines 6235--6238
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6208--6210
+Underfull \hbox (badness 10000) in paragraph at lines 6239--6241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6211--6213
+Underfull \hbox (badness 10000) in paragraph at lines 6242--6244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6214--6220
+Underfull \hbox (badness 10000) in paragraph at lines 6245--6251
 
  []
 
@@ -5531,49 +5589,49 @@ Chapter 8.
 ] [243] [244] [245] [246]
 
 Package natbib Warning: Citation `Sears 2008' on page 247 undefined on input li
-ne 6354.
+ne 6385.
 
 [247] [248] [249]
 
 Package natbib Warning: Citation `Thomas 1998' on page 250 undefined on input l
-ine 6472.
+ine 6503.
 
 [250]
 
 Package natbib Warning: Citation `Volic et al. 2012' on page 251 undefined on i
-nput line 6492.
+nput line 6523.
 
 [251] [252] [253]
 
 Package natbib Warning: Citation `Latour 2005' on page 254 undefined on input l
-ine 6553.
+ine 6584.
 
 
 Package natbib Warning: Citation `Collins and Yearley 1992' on page 254 undefin
-ed on input line 6553.
+ed on input line 6584.
 
 
 Package natbib Warning: Citation `Czarniawska 1997' on page 254 undefined on in
-put line 6553.
+put line 6584.
 
 
 Package natbib Warning: Citation `Whittle and Spicer 2008' on page 254 undefine
-d on input line 6553.
+d on input line 6584.
 
 
 Package natbib Warning: Citation `Marshall and Staeheli 2015' on page 254 undef
-ined on input line 6553.
+ined on input line 6584.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `Rose 1997' on page 254 undefined on input lin
-e 6553.
+e 6584.
 
 
 Package natbib Warning: Citation `Ruming 2009' on page 254 undefined on input l
-ine 6553.
+ine 6584.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -5583,24 +5641,24 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 Package natbib Warning: Citation `Lee and Brown 1994' on page 254 undefined on 
-input line 6555.
+input line 6586.
 
 
 Package natbib Warning: Citation `Lee and Brown 1994' on page 254 undefined on 
-input line 6560.
+input line 6591.
 
 
 Package natbib Warning: Citation `Gad and Jensen 2010' on page 254 undefined on
- input line 6560.
+ input line 6591.
 
 
 Package natbib Warning: Citation `Gabriel and Jacobs 2008' on page 254 undefine
-d on input line 6560.
+d on input line 6591.
 
 [254] [255]
 
 Package natbib Warning: Citation `Huang 2012' on page 256 undefined on input li
-ne 6605.
+ne 6636.
 
 [256] [257] [258] ("thesis outline.bbl" [259
 
@@ -5615,6 +5673,8 @@ Missing character: There is no ½ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
 Missing character: There is no Ã in font cmr10!
@@ -5635,9 +5695,9 @@ Missing character: There is no Å in font cmr10!
 Missing character: There is no ¾ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ¡ in font cmr10!
+ [261]
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
- [261]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
@@ -5662,6 +5722,7 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+ [262]
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ¡ in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -5677,7 +5738,6 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ƒ in font cmr10!
- [262]
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -5690,6 +5750,7 @@ Missing character: There is no Å in font cmr10!
 Missing character: There is no ¡ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ¡ in font cmr10!
+ [263]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
@@ -5730,28 +5791,29 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ƒ in font cmr10!
- [263]) [264]
+) [264]
+[265]
 Chapter 9.
-[265
-
-]
-Appendix A.
 [266
 
 ]
-Appendix B.
+Appendix A.
 [267
+
+]
+Appendix B.
+[268
 
 ]
 
 Package natbib Warning: There were undefined citations.
 
 \Changes@OutFile=\write7
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6685.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 6685.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6716.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 6716.
 ("thesis outline.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 6685.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6685.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 6716.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6716.
 
 Package rerunfilecheck Info: File `"thesis outline".out' has not changed.
 (rerunfilecheck)             Checksum: 206D25807738DE3FCB32D2888ADD3A81;11643.
@@ -5759,13 +5821,13 @@ Package rerunfilecheck Info: File `"thesis outline".out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 6685.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 6716.
  ) 
 Here is how much of TeX's memory you used:
- 9633 strings out of 493698
- 141414 string characters out of 3141985
- 270340 words of memory out of 3000000
- 12036 multiletter control sequences out of 15000+200000
+ 9687 strings out of 493698
+ 142806 string characters out of 3141985
+ 270992 words of memory out of 3000000
+ 12077 multiletter control sequences out of 15000+200000
  13212 words of font info for 47 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  32i,10n,65p,1783b,617s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -5789,9 +5851,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX
 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "thesis outline.pdf" (280 pages, 1492222 bytes).
+Output written on "thesis outline.pdf" (281 pages, 1506380 bytes).
 PDF statistics:
- 3421 PDF objects out of 3580 (max. 8388607)
- 803 named destinations out of 1000 (max. 500000)
+ 3500 PDF objects out of 3580 (max. 8388607)
+ 816 named destinations out of 1000 (max. 500000)
  1185 words of extra memory for PDF output out of 10000 (max. 10000000)
 

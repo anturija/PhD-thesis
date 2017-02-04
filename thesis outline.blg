@@ -248,1062 +248,1067 @@ Case mismatch error between cite keys healey_collaborative_1997 and Healey_Colla
  : \citation{healey_collaborative_1997
  :                                    }
 I'm skipping whatever remains of this command
-White space in argument---line 275 of file thesis outline.aux
- : \citation{(Lehrer
- :                   and Laidley 2008)}
+Case mismatch error between cite keys bolay_urban_2005 and Bolay_urban_2005
+---line 290 of file thesis outline.aux
+ : \citation{bolay_urban_2005
+ :                           }
 I'm skipping whatever remains of this command
-White space in argument---line 278 of file thesis outline.aux
+White space in argument---line 292 of file thesis outline.aux
+ : \citation{Getimis
+ :                   2012}
+I'm skipping whatever remains of this command
+White space in argument---line 300 of file thesis outline.aux
  : \citation{Sykora
  :                  1999}
 I'm skipping whatever remains of this command
-White space in argument---line 279 of file thesis outline.aux
+White space in argument---line 301 of file thesis outline.aux
  : \citation{Tardin
  :                  2014}
 I'm skipping whatever remains of this command
-White space in argument---line 282 of file thesis outline.aux
+White space in argument---line 305 of file thesis outline.aux
  : \citation{Coleman
  :                   1988}
 I'm skipping whatever remains of this command
-White space in argument---line 292 of file thesis outline.aux
+White space in argument---line 315 of file thesis outline.aux
  : \citation{Latour
  :                  2005}
 I'm skipping whatever remains of this command
-White space in argument---line 307 of file thesis outline.aux
+White space in argument---line 330 of file thesis outline.aux
  : \citation{(Yin
  :                1994)}
 I'm skipping whatever remains of this command
-White space in argument---line 308 of file thesis outline.aux
+White space in argument---line 331 of file thesis outline.aux
  : \citation{(Feagin,Orum
  :                        and Sjoberg 1999)}
 I'm skipping whatever remains of this command
-White space in argument---line 309 of file thesis outline.aux
+White space in argument---line 332 of file thesis outline.aux
  : \citation{(Wanborn
  :                    2010)}
 I'm skipping whatever remains of this command
-White space in argument---line 310 of file thesis outline.aux
+White space in argument---line 333 of file thesis outline.aux
  : \citation{(Scholz
  :                   and Tietje,2002; Yin 2009)}
 I'm skipping whatever remains of this command
-White space in argument---line 311 of file thesis outline.aux
+White space in argument---line 334 of file thesis outline.aux
  : \citation{(Harrison
  :                     2002)}
 I'm skipping whatever remains of this command
-White space in argument---line 312 of file thesis outline.aux
+White space in argument---line 335 of file thesis outline.aux
  : \citation{(Feagin
  :                   et al. 1991)}
 I'm skipping whatever remains of this command
-White space in argument---line 313 of file thesis outline.aux
+White space in argument---line 336 of file thesis outline.aux
  : \citation{(Yin
  :                2009)}
 I'm skipping whatever remains of this command
-White space in argument---line 314 of file thesis outline.aux
+White space in argument---line 337 of file thesis outline.aux
  : \citation{Campbell
  :                    1975}
 I'm skipping whatever remains of this command
-White space in argument---line 315 of file thesis outline.aux
+White space in argument---line 338 of file thesis outline.aux
  : \citation{(Feagin
  :                   et al. 1991)}
 I'm skipping whatever remains of this command
-White space in argument---line 316 of file thesis outline.aux
+White space in argument---line 339 of file thesis outline.aux
  : \citation{(Harrison
  :                     2002)}
 I'm skipping whatever remains of this command
-White space in argument---line 317 of file thesis outline.aux
+White space in argument---line 340 of file thesis outline.aux
  : \citation{(Yin
  :                2009)}
 I'm skipping whatever remains of this command
-White space in argument---line 318 of file thesis outline.aux
+White space in argument---line 341 of file thesis outline.aux
  : \citation{(Denzin
  :                   1987b}
 I'm skipping whatever remains of this command
-White space in argument---line 320 of file thesis outline.aux
+White space in argument---line 343 of file thesis outline.aux
  : \citation{(Yin
  :                XXX)}
 I'm skipping whatever remains of this command
-White space in argument---line 321 of file thesis outline.aux
+White space in argument---line 344 of file thesis outline.aux
  : \citation{(Harrison
  :                     2002)}
 I'm skipping whatever remains of this command
-White space in argument---line 322 of file thesis outline.aux
+White space in argument---line 345 of file thesis outline.aux
  : \citation{(Flyvbjerg
  :                      2006)}
 I'm skipping whatever remains of this command
-White space in argument---line 323 of file thesis outline.aux
+White space in argument---line 346 of file thesis outline.aux
  : \citation{Yin's
  :                 (XXXX)}
 I'm skipping whatever remains of this command
-White space in argument---line 325 of file thesis outline.aux
+White space in argument---line 348 of file thesis outline.aux
  : \citation{(Yin
  :                XXX)}
 I'm skipping whatever remains of this command
-White space in argument---line 326 of file thesis outline.aux
+White space in argument---line 349 of file thesis outline.aux
  : \citation{Harrison
  :                    (2002)}
 I'm skipping whatever remains of this command
-White space in argument---line 327 of file thesis outline.aux
+White space in argument---line 350 of file thesis outline.aux
  : \citation{Flyvbjerg
  :                     (2006)}
 I'm skipping whatever remains of this command
-White space in argument---line 332 of file thesis outline.aux
+White space in argument---line 355 of file thesis outline.aux
  : \citation{Meredith
  :                    1989,Harrison 2002}
 I'm skipping whatever remains of this command
-White space in argument---line 333 of file thesis outline.aux
+White space in argument---line 356 of file thesis outline.aux
  : \citation{Denzin
  :                  et al. XXXX}
 I'm skipping whatever remains of this command
-White space in argument---line 337 of file thesis outline.aux
+White space in argument---line 360 of file thesis outline.aux
  : \citation{(Mertens
  :                    1998,Flick 2002,Grubovic)}
 I'm skipping whatever remains of this command
-White space in argument---line 338 of file thesis outline.aux
+White space in argument---line 361 of file thesis outline.aux
  : \citation{(Pettigrew
  :                      XXXX,Harrison 2002)}
 I'm skipping whatever remains of this command
-White space in argument---line 340 of file thesis outline.aux
+White space in argument---line 363 of file thesis outline.aux
  : \citation{(Mogalakwe
  :                      2006)}
 I'm skipping whatever remains of this command
-White space in argument---line 341 of file thesis outline.aux
+White space in argument---line 364 of file thesis outline.aux
  : \citation{(Robson,1993;
  :                         GRUBOVIC)}
 I'm skipping whatever remains of this command
-White space in argument---line 342 of file thesis outline.aux
+White space in argument---line 365 of file thesis outline.aux
  : \citation{((Jary
  :                  and Jary 1991; Payne and Payne 2004; Mogalakwe 2006)}
 I'm skipping whatever remains of this command
-White space in argument---line 344 of file thesis outline.aux
+White space in argument---line 367 of file thesis outline.aux
  : \citation{Scoot
  :                 2004}
 I'm skipping whatever remains of this command
-White space in argument---line 345 of file thesis outline.aux
+White space in argument---line 368 of file thesis outline.aux
  : \citation{(Cochrane,1998;
  :                           Yin,1994)}
 I'm skipping whatever remains of this command
-White space in argument---line 346 of file thesis outline.aux
+White space in argument---line 369 of file thesis outline.aux
  : \citation{(Payne
  :                  and Payne,2004)}
 I'm skipping whatever remains of this command
-White space in argument---line 349 of file thesis outline.aux
+White space in argument---line 372 of file thesis outline.aux
  : \citation{ref
  :               mcintyre PAR}
 I'm skipping whatever remains of this command
-White space in argument---line 350 of file thesis outline.aux
+White space in argument---line 373 of file thesis outline.aux
  : \citation{ref
  :               whyte PAR ref}
 I'm skipping whatever remains of this command
-White space in argument---line 351 of file thesis outline.aux
+White space in argument---line 374 of file thesis outline.aux
  : \citation{ref
  :               mcintyre PAR}
 I'm skipping whatever remains of this command
-White space in argument---line 352 of file thesis outline.aux
+White space in argument---line 375 of file thesis outline.aux
  : \citation{ref
  :               mcintyre PAR}
 I'm skipping whatever remains of this command
-White space in argument---line 353 of file thesis outline.aux
+White space in argument---line 376 of file thesis outline.aux
  : \citation{ref
  :               mcintyre PAR}
 I'm skipping whatever remains of this command
-White space in argument---line 355 of file thesis outline.aux
+White space in argument---line 378 of file thesis outline.aux
  : \citation{Payne
  :                 and Payne 2004}
 I'm skipping whatever remains of this command
-White space in argument---line 356 of file thesis outline.aux
+White space in argument---line 379 of file thesis outline.aux
  : \citation{Payne
  :                 and Payne 2004}
 I'm skipping whatever remains of this command
-White space in argument---line 357 of file thesis outline.aux
+White space in argument---line 380 of file thesis outline.aux
  : \citation{King
  :                1994}
 I'm skipping whatever remains of this command
-White space in argument---line 360 of file thesis outline.aux
+White space in argument---line 383 of file thesis outline.aux
  : \citation{Latour
  :                  1996}
 I'm skipping whatever remains of this command
-White space in argument---line 361 of file thesis outline.aux
+White space in argument---line 384 of file thesis outline.aux
  : \citation{Cerulo
  :                  2009}
 I'm skipping whatever remains of this command
-White space in argument---line 362 of file thesis outline.aux
+White space in argument---line 385 of file thesis outline.aux
  : \citation{Latour
  :                  2005}
 I'm skipping whatever remains of this command
-White space in argument---line 365 of file thesis outline.aux
+White space in argument---line 388 of file thesis outline.aux
  : \citation{Latour
  :                  1996}
 I'm skipping whatever remains of this command
-White space in argument---line 366 of file thesis outline.aux
+White space in argument---line 389 of file thesis outline.aux
  : \citation{Cerulo
  :                  2009}
 I'm skipping whatever remains of this command
-White space in argument---line 367 of file thesis outline.aux
+White space in argument---line 390 of file thesis outline.aux
  : \citation{Mitchell
  :                    1999}
 I'm skipping whatever remains of this command
-White space in argument---line 368 of file thesis outline.aux
+White space in argument---line 391 of file thesis outline.aux
  : \citation{Firmino
  :                   et al.,2008}
 I'm skipping whatever remains of this command
-White space in argument---line 369 of file thesis outline.aux
+White space in argument---line 392 of file thesis outline.aux
  : \citation{Latour
  :                  2005}
 I'm skipping whatever remains of this command
-White space in argument---line 370 of file thesis outline.aux
+White space in argument---line 393 of file thesis outline.aux
  : \citation{Farias
  :                  2011}
 I'm skipping whatever remains of this command
-White space in argument---line 371 of file thesis outline.aux
+White space in argument---line 394 of file thesis outline.aux
  : \citation{Callon
  :                  1986}
 I'm skipping whatever remains of this command
-White space in argument---line 372 of file thesis outline.aux
+White space in argument---line 395 of file thesis outline.aux
  : \citation{Farias
  :                  2011}
 I'm skipping whatever remains of this command
-White space in argument---line 373 of file thesis outline.aux
+White space in argument---line 396 of file thesis outline.aux
  : \citation{Muniesa
  :                   et al. 2007}
 I'm skipping whatever remains of this command
-White space in argument---line 374 of file thesis outline.aux
+White space in argument---line 397 of file thesis outline.aux
  : \citation{Farías
  :                   2011}
 I'm skipping whatever remains of this command
-White space in argument---line 375 of file thesis outline.aux
+White space in argument---line 398 of file thesis outline.aux
  : \citation{Ferber
  :                  1999}
 I'm skipping whatever remains of this command
-White space in argument---line 377 of file thesis outline.aux
+White space in argument---line 400 of file thesis outline.aux
  : \citation{Arsanjani
  :                     et al. 2013}
 I'm skipping whatever remains of this command
-White space in argument---line 389 of file thesis outline.aux
+White space in argument---line 412 of file thesis outline.aux
  : \citation{Blagojevic
  :                      2009}
 I'm skipping whatever remains of this command
-White space in argument---line 392 of file thesis outline.aux
+White space in argument---line 415 of file thesis outline.aux
  : \citation{Samardzic
  :                     in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 394 of file thesis outline.aux
+White space in argument---line 417 of file thesis outline.aux
  : \citation{waves
  :                 of planning 2006}
 I'm skipping whatever remains of this command
-White space in argument---line 395 of file thesis outline.aux
+White space in argument---line 418 of file thesis outline.aux
  : \citation{Vesna
  :                 Cagic 2014,Peric 2016}
 I'm skipping whatever remains of this command
-White space in argument---line 396 of file thesis outline.aux
+White space in argument---line 419 of file thesis outline.aux
  : \citation{waves
  :                 of planning 2006}
 I'm skipping whatever remains of this command
-White space in argument---line 397 of file thesis outline.aux
+White space in argument---line 420 of file thesis outline.aux
  : \citation{Mornings
  :                    after Nedovic Budic}
 I'm skipping whatever remains of this command
-White space in argument---line 398 of file thesis outline.aux
+White space in argument---line 421 of file thesis outline.aux
  : \citation{(Vujosevic
  :                      and Nedovic 2006)}
 I'm skipping whatever remains of this command
-White space in argument---line 399 of file thesis outline.aux
+White space in argument---line 422 of file thesis outline.aux
  : \citation{adjustment
  :                      of planning practice nedovic budic 2001}
 I'm skipping whatever remains of this command
-White space in argument---line 400 of file thesis outline.aux
+White space in argument---line 423 of file thesis outline.aux
  : \citation{from
  :                Grozdanic find references}
 I'm skipping whatever remains of this command
-White space in argument---line 401 of file thesis outline.aux
+White space in argument---line 424 of file thesis outline.aux
  : \citation{(Vujosevic
  :                      and Nedovic 2006)}
 I'm skipping whatever remains of this command
-White space in argument---line 402 of file thesis outline.aux
+White space in argument---line 425 of file thesis outline.aux
  : \citation{Vladina
  :                   strategija za smanjenje siromastva}
 I'm skipping whatever remains of this command
-White space in argument---line 404 of file thesis outline.aux
+White space in argument---line 427 of file thesis outline.aux
  : \citation{ref
  :               Peric 2016}
 I'm skipping whatever remains of this command
-White space in argument---line 405 of file thesis outline.aux
+White space in argument---line 428 of file thesis outline.aux
  : \citation{Vujosevic
  :                     2015 Regionalizam u Srbiji 2}
 I'm skipping whatever remains of this command
-White space in argument---line 406 of file thesis outline.aux
+White space in argument---line 429 of file thesis outline.aux
  : \citation{Mornings
  :                    after Nedovic Budic}
 I'm skipping whatever remains of this command
-White space in argument---line 407 of file thesis outline.aux
+White space in argument---line 430 of file thesis outline.aux
  : \citation{adjustment
  :                      of planning practice nedovic budic 2001}
 I'm skipping whatever remains of this command
-White space in argument---line 408 of file thesis outline.aux
+White space in argument---line 431 of file thesis outline.aux
  : \citation{Peric
  :                 2016}
 I'm skipping whatever remains of this command
-White space in argument---line 409 of file thesis outline.aux
+White space in argument---line 432 of file thesis outline.aux
  : \citation{Cagic
  :                 2014}
 I'm skipping whatever remains of this command
-White space in argument---line 410 of file thesis outline.aux
+White space in argument---line 433 of file thesis outline.aux
  : \citation{Peric
  :                 2016}
 I'm skipping whatever remains of this command
-White space in argument---line 411 of file thesis outline.aux
+White space in argument---line 434 of file thesis outline.aux
  : \citation{Peric
  :                 2016}
 I'm skipping whatever remains of this command
-White space in argument---line 413 of file thesis outline.aux
+White space in argument---line 436 of file thesis outline.aux
  : \citation{ref
  :               Peric 2016}
 I'm skipping whatever remains of this command
-White space in argument---line 419 of file thesis outline.aux
+White space in argument---line 442 of file thesis outline.aux
  : \citation{Vujosevic
  :                     2015 Regionalizam u Srbiji 2}
 I'm skipping whatever remains of this command
-White space in argument---line 421 of file thesis outline.aux
+White space in argument---line 444 of file thesis outline.aux
  : \citation{(Savic
  :                  2014,Samardzic in Doytchinov 2015)}
 I'm skipping whatever remains of this command
-White space in argument---line 422 of file thesis outline.aux
+White space in argument---line 445 of file thesis outline.aux
  : \citation{Vanista
  :                   Lazarevic in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 424 of file thesis outline.aux
+White space in argument---line 447 of file thesis outline.aux
  : \citation{Prodanovic
  :                      Stariji i lepsi Beograd}
 I'm skipping whatever remains of this command
-White space in argument---line 425 of file thesis outline.aux
+White space in argument---line 448 of file thesis outline.aux
  : \citation{(Hirt
  :                 2009)}
 I'm skipping whatever remains of this command
-White space in argument---line 428 of file thesis outline.aux
+White space in argument---line 451 of file thesis outline.aux
  : \citation{(Grozdanic
  :                      2008)}
 I'm skipping whatever remains of this command
-White space in argument---line 429 of file thesis outline.aux
+White space in argument---line 452 of file thesis outline.aux
  : \citation{(Hirt
  :                 2009)}
 I'm skipping whatever remains of this command
-White space in argument---line 431 of file thesis outline.aux
+White space in argument---line 454 of file thesis outline.aux
  : \citation{(Hirt
  :                 2009)}
 I'm skipping whatever remains of this command
-White space in argument---line 432 of file thesis outline.aux
+White space in argument---line 455 of file thesis outline.aux
  : \citation{(Hirt
  :                 2009)}
 I'm skipping whatever remains of this command
-White space in argument---line 433 of file thesis outline.aux
+White space in argument---line 456 of file thesis outline.aux
  : \citation{Stupar
  :                  2004 isocarp}
 I'm skipping whatever remains of this command
-White space in argument---line 435 of file thesis outline.aux
+White space in argument---line 458 of file thesis outline.aux
  : \citation{Zekovic
  :                   et al. 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 436 of file thesis outline.aux
+White space in argument---line 459 of file thesis outline.aux
  : \citation{Cities
  :                  in Transition 2013}
 I'm skipping whatever remains of this command
-White space in argument---line 437 of file thesis outline.aux
+White space in argument---line 460 of file thesis outline.aux
  : \citation{Vukmirovic
  :                      et al 2013}
 I'm skipping whatever remains of this command
-White space in argument---line 438 of file thesis outline.aux
+White space in argument---line 461 of file thesis outline.aux
  : \citation{Samardzic
  :                     in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 439 of file thesis outline.aux
+White space in argument---line 462 of file thesis outline.aux
  : \citation{Hirt
  :                2009}
 I'm skipping whatever remains of this command
-White space in argument---line 440 of file thesis outline.aux
+White space in argument---line 463 of file thesis outline.aux
  : \citation{Vanista
  :                   Lazarevic in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 441 of file thesis outline.aux
+White space in argument---line 464 of file thesis outline.aux
  : \citation{other
  :                 ref Samardzic in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 442 of file thesis outline.aux
+White space in argument---line 465 of file thesis outline.aux
  : \citation{Vujovic
  :                   and Petrovic 2007}
 I'm skipping whatever remains of this command
-White space in argument---line 443 of file thesis outline.aux
+White space in argument---line 466 of file thesis outline.aux
  : \citation{Samardzic
  :                     in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 445 of file thesis outline.aux
+White space in argument---line 468 of file thesis outline.aux
  : \citation{Nedovic-Budic
  :                         2001}
 I'm skipping whatever remains of this command
-White space in argument---line 446 of file thesis outline.aux
+White space in argument---line 469 of file thesis outline.aux
  : \citation{Vujovic
  :                   et al. 2007}
 I'm skipping whatever remains of this command
-White space in argument---line 447 of file thesis outline.aux
+White space in argument---line 470 of file thesis outline.aux
  : \citation{Hirt
  :                2008}
 I'm skipping whatever remains of this command
-White space in argument---line 449 of file thesis outline.aux
+White space in argument---line 472 of file thesis outline.aux
  : \citation{"Urban
  :                  Incubator Belgrade" 2013}
 I'm skipping whatever remains of this command
-White space in argument---line 451 of file thesis outline.aux
+White space in argument---line 474 of file thesis outline.aux
  : \citation{Roter
  :                 Blagojevic in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 452 of file thesis outline.aux
+White space in argument---line 475 of file thesis outline.aux
  : \citation{bureau
  :                  savamala}
 I'm skipping whatever remains of this command
-White space in argument---line 453 of file thesis outline.aux
+White space in argument---line 476 of file thesis outline.aux
  : \citation{Roter
  :                 Blagojevic in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 454 of file thesis outline.aux
+White space in argument---line 477 of file thesis outline.aux
  : \citation{Roter
  :                 Blagojevic in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 455 of file thesis outline.aux
+White space in argument---line 478 of file thesis outline.aux
  : \citation{Roter
  :                 Blagojevic in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 456 of file thesis outline.aux
+White space in argument---line 479 of file thesis outline.aux
  : \citation{Roter
  :                 Blagojevic in Doytchinov 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 457 of file thesis outline.aux
+White space in argument---line 480 of file thesis outline.aux
  : \citation{Blagojevic
  :                      2009}
 I'm skipping whatever remains of this command
-White space in argument---line 458 of file thesis outline.aux
+White space in argument---line 481 of file thesis outline.aux
  : \citation{Bureau
  :                  Savamala}
 I'm skipping whatever remains of this command
-White space in argument---line 459 of file thesis outline.aux
+White space in argument---line 482 of file thesis outline.aux
  : \citation{ref
  :               and Kamenzind2}
 I'm skipping whatever remains of this command
-White space in argument---line 460 of file thesis outline.aux
+White space in argument---line 483 of file thesis outline.aux
  : \citation{Zekovic
  :                   et al.,2016}
 I'm skipping whatever remains of this command
-White space in argument---line 461 of file thesis outline.aux
+White space in argument---line 484 of file thesis outline.aux
  : \citation{bureau
  :                  savamala}
 I'm skipping whatever remains of this command
-White space in argument---line 462 of file thesis outline.aux
+White space in argument---line 485 of file thesis outline.aux
  : \citation{(Grozdanic
  :                      2008)}
 I'm skipping whatever remains of this command
-White space in argument---line 466 of file thesis outline.aux
+White space in argument---line 489 of file thesis outline.aux
  : \citation{Vujosevic
  :                     and Nedovic Budic 2006}
 I'm skipping whatever remains of this command
-White space in argument---line 467 of file thesis outline.aux
+White space in argument---line 490 of file thesis outline.aux
  : \citation{Stojkov
  :                   and Dobricic 2012}
 I'm skipping whatever remains of this command
-White space in argument---line 468 of file thesis outline.aux
+White space in argument---line 491 of file thesis outline.aux
  : \citation{Arbter
  :                  2001}
 I'm skipping whatever remains of this command
-White space in argument---line 471 of file thesis outline.aux
+White space in argument---line 494 of file thesis outline.aux
  : \citation{Stupar
  :                  2004}
 I'm skipping whatever remains of this command
-White space in argument---line 472 of file thesis outline.aux
+White space in argument---line 495 of file thesis outline.aux
  : \citation{Vujovic
  :                   and Petrovic 2007}
 I'm skipping whatever remains of this command
-White space in argument---line 473 of file thesis outline.aux
+White space in argument---line 496 of file thesis outline.aux
  : \citation{Zakon
  :                 2003}
 I'm skipping whatever remains of this command
-White space in argument---line 474 of file thesis outline.aux
+White space in argument---line 497 of file thesis outline.aux
  : \citation{waves
  :                 of planning 2006}
 I'm skipping whatever remains of this command
-White space in argument---line 477 of file thesis outline.aux
+White space in argument---line 500 of file thesis outline.aux
  : \citation{Vujosevic
  :                     and Nedovic Budic 2006}
 I'm skipping whatever remains of this command
-White space in argument---line 478 of file thesis outline.aux
+White space in argument---line 501 of file thesis outline.aux
  : \citation{Vujovic
  :                   and Petrovic 2007}
 I'm skipping whatever remains of this command
-White space in argument---line 479 of file thesis outline.aux
+White space in argument---line 502 of file thesis outline.aux
  : \citation{(Hirt
  :                 2009)}
 I'm skipping whatever remains of this command
-White space in argument---line 480 of file thesis outline.aux
+White space in argument---line 503 of file thesis outline.aux
  : \citation{nedovic
  :                   budic 2001}
 I'm skipping whatever remains of this command
-White space in argument---line 481 of file thesis outline.aux
+White space in argument---line 504 of file thesis outline.aux
  : \citation{Vukmirovic
  :                      in Doytchinov et al 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 482 of file thesis outline.aux
+White space in argument---line 505 of file thesis outline.aux
  : \citation{(Hirt
  :                 2009)}
 I'm skipping whatever remains of this command
-White space in argument---line 483 of file thesis outline.aux
+White space in argument---line 506 of file thesis outline.aux
  : \citation{Vujosevic
  :                     and Nedovic Budic 2006}
 I'm skipping whatever remains of this command
-White space in argument---line 484 of file thesis outline.aux
+White space in argument---line 507 of file thesis outline.aux
  : \citation{Vujosevic
  :                     2015 Regionalizam u Srbiji 2}
 I'm skipping whatever remains of this command
-White space in argument---line 485 of file thesis outline.aux
+White space in argument---line 508 of file thesis outline.aux
  : \citation{Stojkov
  :                   and Dobricic 2012 02}
 I'm skipping whatever remains of this command
-White space in argument---line 486 of file thesis outline.aux
+White space in argument---line 509 of file thesis outline.aux
  : \citation{ref
  :               Official Gazette of the City of Belgrade no 27/03}
-I'm skipping whatever remains of this command
-White space in argument---line 487 of file thesis outline.aux
- : \citation{Vukmirovic
- :                      in Doytchinov et al 2015}
-I'm skipping whatever remains of this command
-White space in argument---line 492 of file thesis outline.aux
- : \citation{Stupar
- :                  2004}
-I'm skipping whatever remains of this command
-White space in argument---line 493 of file thesis outline.aux
- : \citation{Vujosevic
- :                     2012}
-I'm skipping whatever remains of this command
-White space in argument---line 494 of file thesis outline.aux
- : \citation{Stojkov
- :                   and Dobricic 2012 02}
-I'm skipping whatever remains of this command
-White space in argument---line 495 of file thesis outline.aux
- : \citation{(Maksic
- :                   2012)}
-I'm skipping whatever remains of this command
-White space in argument---line 496 of file thesis outline.aux
- : \citation{Maksic
- :                  2012}
-I'm skipping whatever remains of this command
-White space in argument---line 497 of file thesis outline.aux
- : \citation{adjustment
- :                      of planning practice nedovic budic 2001,Vujosevic and Maricic 2012}
-I'm skipping whatever remains of this command
-White space in argument---line 498 of file thesis outline.aux
- : \citation{Vujosevic
- :                     and Maricic 2012}
-I'm skipping whatever remains of this command
-White space in argument---line 499 of file thesis outline.aux
- : \citation{Vujosevic
- :                     2012}
-I'm skipping whatever remains of this command
-White space in argument---line 500 of file thesis outline.aux
- : \citation{(Harvey
- :                   2012)}
-I'm skipping whatever remains of this command
-White space in argument---line 501 of file thesis outline.aux
- : \citation{(Bolay
- :                  et al. 2005)}
-I'm skipping whatever remains of this command
-White space in argument---line 502 of file thesis outline.aux
- : \citation{(Djokic
- :                   et al. 2007)}
-I'm skipping whatever remains of this command
-White space in argument---line 503 of file thesis outline.aux
- : \citation{(Ellin
- :                  1999)}
-I'm skipping whatever remains of this command
-White space in argument---line 504 of file thesis outline.aux
- : \citation{(Vujosevic
- :                      2010)}
-I'm skipping whatever remains of this command
-White space in argument---line 505 of file thesis outline.aux
- : \citation{(Djokic
- :                   et al. 2007)}
-I'm skipping whatever remains of this command
-White space in argument---line 506 of file thesis outline.aux
- : \citation{(Vujovic
- :                    and Petrovic 2007)}
-I'm skipping whatever remains of this command
-White space in argument---line 507 of file thesis outline.aux
- : \citation{adjustment
- :                      of planning practice nedovic budic 2001}
-I'm skipping whatever remains of this command
-White space in argument---line 508 of file thesis outline.aux
- : \citation{Lazarevic
- :                     Bajec 2009}
 I'm skipping whatever remains of this command
 White space in argument---line 510 of file thesis outline.aux
  : \citation{Vukmirovic
  :                      in Doytchinov et al 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 511 of file thesis outline.aux
- : \citation{Vukmirovic
- :                      in Doytchinov et al 2015}
-I'm skipping whatever remains of this command
-White space in argument---line 512 of file thesis outline.aux
- : \citation{Vukmirovic
- :                      in Doytchinov et al 2015}
-I'm skipping whatever remains of this command
-White space in argument---line 513 of file thesis outline.aux
- : \citation{Vukmirovic
- :                      in Doytchinov et al 2015}
-I'm skipping whatever remains of this command
-White space in argument---line 514 of file thesis outline.aux
- : \citation{Vukmirovic
- :                      in Doytchinov et al 2015}
-I'm skipping whatever remains of this command
 White space in argument---line 515 of file thesis outline.aux
+ : \citation{Stupar
+ :                  2004}
+I'm skipping whatever remains of this command
+White space in argument---line 516 of file thesis outline.aux
+ : \citation{Vujosevic
+ :                     2012}
+I'm skipping whatever remains of this command
+White space in argument---line 517 of file thesis outline.aux
+ : \citation{Stojkov
+ :                   and Dobricic 2012 02}
+I'm skipping whatever remains of this command
+White space in argument---line 518 of file thesis outline.aux
+ : \citation{(Maksic
+ :                   2012)}
+I'm skipping whatever remains of this command
+White space in argument---line 519 of file thesis outline.aux
+ : \citation{Maksic
+ :                  2012}
+I'm skipping whatever remains of this command
+White space in argument---line 520 of file thesis outline.aux
+ : \citation{adjustment
+ :                      of planning practice nedovic budic 2001,Vujosevic and Maricic 2012}
+I'm skipping whatever remains of this command
+White space in argument---line 521 of file thesis outline.aux
+ : \citation{Vujosevic
+ :                     and Maricic 2012}
+I'm skipping whatever remains of this command
+White space in argument---line 522 of file thesis outline.aux
+ : \citation{Vujosevic
+ :                     2012}
+I'm skipping whatever remains of this command
+White space in argument---line 523 of file thesis outline.aux
+ : \citation{(Harvey
+ :                   2012)}
+I'm skipping whatever remains of this command
+White space in argument---line 524 of file thesis outline.aux
+ : \citation{(Bolay
+ :                  et al. 2005)}
+I'm skipping whatever remains of this command
+White space in argument---line 525 of file thesis outline.aux
+ : \citation{(Djokic
+ :                   et al. 2007)}
+I'm skipping whatever remains of this command
+White space in argument---line 526 of file thesis outline.aux
+ : \citation{(Ellin
+ :                  1999)}
+I'm skipping whatever remains of this command
+White space in argument---line 527 of file thesis outline.aux
+ : \citation{(Vujosevic
+ :                      2010)}
+I'm skipping whatever remains of this command
+White space in argument---line 528 of file thesis outline.aux
+ : \citation{(Djokic
+ :                   et al. 2007)}
+I'm skipping whatever remains of this command
+White space in argument---line 529 of file thesis outline.aux
+ : \citation{(Vujovic
+ :                    and Petrovic 2007)}
+I'm skipping whatever remains of this command
+White space in argument---line 530 of file thesis outline.aux
+ : \citation{adjustment
+ :                      of planning practice nedovic budic 2001}
+I'm skipping whatever remains of this command
+White space in argument---line 531 of file thesis outline.aux
+ : \citation{Lazarevic
+ :                     Bajec 2009}
+I'm skipping whatever remains of this command
+White space in argument---line 533 of file thesis outline.aux
+ : \citation{Vukmirovic
+ :                      in Doytchinov et al 2015}
+I'm skipping whatever remains of this command
+White space in argument---line 534 of file thesis outline.aux
+ : \citation{Vukmirovic
+ :                      in Doytchinov et al 2015}
+I'm skipping whatever remains of this command
+White space in argument---line 535 of file thesis outline.aux
+ : \citation{Vukmirovic
+ :                      in Doytchinov et al 2015}
+I'm skipping whatever remains of this command
+White space in argument---line 536 of file thesis outline.aux
+ : \citation{Vukmirovic
+ :                      in Doytchinov et al 2015}
+I'm skipping whatever remains of this command
+White space in argument---line 537 of file thesis outline.aux
+ : \citation{Vukmirovic
+ :                      in Doytchinov et al 2015}
+I'm skipping whatever remains of this command
+White space in argument---line 538 of file thesis outline.aux
  : \citation{Peric
  :                 2016}
 I'm skipping whatever remains of this command
-White space in argument---line 516 of file thesis outline.aux
+White space in argument---line 539 of file thesis outline.aux
  : \citation{Zaklina
  :                   document}
 I'm skipping whatever remains of this command
-White space in argument---line 517 of file thesis outline.aux
+White space in argument---line 540 of file thesis outline.aux
  : \citation{Vukmirovic
  :                      in Doytchinov et al 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 518 of file thesis outline.aux
+White space in argument---line 541 of file thesis outline.aux
  : \citation{Vukmirovic
  :                      in Doytchinov et al 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 519 of file thesis outline.aux
+White space in argument---line 542 of file thesis outline.aux
  : \citation{Maruna
  :                  2015,Peric 2016}
 I'm skipping whatever remains of this command
-White space in argument---line 520 of file thesis outline.aux
+White space in argument---line 543 of file thesis outline.aux
  : \citation{Maruna
  :                  2015,Peric 2016}
 I'm skipping whatever remains of this command
-White space in argument---line 521 of file thesis outline.aux
+White space in argument---line 544 of file thesis outline.aux
  : \citation{Vukmirovic
  :                      in Doytchinov et al 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 522 of file thesis outline.aux
+White space in argument---line 545 of file thesis outline.aux
  : \citation{(Urban
  :                  Incubator Belgrade 2013)}
 I'm skipping whatever remains of this command
-White space in argument---line 524 of file thesis outline.aux
+White space in argument---line 547 of file thesis outline.aux
  : \citation{Cvetinovic
  :                      et al 2013}
 I'm skipping whatever remains of this command
-White space in argument---line 525 of file thesis outline.aux
+White space in argument---line 548 of file thesis outline.aux
  : \citation{Cvetinovic
  :                      et al 2013}
 I'm skipping whatever remains of this command
-White space in argument---line 526 of file thesis outline.aux
+White space in argument---line 549 of file thesis outline.aux
  : \citation{("Bureau
  :                    Savamala" 2013)}
 I'm skipping whatever remains of this command
-White space in argument---line 527 of file thesis outline.aux
+White space in argument---line 550 of file thesis outline.aux
  : \citation{(Kamenzind,Interview
  :                                director Goethe institute 2013)}
 I'm skipping whatever remains of this command
-White space in argument---line 531 of file thesis outline.aux
+White space in argument---line 554 of file thesis outline.aux
  : \citation{Stojkov
  :                   grad kultura politika}
 I'm skipping whatever remains of this command
-White space in argument---line 536 of file thesis outline.aux
+White space in argument---line 559 of file thesis outline.aux
  : \citation{Farías
  :                   and Bender,2011)}
 I'm skipping whatever remains of this command
-White space in argument---line 539 of file thesis outline.aux
+White space in argument---line 562 of file thesis outline.aux
  : \citation{Official
  :                    gazette RS 09/2014}
 I'm skipping whatever remains of this command
-White space in argument---line 540 of file thesis outline.aux
+White space in argument---line 563 of file thesis outline.aux
  : \citation{Urbani
  :                  razvoj u Srbiji Ministry of Space 2014}
 I'm skipping whatever remains of this command
-White space in argument---line 541 of file thesis outline.aux
+White space in argument---line 564 of file thesis outline.aux
  : \citation{Urbani
  :                  razvoj u Srbiji Ministry of Space 2014}
 I'm skipping whatever remains of this command
-White space in argument---line 542 of file thesis outline.aux
+White space in argument---line 565 of file thesis outline.aux
  : \citation{Urbani
  :                  razvoj u Srbiji Ministry of Space 2014}
 I'm skipping whatever remains of this command
-White space in argument---line 543 of file thesis outline.aux
+White space in argument---line 566 of file thesis outline.aux
  : \citation{Novi
  :                evropski regionalizam 2}
 I'm skipping whatever remains of this command
-White space in argument---line 544 of file thesis outline.aux
+White space in argument---line 567 of file thesis outline.aux
  : \citation{Urbani
  :                  razvoj u Srbiji Ministry of Space 2014}
 I'm skipping whatever remains of this command
-White space in argument---line 545 of file thesis outline.aux
+White space in argument---line 568 of file thesis outline.aux
  : \citation{Vujosevic
  :                     2004 Belgrade Metropolitan Area Governance}
 I'm skipping whatever remains of this command
-White space in argument---line 546 of file thesis outline.aux
+White space in argument---line 569 of file thesis outline.aux
  : \citation{Urbani
  :                  razvoj u Srbiji Ministry of Space 2014}
 I'm skipping whatever remains of this command
-White space in argument---line 547 of file thesis outline.aux
+White space in argument---line 570 of file thesis outline.aux
  : \citation{Urbani
  :                  razvoj u Srbiji Ministry of Space 2014}
 I'm skipping whatever remains of this command
-White space in argument---line 548 of file thesis outline.aux
+White space in argument---line 571 of file thesis outline.aux
  : \citation{cenzolovka
  :                      tamara tekst}
 I'm skipping whatever remains of this command
-White space in argument---line 549 of file thesis outline.aux
+White space in argument---line 572 of file thesis outline.aux
  : \citation{Program
  :                   Savskkog amfiteatra 1}
 I'm skipping whatever remains of this command
-White space in argument---line 550 of file thesis outline.aux
+White space in argument---line 573 of file thesis outline.aux
  : \citation{Program
  :                   Savskkog amfiteatra 1}
 I'm skipping whatever remains of this command
-White space in argument---line 551 of file thesis outline.aux
+White space in argument---line 574 of file thesis outline.aux
  : \citation{Urbani
  :                  razvoj u Srbiji Ministry of Space 2014}
 I'm skipping whatever remains of this command
-White space in argument---line 552 of file thesis outline.aux
+White space in argument---line 575 of file thesis outline.aux
  : \citation{Cvetinovic
  :                      and Veselinovic 2012}
 I'm skipping whatever remains of this command
-White space in argument---line 553 of file thesis outline.aux
+White space in argument---line 576 of file thesis outline.aux
  : \citation{Urbani
  :                  razvoj u Srbiji Ministry of Space 2014}
 I'm skipping whatever remains of this command
-White space in argument---line 554 of file thesis outline.aux
+White space in argument---line 577 of file thesis outline.aux
  : \citation{(Cvetinovic
  :                       et al. 2013)}
 I'm skipping whatever remains of this command
-White space in argument---line 555 of file thesis outline.aux
+White space in argument---line 578 of file thesis outline.aux
  : \citation{ref
  :               Monocle,Gardian?}
 I'm skipping whatever remains of this command
-White space in argument---line 558 of file thesis outline.aux
+White space in argument---line 581 of file thesis outline.aux
  : \citation{add
  :               references from media sources archive}
 I'm skipping whatever remains of this command
-White space in argument---line 561 of file thesis outline.aux
- : \citation{Latour
- :                  2005}
-I'm skipping whatever remains of this command
-White space in argument---line 562 of file thesis outline.aux
- : \citation{Latour
- :                  2005}
-I'm skipping whatever remains of this command
-White space in argument---line 570 of file thesis outline.aux
- : \citation{Zekovic
- :                   and Maricic,2017 land market}
-I'm skipping whatever remains of this command
-White space in argument---line 571 of file thesis outline.aux
- : \citation{Latour
- :                  2005}
-I'm skipping whatever remains of this command
-White space in argument---line 576 of file thesis outline.aux
- : \citation{Alternativni
- :                        izvestaj}
-I'm skipping whatever remains of this command
-White space in argument---line 577 of file thesis outline.aux
- : \citation{alternativni
- :                        izvestaj}
-I'm skipping whatever remains of this command
-White space in argument---line 578 of file thesis outline.aux
- : \citation{Vujosevic
- :                     2012}
-I'm skipping whatever remains of this command
-White space in argument---line 579 of file thesis outline.aux
- : \citation{Vujovic
- :                   and Petrovic,2007}
-I'm skipping whatever remains of this command
-White space in argument---line 580 of file thesis outline.aux
- : \citation{Vujosevic
- :                     and Maricic,2012}
-I'm skipping whatever remains of this command
-White space in argument---line 581 of file thesis outline.aux
- : \citation{Djordjevic
- :                      and Dabovic,2009}
-I'm skipping whatever remains of this command
-White space in argument---line 582 of file thesis outline.aux
- : \citation{Zekovic
- :                   et al.,2016}
-I'm skipping whatever remains of this command
 White space in argument---line 584 of file thesis outline.aux
- : \citation{Vujovic
- :                   and Petrovic,2007}
+ : \citation{Latour
+ :                  2005}
 I'm skipping whatever remains of this command
 White space in argument---line 585 of file thesis outline.aux
- : \citation{Alternativni
- :                        izvestaj}
-I'm skipping whatever remains of this command
-White space in argument---line 586 of file thesis outline.aux
- : \citation{Vujosevic
- :                     2012}
-I'm skipping whatever remains of this command
-White space in argument---line 587 of file thesis outline.aux
- : \citation{Vujosevic
- :                     2012}
-I'm skipping whatever remains of this command
-White space in argument---line 588 of file thesis outline.aux
- : \citation{Samardzic
- :                     in Doytchinov 2015}
-I'm skipping whatever remains of this command
-White space in argument---line 589 of file thesis outline.aux
- : \citation{Vujosevic
- :                     2012}
-I'm skipping whatever remains of this command
-White space in argument---line 590 of file thesis outline.aux
- : \citation{Urbani
- :                  razvoj u Srbiji Ministry of Space 2014}
-I'm skipping whatever remains of this command
-White space in argument---line 591 of file thesis outline.aux
- : \citation{Table
- :                 RS}
-I'm skipping whatever remains of this command
-White space in argument---line 592 of file thesis outline.aux
  : \citation{Latour
  :                  2005}
 I'm skipping whatever remains of this command
 White space in argument---line 593 of file thesis outline.aux
+ : \citation{Zekovic
+ :                   and Maricic,2017 land market}
+I'm skipping whatever remains of this command
+White space in argument---line 594 of file thesis outline.aux
+ : \citation{Latour
+ :                  2005}
+I'm skipping whatever remains of this command
+White space in argument---line 599 of file thesis outline.aux
+ : \citation{Alternativni
+ :                        izvestaj}
+I'm skipping whatever remains of this command
+White space in argument---line 600 of file thesis outline.aux
+ : \citation{alternativni
+ :                        izvestaj}
+I'm skipping whatever remains of this command
+White space in argument---line 601 of file thesis outline.aux
+ : \citation{Vujosevic
+ :                     2012}
+I'm skipping whatever remains of this command
+White space in argument---line 602 of file thesis outline.aux
+ : \citation{Vujovic
+ :                   and Petrovic,2007}
+I'm skipping whatever remains of this command
+White space in argument---line 603 of file thesis outline.aux
+ : \citation{Vujosevic
+ :                     and Maricic,2012}
+I'm skipping whatever remains of this command
+White space in argument---line 604 of file thesis outline.aux
+ : \citation{Djordjevic
+ :                      and Dabovic,2009}
+I'm skipping whatever remains of this command
+White space in argument---line 605 of file thesis outline.aux
+ : \citation{Zekovic
+ :                   et al.,2016}
+I'm skipping whatever remains of this command
+White space in argument---line 607 of file thesis outline.aux
+ : \citation{Vujovic
+ :                   and Petrovic,2007}
+I'm skipping whatever remains of this command
+White space in argument---line 608 of file thesis outline.aux
+ : \citation{Alternativni
+ :                        izvestaj}
+I'm skipping whatever remains of this command
+White space in argument---line 609 of file thesis outline.aux
+ : \citation{Vujosevic
+ :                     2012}
+I'm skipping whatever remains of this command
+White space in argument---line 610 of file thesis outline.aux
+ : \citation{Vujosevic
+ :                     2012}
+I'm skipping whatever remains of this command
+White space in argument---line 611 of file thesis outline.aux
+ : \citation{Samardzic
+ :                     in Doytchinov 2015}
+I'm skipping whatever remains of this command
+White space in argument---line 612 of file thesis outline.aux
+ : \citation{Vujosevic
+ :                     2012}
+I'm skipping whatever remains of this command
+White space in argument---line 613 of file thesis outline.aux
+ : \citation{Urbani
+ :                  razvoj u Srbiji Ministry of Space 2014}
+I'm skipping whatever remains of this command
+White space in argument---line 614 of file thesis outline.aux
+ : \citation{Table
+ :                 RS}
+I'm skipping whatever remains of this command
+White space in argument---line 615 of file thesis outline.aux
+ : \citation{Latour
+ :                  2005}
+I'm skipping whatever remains of this command
+White space in argument---line 616 of file thesis outline.aux
  : \citation{Mathur
  :                  et al. 2007}
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys healey_collaborative_1997 and Healey_Collaborative_1997
----line 606 of file thesis outline.aux
+---line 629 of file thesis outline.aux
  : \citation{healey_collaborative_1997
  :                                    }
 I'm skipping whatever remains of this command
-White space in argument---line 628 of file thesis outline.aux
+White space in argument---line 651 of file thesis outline.aux
  : \citation{B92
  :               2015}
 I'm skipping whatever remains of this command
-White space in argument---line 647 of file thesis outline.aux
+White space in argument---line 670 of file thesis outline.aux
  : \citation{ref
  :               Vujosevic}
 I'm skipping whatever remains of this command
-White space in argument---line 648 of file thesis outline.aux
+White space in argument---line 671 of file thesis outline.aux
  : \citation{(check
  :                  ref web The Game of Savamala and XXXX,Mikser Festival 2014)}
 I'm skipping whatever remains of this command
-White space in argument---line 651 of file thesis outline.aux
+White space in argument---line 674 of file thesis outline.aux
  : \citation{ref
  :               media}
 I'm skipping whatever remains of this command
-White space in argument---line 668 of file thesis outline.aux
+White space in argument---line 691 of file thesis outline.aux
  : \citation{Nemanja
  :                   Petrovic project}
 I'm skipping whatever remains of this command
-White space in argument---line 669 of file thesis outline.aux
+White space in argument---line 692 of file thesis outline.aux
  : \citation{ref
  :               studies}
 I'm skipping whatever remains of this command
-White space in argument---line 670 of file thesis outline.aux
+White space in argument---line 693 of file thesis outline.aux
  : \citation{UZ
  :              Integrated Development plan}
 I'm skipping whatever remains of this command
-White space in argument---line 691 of file thesis outline.aux
+White space in argument---line 714 of file thesis outline.aux
  : \citation{ref
  :               doks}
 I'm skipping whatever remains of this command
-White space in argument---line 692 of file thesis outline.aux
+White space in argument---line 715 of file thesis outline.aux
  : \citation{imena
  :                 and ref}
 I'm skipping whatever remains of this command
-White space in argument---line 693 of file thesis outline.aux
+White space in argument---line 716 of file thesis outline.aux
  : \citation{ref
  :               Gardian}
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys peric_evolution_2016 and Peric_evolution_2016
----line 706 of file thesis outline.aux
+---line 729 of file thesis outline.aux
  : \citation{peric_evolution_2016
  :                               }
 I'm skipping whatever remains of this command
-White space in argument---line 709 of file thesis outline.aux
+White space in argument---line 732 of file thesis outline.aux
  : \citation{NDVBGD
  :                  website}
 I'm skipping whatever remains of this command
-White space in argument---line 712 of file thesis outline.aux
+White space in argument---line 735 of file thesis outline.aux
  : \citation{Architecture-Goethe
  :                               institute website}
 I'm skipping whatever remains of this command
-White space in argument---line 714 of file thesis outline.aux
+White space in argument---line 737 of file thesis outline.aux
  : \citation{British
  :                   council}
 I'm skipping whatever remains of this command
-White space in argument---line 715 of file thesis outline.aux
+White space in argument---line 738 of file thesis outline.aux
  : \citation{Urban
  :                 places public spaces}
 I'm skipping whatever remains of this command
-White space in argument---line 718 of file thesis outline.aux
+White space in argument---line 741 of file thesis outline.aux
  : \citation{British
  :                   council}
 I'm skipping whatever remains of this command
-White space in argument---line 725 of file thesis outline.aux
+White space in argument---line 748 of file thesis outline.aux
  : \citation{ref
  :               media all different}
 I'm skipping whatever remains of this command
-White space in argument---line 728 of file thesis outline.aux
+White space in argument---line 751 of file thesis outline.aux
  : \citation{Zekovic
  :                   all ref}
 I'm skipping whatever remains of this command
-White space in argument---line 729 of file thesis outline.aux
+White space in argument---line 752 of file thesis outline.aux
  : \citation{ref
  :               media}
 I'm skipping whatever remains of this command
-White space in argument---line 730 of file thesis outline.aux
+White space in argument---line 753 of file thesis outline.aux
  : \citation{ref
  :               slavka smederevo}
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys harvey_rebel_2012 and Harvey_rebel_2012
----line 732 of file thesis outline.aux
+---line 755 of file thesis outline.aux
  : \citation{harvey_rebel_2012
  :                            }
 I'm skipping whatever remains of this command
-White space in argument---line 733 of file thesis outline.aux
+White space in argument---line 756 of file thesis outline.aux
  : \citation{Hoyle
  :                 2000}
 I'm skipping whatever remains of this command
-White space in argument---line 736 of file thesis outline.aux
+White space in argument---line 759 of file thesis outline.aux
  : \citation{JVA
  :               BWP,2015}
 I'm skipping whatever remains of this command
-White space in argument---line 739 of file thesis outline.aux
+White space in argument---line 762 of file thesis outline.aux
  : \citation{Kennedy
  :                   et al.,2014}
 I'm skipping whatever remains of this command
-White space in argument---line 741 of file thesis outline.aux
+White space in argument---line 764 of file thesis outline.aux
  : \citation{Flyvbjerg
  :                     et al. 2003}
 I'm skipping whatever remains of this command
-White space in argument---line 758 of file thesis outline.aux
+White space in argument---line 781 of file thesis outline.aux
  : \citation{ref(NDVBG
  :                     docs)}
 I'm skipping whatever remains of this command
-White space in argument---line 766 of file thesis outline.aux
+White space in argument---line 789 of file thesis outline.aux
  : \citation{ref
  :               media}
 I'm skipping whatever remains of this command
-White space in argument---line 767 of file thesis outline.aux
+White space in argument---line 790 of file thesis outline.aux
  : \citation{ref
  :               media}
 I'm skipping whatever remains of this command
-White space in argument---line 774 of file thesis outline.aux
+White space in argument---line 797 of file thesis outline.aux
  : \citation{Daniels
  :                   2012???}
 I'm skipping whatever remains of this command
-White space in argument---line 775 of file thesis outline.aux
+White space in argument---line 798 of file thesis outline.aux
  : \citation{ref
  :               media}
 I'm skipping whatever remains of this command
-White space in argument---line 776 of file thesis outline.aux
+White space in argument---line 799 of file thesis outline.aux
  : \citation{ref
  :               media}
 I'm skipping whatever remains of this command
-White space in argument---line 777 of file thesis outline.aux
+White space in argument---line 800 of file thesis outline.aux
  : \citation{ref
  :               media and documents NDVBGD}
 I'm skipping whatever remains of this command
-White space in argument---line 779 of file thesis outline.aux
+White space in argument---line 802 of file thesis outline.aux
  : \citation{NDVBGD
  :                  analiza ugovora dokument????}
 I'm skipping whatever remains of this command
-White space in argument---line 786 of file thesis outline.aux
+White space in argument---line 809 of file thesis outline.aux
  : \citation{ref
  :               media}
 I'm skipping whatever remains of this command
-White space in argument---line 787 of file thesis outline.aux
+White space in argument---line 810 of file thesis outline.aux
  : \citation{ref
  :               media}
 I'm skipping whatever remains of this command
-White space in argument---line 791 of file thesis outline.aux
+White space in argument---line 814 of file thesis outline.aux
  : \citation{(Politika,13.
  :                         mart 2014)}
 I'm skipping whatever remains of this command
-White space in argument---line 792 of file thesis outline.aux
+White space in argument---line 815 of file thesis outline.aux
  : \citation{ref
  :               Vreme Djilas}
 I'm skipping whatever remains of this command
-White space in argument---line 799 of file thesis outline.aux
+White space in argument---line 822 of file thesis outline.aux
  : \citation{NDVBGD
  :                  analiza ugovora dokument????}
 I'm skipping whatever remains of this command
-White space in argument---line 804 of file thesis outline.aux
+White space in argument---line 827 of file thesis outline.aux
  : \citation{Zekovic
  :                   ??}
 I'm skipping whatever remains of this command
-White space in argument---line 812 of file thesis outline.aux
+White space in argument---line 835 of file thesis outline.aux
  : \citation{Boisiere,1981
  :                         ????}
 I'm skipping whatever remains of this command
-White space in argument---line 813 of file thesis outline.aux
+White space in argument---line 836 of file thesis outline.aux
  : \citation{NSSD;
  :                 BUDS; check cultural heritage works}
 I'm skipping whatever remains of this command
-White space in argument---line 818 of file thesis outline.aux
+White space in argument---line 841 of file thesis outline.aux
  : \citation{(Davoudi)
  :                     from Peric ????}
 I'm skipping whatever remains of this command
-White space in argument---line 830 of file thesis outline.aux
+White space in argument---line 853 of file thesis outline.aux
  : \citation{Alexander
  :                     and Faludi 1989 ?????}
 I'm skipping whatever remains of this command
-White space in argument---line 841 of file thesis outline.aux
+White space in argument---line 864 of file thesis outline.aux
  : \citation{Sears
  :                 2008}
 I'm skipping whatever remains of this command
-White space in argument---line 846 of file thesis outline.aux
+White space in argument---line 869 of file thesis outline.aux
  : \citation{Thomas
  :                  1998}
 I'm skipping whatever remains of this command
-White space in argument---line 848 of file thesis outline.aux
+White space in argument---line 871 of file thesis outline.aux
  : \citation{Volic
  :                 et al. 2012}
 I'm skipping whatever remains of this command
-White space in argument---line 851 of file thesis outline.aux
+White space in argument---line 874 of file thesis outline.aux
  : \citation{Latour
  :                  2005}
 I'm skipping whatever remains of this command
-White space in argument---line 852 of file thesis outline.aux
+White space in argument---line 875 of file thesis outline.aux
  : \citation{Collins
  :                   and Yearley 1992}
 I'm skipping whatever remains of this command
-White space in argument---line 853 of file thesis outline.aux
+White space in argument---line 876 of file thesis outline.aux
  : \citation{Czarniawska
  :                       1997}
 I'm skipping whatever remains of this command
-White space in argument---line 854 of file thesis outline.aux
+White space in argument---line 877 of file thesis outline.aux
  : \citation{Whittle
  :                   and Spicer 2008}
 I'm skipping whatever remains of this command
-White space in argument---line 855 of file thesis outline.aux
+White space in argument---line 878 of file thesis outline.aux
  : \citation{Marshall
  :                    and Staeheli 2015}
 I'm skipping whatever remains of this command
-White space in argument---line 856 of file thesis outline.aux
+White space in argument---line 879 of file thesis outline.aux
  : \citation{Rose
  :                1997}
 I'm skipping whatever remains of this command
-White space in argument---line 857 of file thesis outline.aux
+White space in argument---line 880 of file thesis outline.aux
  : \citation{Ruming
  :                  2009}
 I'm skipping whatever remains of this command
-White space in argument---line 858 of file thesis outline.aux
+White space in argument---line 881 of file thesis outline.aux
  : \citation{Lee
  :               and Brown 1994}
 I'm skipping whatever remains of this command
-White space in argument---line 859 of file thesis outline.aux
+White space in argument---line 882 of file thesis outline.aux
  : \citation{Lee
  :               and Brown 1994}
 I'm skipping whatever remains of this command
-White space in argument---line 860 of file thesis outline.aux
+White space in argument---line 883 of file thesis outline.aux
  : \citation{Gad
  :               and Jensen 2010}
 I'm skipping whatever remains of this command
-White space in argument---line 861 of file thesis outline.aux
+White space in argument---line 884 of file thesis outline.aux
  : \citation{Gabriel
  :                   and Jacobs 2008}
 I'm skipping whatever remains of this command
-White space in argument---line 863 of file thesis outline.aux
+White space in argument---line 886 of file thesis outline.aux
  : \citation{Huang
  :                 2012}
 I'm skipping whatever remains of this command
@@ -1394,6 +1399,10 @@ Repeated entry---line 243 of file bibliography/CH2_decisionmaking_urbanplanning.
  : @book{healey_collaborative_1997
  :                                ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 288 of file bibliography/CH2_decisionmaking_urbanplanning.bib
+ : @article{van_assche_co-evolutions_2013
+ :                                       ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 307 of file bibliography/CH2_decisionmaking_urbanplanning.bib
  : @book{giddens_consequences_1992
  :                                ,
@@ -1402,6 +1411,10 @@ Database file #8: bibliography/CH2_decisionmaking_realestate.bib
 Repeated entry---line 2 of file bibliography/CH2_decisionmaking_realestate.bib
  : @article{bolay_urban_2005
  :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 21 of file bibliography/CH2_decisionmaking_realestate.bib
+ : @article{mouffe_which_2002
+ :                           ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 33 of file bibliography/CH2_decisionmaking_realestate.bib
  : @book{harvey_rebel_2012
@@ -1426,6 +1439,59 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 183 of file bibliography/CH2_decisionmaking_realestate.bib
  : @article{chiodelli_corruption_2015
  :                                   ,
+I'm skipping whatever remains of this entry
+Database file #9: bibliography/CH2_decisionmaking_participation.bib
+Repeated entry---line 2 of file bibliography/CH2_decisionmaking_participation.bib
+ : @book{fisher_building_2001
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11 of file bibliography/CH2_decisionmaking_participation.bib
+ : @article{bolay_urban_2005
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 106 of file bibliography/CH2_decisionmaking_participation.bib
+ : @book{ostrom_governing_1995
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 175 of file bibliography/CH2_decisionmaking_participation.bib
+ : @book{putnam_making_1993
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 185 of file bibliography/CH2_decisionmaking_participation.bib
+ : @article{bolay_planning_1996
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 258 of file bibliography/CH2_decisionmaking_participation.bib
+ : @book{harvey_condition_2003
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 316 of file bibliography/CH2_decisionmaking_participation.bib
+ : @inproceedings{rode_city_2006
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 326 of file bibliography/CH2_decisionmaking_participation.bib
+ : @book{tonkiss_cities_2014
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 448 of file bibliography/CH2_decisionmaking_participation.bib
+ : @article{arnstein_ladder_1969
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 475 of file bibliography/CH2_decisionmaking_participation.bib
+ : @article{coleman_social_1988
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 519 of file bibliography/CH2_decisionmaking_participation.bib
+ : @article{lehrer_old_2008
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 554 of file bibliography/CH2_decisionmaking_participation.bib
+ : @article{van_assche_co-evolutions_2013
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 573 of file bibliography/CH2_decisionmaking_participation.bib
+ : @article{mouffe_which_2002
+ :                           ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Bolay2006"
 Warning--I didn't find a database entry for "BolayAndKern2012"
@@ -1514,7 +1580,6 @@ Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "(Dear_Urbanization_1981"
 Warning--I didn't find a database entry for "Flyvbjerg"
 Warning--I didn't find a database entry for "1998"
-Warning--I didn't find a database entry for "Van_Co-evolutions_2013"
 Warning--I didn't find a database entry for "Lazarevic_Rational_2009"
 Warning--I didn't find a database entry for "alexander_XXX_2002"
 Warning--I didn't find a database entry for "campbel_XXX_2012"
@@ -1524,6 +1589,12 @@ Warning--I didn't find a database entry for "kaufmann_XXX_1997"
 Warning--I didn't find a database entry for "Tanzi_XXXXX"
 Warning--I didn't find a database entry for "begovic_xxx_2001"
 Warning--I didn't find a database entry for "Farnstein_Just_2010"
+Warning--I didn't find a database entry for "UN_building_2009"
+Warning--I didn't find a database entry for "scharpf_XXX_1997"
+Warning--I didn't find a database entry for "lindner_XXXX_2009"
+Warning--I didn't find a database entry for "zukin_culture_1995"
+Warning--I didn't find a database entry for "lloyd_XXX_2006"
+Warning--I didn't find a database entry for "basett_XXXX_1993"
 Warning--I didn't find a database entry for "(Feagin"
 Warning--I didn't find a database entry for "Robson"
 Warning--I didn't find a database entry for "1993"
@@ -1610,6 +1681,8 @@ Warning--I didn't find a database entry for "Savic2014"
 Warning--I didn't find a database entry for "VolicEtAl.2012"
 Warning--I didn't find a database entry for "????"
 Warning--I didn't find a database entry for "(VujosevicEtAl.2015"
+Warning--no key, author in lydon_tactical_2012
+Warning--to sort, need author or key in lydon_tactical_2012
 Warning--no key, author in factories_micro_2013
 Warning--no author, editor, or organization in factories_micro_2013
 Warning--to sort, need author or key in factories_micro_2013
@@ -1619,10 +1692,21 @@ Warning--no key, author in factories_micro_2013
 Warning--no author, editor, or organization in factories_micro_2013
 Warning--no key, author in factories_micro_2013
 Warning--no author, editor, or organization in factories_micro_2013
+Warning--no key, author in lydon_tactical_2012
+Warning--no key, author in lydon_tactical_2012
+Warning--no key, author in lydon_tactical_2012
+Warning--empty author in lydon_tactical_2012
+Warning--no journal in lydon_tactical_2012
+Warning--no number and no volume in lydon_tactical_2012
+Warning--page numbers missing in lydon_tactical_2012
 Warning--no key, author in factories_micro_2013
 Warning--no author, editor, or organization in factories_micro_2013
 Warning--no number and no volume in belic_parobrod_2014
 Warning--page numbers missing in belic_parobrod_2014
+Warning--no number and no volume in bolay_planning_1996
+Warning--page numbers missing in bolay_planning_1996
+Warning--no number and no volume in bolay_urban_2004
+Warning--page numbers missing in bolay_urban_2004
 Warning--empty booktitle in cvetinovic_engine_2013
 Warning--empty publisher in de_holanda_exceptional_2011
 Warning--no number and no volume in eror_belgrades_2015
@@ -1657,4 +1741,4 @@ Warning--empty publisher in Vujosevic_Regionalizam_2015
 Warning--no number and no volume in wright_belgrade_2015
 Warning--page numbers missing in wright_belgrade_2015
 Warning--no volume for zekovic_planning_2015
-(There were 353 error messages)
+(There were 369 error messages)
