@@ -30,15 +30,15 @@
 \contentsline {subsubsection}{Traces of Participation}{39}{section*.10}
 \contentsline {subsubsection}{Urban Decision-making Layers}{41}{section*.11}
 \contentsline {subsection}{\numberline {2.1.5}How to frame urbanity to grasp system dynamics}{41}{subsection.2.1.5}
-\contentsline {paragraph}{Contextual resources}{44}{section*.12}
+\contentsline {paragraph}{Contextual resources}{45}{section*.12}
 \contentsline {paragraph}{Urban Practices vs Urban Conflicts}{45}{section*.13}
 \contentsline {paragraph}{Urban System Transitions}{46}{section*.14}
 \contentsline {section}{\numberline {2.2}Epistemological Framework}{47}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}ANT in analysis of urban development}{48}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Multi-Agent System for Process Simulation}{50}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Local framework}{52}{section.2.3}
+\contentsline {subsection}{\numberline {2.2.2}Multi-Agent System for Process Simulation}{51}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Local framework}{53}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Socio-spatial Patterns of Post-socialist Cities}{53}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Post-socialist Urban Planning in Belgrade}{55}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}Post-socialist Urban Planning in Belgrade}{56}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}Neighbourhood is the Local Unit}{58}{subsection.2.3.3}
 \contentsline {section}{\numberline {2.4}Theoretical Framework}{59}{section.2.4}
 \contentsline {chapter}{\numberline {3}Methodology}{61}{chapter.3}
