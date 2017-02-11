@@ -41,19 +41,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-/thesis outline.toc
-/thesis outline.aux
-/thesis outline.bbl
-/thesis outline.blg
-/thesis outline.dvi
-/thesis outline.lof
-/thesis outline.log
-/thesis outline.lot
-/thesis outline.out
-/thesis outline.soc
-/thesis outline.synctex.gz
-/thesis outline.tex.bak
-/*.pdf
-/*.pdf
-/thesis outline.pdf
-/thesis outline.pdf
+*.toc
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.lof
+*.log
+*.lot
+*.out
+*.soc
+*.synctex.gz
+*.tex.bak
+*.pdf
